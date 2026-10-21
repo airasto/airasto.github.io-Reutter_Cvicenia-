@@ -1,0 +1,301 @@
+﻿Dátum;Týždeň;Lis;Zmena;Plánovaný čas min;Kategória prestoja;Popis prestoja;Prestoj min;Ideálny cyklus s;Počet kavít;Vyrobené ks;Dobré ks
+31.08.2026;36;L03;A;480;Bez prestoja;;0;24,0;4;4253;4186
+31.08.2026;36;L03;B;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;42;24,0;4;3770;3693
+31.08.2026;36;L03;C;480;Bez prestoja;;0;24,0;4;4552;4500
+31.08.2026;36;L05;A;480;Bez prestoja;;0;28,0;4;3590;3511
+31.08.2026;36;L05;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;65;28,0;4;3368;3333
+31.08.2026;36;L05;C;480;Porucha robota;Robot odoberania stratil pozíciu;24;28,0;4;3629;3555
+31.08.2026;36;L07;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;46;26,0;4;3632;3598
+31.08.2026;36;L07;B;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;16;26,0;4;3698;3653
+31.08.2026;36;L07;C;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;35;26,0;4;3839;3807
+31.08.2026;36;L09;A;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;21;22,0;4;4475;4397
+31.08.2026;36;L09;B;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;17;22,0;4;4578;4498
+31.08.2026;36;L09;C;480;Bez prestoja;;0;22,0;4;4746;4660
+01.09.2026;36;L03;A;480;Bez prestoja;;0;24,0;4;4338;4271
+01.09.2026;36;L03;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;18;24,0;4;4156;4071
+01.09.2026;36;L03;C;480;Porucha robota;Robot odoberania stratil pozíciu;19;24,0;4;4042;3970
+01.09.2026;36;L05;A;480;Bez prestoja;;0;28,0;4;3582;3508
+01.09.2026;36;L05;B;480;Bez prestoja;;0;28,0;4;3804;3745
+01.09.2026;36;L05;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;90;28,0;4;3069;3017
+01.09.2026;36;L07;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;45;26,0;4;3501;3449
+01.09.2026;36;L07;B;480;Bez prestoja;;0;26,0;4;3869;3785
+01.09.2026;36;L07;C;480;Bez prestoja;;0;26,0;4;4016;3948
+01.09.2026;36;L09;A;480;Bez prestoja;;0;22,0;4;4803;4767
+01.09.2026;36;L09;B;480;Bez prestoja;;0;22,0;4;4890;4860
+01.09.2026;36;L09;C;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;40;22,0;4;4502;4404
+02.09.2026;36;L03;A;480;Bez prestoja;;0;24,0;4;4387;4347
+02.09.2026;36;L03;B;480;Bez prestoja;;0;24,0;4;4206;4156
+02.09.2026;36;L03;C;480;Plánovaná údržba;Preventívna údržba podľa plánu;31;24,0;4;4234;4178
+02.09.2026;36;L05;A;480;Porucha robota;Robot odoberania stratil pozíciu;18;28,0;4;3444;3371
+02.09.2026;36;L05;B;480;Bez prestoja;;0;28,0;4;3725;3663
+02.09.2026;36;L05;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;100;28,0;4;3065;3025
+02.09.2026;36;L07;A;480;Bez prestoja;;0;26,0;4;4022;3981
+02.09.2026;36;L07;B;480;Plánovaná údržba;Preventívna údržba podľa plánu;67;26,0;4;3485;3455
+02.09.2026;36;L07;C;480;Bez prestoja;;0;26,0;4;4119;4069
+02.09.2026;36;L09;A;480;Porucha robota;Robot odoberania stratil pozíciu;12;22,0;4;4711;4633
+02.09.2026;36;L09;B;480;Bez prestoja;;0;22,0;4;4730;4684
+02.09.2026;36;L09;C;480;Porucha temperovacieho zariadenia;Prehriatie temperovacieho okruhu;68;22,0;4;4173;4126
+03.09.2026;36;L03;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;55;24,0;4;3947;3920
+03.09.2026;36;L03;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;44;24,0;4;3909;3826
+03.09.2026;36;L03;C;480;Bez prestoja;;0;24,0;4;4469;4408
+03.09.2026;36;L05;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;46;28,0;4;3429;3364
+03.09.2026;36;L05;B;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;48;28,0;4;3271;3224
+03.09.2026;36;L05;C;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;53;28,0;4;3278;3209
+03.09.2026;36;L07;A;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;21;26,0;4;3784;3731
+03.09.2026;36;L07;B;480;Porucha robota;Robot odoberania stratil pozíciu;32;26,0;4;3844;3778
+03.09.2026;36;L07;C;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;18;26,0;4;3954;3890
+03.09.2026;36;L09;A;480;Bez prestoja;;0;22,0;4;4579;4484
+03.09.2026;36;L09;B;480;Porucha robota;Robot odoberania stratil pozíciu;45;22,0;4;4343;4293
+03.09.2026;36;L09;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;50;22,0;4;4036;3942
+04.09.2026;36;L03;A;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;28;24,0;4;3923;3845
+04.09.2026;36;L03;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;56;24,0;4;3793;3772
+04.09.2026;36;L03;C;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;55;24,0;4;4023;3927
+04.09.2026;36;L05;A;480;Bez prestoja;;0;28,0;4;3603;3548
+04.09.2026;36;L05;B;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;31;28,0;4;3408;3325
+04.09.2026;36;L05;C;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;24;28,0;4;3577;3535
+04.09.2026;36;L07;A;480;Plánovaná údržba;Preventívna údržba podľa plánu;20;26,0;4;3684;3612
+04.09.2026;36;L07;B;480;Plánovaná údržba;Preventívna údržba podľa plánu;35;26,0;4;3749;3694
+04.09.2026;36;L07;C;480;Bez prestoja;;0;26,0;4;3837;3747
+04.09.2026;36;L09;A;480;Porucha temperovacieho zariadenia;Prehriatie temperovacieho okruhu;68;22,0;4;4101;4026
+04.09.2026;36;L09;B;480;Bez prestoja;;0;22,0;4;4609;4582
+04.09.2026;36;L09;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;10;22,0;4;4529;4452
+07.09.2026;37;L03;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;49;24,0;4;3838;3751
+07.09.2026;37;L03;B;480;Porucha robota;Robot odoberania stratil pozíciu;44;24,0;4;4068;4013
+07.09.2026;37;L03;C;480;Bez prestoja;;0;24,0;4;4545;4482
+07.09.2026;37;L05;A;480;Bez prestoja;;0;28,0;4;3818;3795
+07.09.2026;37;L05;B;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;47;28,0;4;3479;3425
+07.09.2026;37;L05;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;60;28,0;4;3418;3378
+07.09.2026;37;L07;A;480;Porucha robota;Robot odoberania stratil pozíciu;32;26,0;4;3748;3655
+07.09.2026;37;L07;B;480;Bez prestoja;;0;26,0;4;3909;3818
+07.09.2026;37;L07;C;480;Bez prestoja;;0;26,0;4;4137;4039
+07.09.2026;37;L09;A;480;Bez prestoja;;0;22,0;4;4727;4642
+07.09.2026;37;L09;B;480;Bez prestoja;;0;22,0;4;4630;4601
+07.09.2026;37;L09;C;480;Bez prestoja;;0;22,0;4;4932;4857
+08.09.2026;37;L03;A;480;Plánovaná údržba;Preventívna údržba podľa plánu;65;24,0;4;3668;3593
+08.09.2026;37;L03;B;480;Bez prestoja;;0;24,0;4;4489;4408
+08.09.2026;37;L03;C;480;Bez prestoja;;0;24,0;4;4179;4081
+08.09.2026;37;L05;A;480;Bez prestoja;;0;28,0;4;3720;3627
+08.09.2026;37;L05;B;480;Bez prestoja;;0;28,0;4;3893;3861
+08.09.2026;37;L05;C;480;Porucha robota;Robot odoberania stratil pozíciu;67;28,0;4;3358;3334
+08.09.2026;37;L07;A;480;Bez prestoja;;0;26,0;4;4006;3984
+08.09.2026;37;L07;B;480;Bez prestoja;;0;26,0;4;3922;3841
+08.09.2026;37;L07;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;110;26,0;4;3067;3047
+08.09.2026;37;L09;A;480;Porucha robota;Robot odoberania stratil pozíciu;65;22,0;4;4173;4083
+08.09.2026;37;L09;B;480;Bez prestoja;;0;22,0;4;4832;4755
+08.09.2026;37;L09;C;480;Bez prestoja;;0;22,0;4;4508;4414
+09.09.2026;37;L03;A;480;Porucha robota;Robot odoberania stratil pozíciu;49;24,0;4;4040;3954
+09.09.2026;37;L03;B;480;Porucha robota;Robot odoberania stratil pozíciu;49;24,0;4;3839;3757
+09.09.2026;37;L03;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;58;24,0;4;3770;3740
+09.09.2026;37;L05;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;44;28,0;4;3543;3503
+09.09.2026;37;L05;B;480;Bez prestoja;;0;28,0;4;3805;3771
+09.09.2026;37;L05;C;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;21;28,0;4;3435;3415
+09.09.2026;37;L07;A;480;Porucha temperovacieho zariadenia;Prehriatie temperovacieho okruhu;21;26,0;4;3804;3719
+09.09.2026;37;L07;B;480;Bez prestoja;;0;26,0;4;4061;4002
+09.09.2026;37;L07;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;26;26,0;4;3816;3763
+09.09.2026;37;L09;A;480;Plánovaná údržba;Preventívna údržba podľa plánu;13;22,0;4;4480;4390
+09.09.2026;37;L09;B;480;Bez prestoja;;0;22,0;4;4548;4502
+09.09.2026;37;L09;C;480;Porucha robota;Robot odoberania stratil pozíciu;45;22,0;4;4479;4390
+10.09.2026;37;L03;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;46;24,0;4;3957;3909
+10.09.2026;37;L03;B;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;24;24,0;4;4067;4020
+10.09.2026;37;L03;C;480;Plánovaná údržba;Preventívna údržba podľa plánu;66;24,0;4;3589;3543
+10.09.2026;37;L05;A;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;20;28,0;4;3618;3594
+10.09.2026;37;L05;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;35;28,0;4;3571;3486
+10.09.2026;37;L05;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;95;28,0;4;3031;2998
+10.09.2026;37;L07;A;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;66;26,0;4;3439;3412
+10.09.2026;37;L07;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;38;26,0;4;3660;3581
+10.09.2026;37;L07;C;480;Plánovaná údržba;Preventívna údržba podľa plánu;52;26,0;4;3487;3451
+10.09.2026;37;L09;A;480;Bez prestoja;;0;22,0;4;4602;4523
+10.09.2026;37;L09;B;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;30;22,0;4;4464;4354
+10.09.2026;37;L09;C;480;Porucha temperovacieho zariadenia;Prehriatie temperovacieho okruhu;15;22,0;4;4409;4353
+11.09.2026;37;L03;A;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;27;24,0;4;4021;3940
+11.09.2026;37;L03;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;18;24,0;4;4192;4101
+11.09.2026;37;L03;C;480;Porucha robota;Robot odoberania stratil pozíciu;68;24,0;4;3663;3606
+11.09.2026;37;L05;A;480;Bez prestoja;;0;28,0;4;3738;3664
+11.09.2026;37;L05;B;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;32;28,0;4;3363;3319
+11.09.2026;37;L05;C;480;Bez prestoja;;0;28,0;4;3773;3721
+11.09.2026;37;L07;A;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;29;26,0;4;3920;3859
+11.09.2026;37;L07;B;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;49;26,0;4;3552;3481
+11.09.2026;37;L07;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;109;26,0;4;3206;3147
+11.09.2026;37;L09;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;55;22,0;4;4382;4314
+11.09.2026;37;L09;B;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;28;22,0;4;4505;4464
+11.09.2026;37;L09;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;102;22,0;4;3708;3633
+14.09.2026;38;L03;A;480;Bez prestoja;;0;24,0;4;3294;3226
+14.09.2026;38;L03;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;43;24,0;4;3027;3000
+14.09.2026;38;L03;C;480;Bez prestoja;;0;24,0;4;3261;3232
+14.09.2026;38;L05;A;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;20;28,0;4;3439;3360
+14.09.2026;38;L05;B;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;54;28,0;4;3344;3272
+14.09.2026;38;L05;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;102;28,0;4;2792;2776
+14.09.2026;38;L07;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;54;26,0;4;3639;3564
+14.09.2026;38;L07;B;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;31;26,0;4;3721;3686
+14.09.2026;38;L07;C;480;Porucha robota;Robot odoberania stratil pozíciu;54;26,0;4;3661;3593
+14.09.2026;38;L09;A;480;Bez prestoja;;0;22,0;4;4951;4832
+14.09.2026;38;L09;B;480;Bez prestoja;;0;22,0;4;4536;4465
+14.09.2026;38;L09;C;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;27;22,0;4;4618;4513
+15.09.2026;38;L03;A;480;Bez prestoja;;0;24,0;4;3272;3219
+15.09.2026;38;L03;B;480;Bez prestoja;;0;24,0;4;3152;3121
+15.09.2026;38;L03;C;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;30;24,0;4;3136;3116
+15.09.2026;38;L05;A;480;Plánovaná údržba;Preventívna údržba podľa plánu;57;28,0;4;3424;3374
+15.09.2026;38;L05;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;22;28,0;4;3503;3419
+15.09.2026;38;L05;C;480;Bez prestoja;;0;28,0;4;3898;3818
+15.09.2026;38;L07;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;48;26,0;4;3639;3576
+15.09.2026;38;L07;B;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;33;26,0;4;3839;3779
+15.09.2026;38;L07;C;480;Porucha robota;Robot odoberania stratil pozíciu;15;26,0;4;3787;3730
+15.09.2026;38;L09;A;480;Bez prestoja;;0;22,0;4;4662;4635
+15.09.2026;38;L09;B;480;Bez prestoja;;0;22,0;4;4531;4449
+15.09.2026;38;L09;C;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;16;22,0;4;4410;4320
+16.09.2026;38;L03;A;480;Bez prestoja;;0;24,0;4;3266;3236
+16.09.2026;38;L03;B;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;52;24,0;4;2699;2680
+16.09.2026;38;L03;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;28;24,0;4;2979;2938
+16.09.2026;38;L05;A;480;Porucha robota;Robot odoberania stratil pozíciu;39;28,0;4;3344;3316
+16.09.2026;38;L05;B;480;Bez prestoja;;0;28,0;4;3743;3654
+16.09.2026;38;L05;C;480;Porucha robota;Robot odoberania stratil pozíciu;26;28,0;4;3536;3479
+16.09.2026;38;L07;A;480;Bez prestoja;;0;26,0;4;4012;3970
+16.09.2026;38;L07;B;480;Bez prestoja;;0;26,0;4;4057;3985
+16.09.2026;38;L07;C;480;Bez prestoja;;0;26,0;4;3938;3844
+16.09.2026;38;L09;A;480;Bez prestoja;;0;22,0;4;4889;4785
+16.09.2026;38;L09;B;480;Bez prestoja;;0;22,0;4;4864;4757
+16.09.2026;38;L09;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;30;22,0;4;4270;4207
+17.09.2026;38;L03;A;480;Porucha temperovacieho zariadenia;Prehriatie temperovacieho okruhu;18;24,0;4;2875;2809
+17.09.2026;38;L03;B;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;52;24,0;4;2833;2801
+17.09.2026;38;L03;C;480;Porucha robota;Robot odoberania stratil pozíciu;48;24,0;4;2682;2664
+17.09.2026;38;L05;A;480;Bez prestoja;;0;28,0;4;3882;3849
+17.09.2026;38;L05;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;33;28,0;4;3487;3465
+17.09.2026;38;L05;C;480;Porucha robota;Robot odoberania stratil pozíciu;55;28,0;4;3151;3111
+17.09.2026;38;L07;A;480;Plánovaná údržba;Preventívna údržba podľa plánu;63;26,0;4;3415;3394
+17.09.2026;38;L07;B;480;Bez prestoja;;0;26,0;4;3849;3808
+17.09.2026;38;L07;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;101;26,0;4;3215;3171
+17.09.2026;38;L09;A;480;Bez prestoja;;0;22,0;4;4766;4700
+17.09.2026;38;L09;B;480;Bez prestoja;;0;22,0;4;4864;4798
+17.09.2026;38;L09;C;480;Bez prestoja;;0;22,0;4;4834;4754
+18.09.2026;38;L03;A;480;Porucha temperovacieho zariadenia;Prehriatie temperovacieho okruhu;45;24,0;4;2814;2752
+18.09.2026;38;L03;B;480;Bez prestoja;;0;24,0;4;3111;3052
+18.09.2026;38;L03;C;480;Bez prestoja;;0;24,0;4;3118;3087
+18.09.2026;38;L05;A;480;Plánovaná údržba;Preventívna údržba podľa plánu;48;28,0;4;3264;3218
+18.09.2026;38;L05;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;57;28,0;4;3201;3182
+18.09.2026;38;L05;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;56;28,0;4;3136;3075
+18.09.2026;38;L07;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;49;26,0;4;3423;3404
+18.09.2026;38;L07;B;480;Porucha robota;Robot odoberania stratil pozíciu;59;26,0;4;3629;3588
+18.09.2026;38;L07;C;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;45;26,0;4;3659;3609
+18.09.2026;38;L09;A;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;19;22,0;4;4387;4309
+18.09.2026;38;L09;B;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;49;22,0;4;4082;4012
+18.09.2026;38;L09;C;480;Bez prestoja;;0;22,0;4;4849;4797
+21.09.2026;39;L03;A;480;Bez prestoja;;0;24,0;4;4202;4166
+21.09.2026;39;L03;B;480;Bez prestoja;;0;24,0;4;4376;4346
+21.09.2026;39;L03;C;480;Porucha robota;Robot odoberania stratil pozíciu;56;24,0;4;3954;3885
+21.09.2026;39;L05;A;480;Bez prestoja;;0;28,0;4;3879;3807
+21.09.2026;39;L05;B;480;Bez prestoja;;0;28,0;4;3699;3675
+21.09.2026;39;L05;C;480;Porucha temperovacieho zariadenia;Prehriatie temperovacieho okruhu;57;28,0;4;3331;3287
+21.09.2026;39;L07;A;480;Porucha temperovacieho zariadenia;Prehriatie temperovacieho okruhu;34;26,0;4;3560;3508
+21.09.2026;39;L07;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;30;26,0;4;3760;3682
+21.09.2026;39;L07;C;480;Plánovaná údržba;Preventívna údržba podľa plánu;35;26,0;4;3891;3852
+21.09.2026;39;L09;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;53;22,0;4;4127;4056
+21.09.2026;39;L09;B;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;41;22,0;4;4354;4268
+21.09.2026;39;L09;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;54;22,0;4;4051;3960
+22.09.2026;39;L03;A;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;51;24,0;4;3909;3855
+22.09.2026;39;L03;B;480;Bez prestoja;;0;24,0;4;4354;4266
+22.09.2026;39;L03;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;53;24,0;4;4027;3933
+22.09.2026;39;L05;A;480;Bez prestoja;;0;28,0;4;3695;3628
+22.09.2026;39;L05;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;11;28,0;4;3735;3654
+22.09.2026;39;L05;C;480;Porucha temperovacieho zariadenia;Prehriatie temperovacieho okruhu;61;28,0;4;3231;3159
+22.09.2026;39;L07;A;480;Porucha temperovacieho zariadenia;Prehriatie temperovacieho okruhu;22;26,0;4;3896;3810
+22.09.2026;39;L07;B;480;Bez prestoja;;0;26,0;4;3844;3804
+22.09.2026;39;L07;C;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;19;26,0;4;3992;3957
+22.09.2026;39;L09;A;480;Plánovaná údržba;Preventívna údržba podľa plánu;17;22,0;4;4482;4412
+22.09.2026;39;L09;B;480;Porucha temperovacieho zariadenia;Prehriatie temperovacieho okruhu;23;22,0;4;4378;4314
+22.09.2026;39;L09;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;56;22,0;4;4390;4341
+23.09.2026;39;L03;A;480;Bez prestoja;;0;24,0;4;4290;4260
+23.09.2026;39;L03;B;480;Porucha robota;Robot odoberania stratil pozíciu;13;24,0;4;4135;4096
+23.09.2026;39;L03;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;105;24,0;4;3543;3459
+23.09.2026;39;L05;A;480;Bez prestoja;;0;28,0;4;3783;3757
+23.09.2026;39;L05;B;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;49;28,0;4;3465;3423
+23.09.2026;39;L05;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;55;28,0;4;3165;3105
+23.09.2026;39;L07;A;480;Bez prestoja;;0;26,0;4;4022;3936
+23.09.2026;39;L07;B;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;69;26,0;4;3505;3420
+23.09.2026;39;L07;C;480;Bez prestoja;;0;26,0;4;3932;3872
+23.09.2026;39;L09;A;480;Bez prestoja;;0;22,0;4;4511;4459
+23.09.2026;39;L09;B;480;Porucha robota;Robot odoberania stratil pozíciu;42;22,0;4;4227;4126
+23.09.2026;39;L09;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;62;22,0;4;4328;4301
+24.09.2026;39;L03;A;480;Bez prestoja;;0;24,0;4;4225;4148
+24.09.2026;39;L03;B;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;52;24,0;4;3881;3836
+24.09.2026;39;L03;C;480;Bez prestoja;;0;24,0;4;4424;4350
+24.09.2026;39;L05;A;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;29;28,0;4;3641;3573
+24.09.2026;39;L05;B;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;44;28,0;4;3409;3370
+24.09.2026;39;L05;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;107;28,0;4;2952;2909
+24.09.2026;39;L07;A;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;19;26,0;4;3910;3856
+24.09.2026;39;L07;B;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;43;26,0;4;3535;3505
+24.09.2026;39;L07;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;95;26,0;4;3337;3281
+24.09.2026;39;L09;A;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;69;22,0;4;4187;4135
+24.09.2026;39;L09;B;480;Bez prestoja;;0;22,0;4;4574;4476
+24.09.2026;39;L09;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;104;22,0;4;3755;3706
+25.09.2026;39;L03;A;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;24;24,0;4;4203;4128
+25.09.2026;39;L03;B;480;Bez prestoja;;0;24,0;4;4333;4268
+25.09.2026;39;L03;C;480;Plánovaná údržba;Preventívna údržba podľa plánu;33;24,0;4;3918;3850
+25.09.2026;39;L05;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;47;28,0;4;3202;3170
+25.09.2026;39;L05;B;480;Porucha robota;Robot odoberania stratil pozíciu;36;28,0;4;3349;3310
+25.09.2026;39;L05;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;90;28,0;4;3153;3136
+25.09.2026;39;L07;A;480;Bez prestoja;;0;26,0;4;4005;3930
+25.09.2026;39;L07;B;480;Porucha robota;Robot odoberania stratil pozíciu;35;26,0;4;3819;3769
+25.09.2026;39;L07;C;480;Bez prestoja;;0;26,0;4;4097;4026
+25.09.2026;39;L09;A;480;Bez prestoja;;0;22,0;4;4772;4703
+25.09.2026;39;L09;B;480;Bez prestoja;;0;22,0;4;4835;4717
+25.09.2026;39;L09;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;66;22,0;4;3901;3881
+28.09.2026;40;L03;A;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;57;24,0;4;3652;3588
+28.09.2026;40;L03;B;480;Bez prestoja;;0;24,0;4;4543;4446
+28.09.2026;40;L03;C;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;24;24,0;4;4110;4041
+28.09.2026;40;L05;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;56;28,0;4;3421;3367
+28.09.2026;40;L05;B;480;Bez prestoja;;0;28,0;4;3571;3517
+28.09.2026;40;L05;C;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;67;28,0;4;3266;3193
+28.09.2026;40;L07;A;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;21;26,0;4;3816;3789
+28.09.2026;40;L07;B;480;Bez prestoja;;0;26,0;4;4162;4065
+28.09.2026;40;L07;C;480;Plánovaná údržba;Preventívna údržba podľa plánu;55;26,0;4;3655;3616
+28.09.2026;40;L09;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;54;22,0;4;4261;4161
+28.09.2026;40;L09;B;480;Bez prestoja;;0;22,0;4;4845;4818
+28.09.2026;40;L09;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;102;22,0;4;3687;3651
+29.09.2026;40;L03;A;480;Bez prestoja;;0;24,0;4;4372;4320
+29.09.2026;40;L03;B;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;20;24,0;4;4274;4171
+29.09.2026;40;L03;C;480;Plánovaná údržba;Preventívna údržba podľa plánu;38;24,0;4;3916;3832
+29.09.2026;40;L05;A;480;Bez prestoja;;0;28,0;4;3893;3795
+29.09.2026;40;L05;B;480;Bez prestoja;;0;28,0;4;3542;3488
+29.09.2026;40;L05;C;480;Porucha temperovacieho zariadenia;Prehriatie temperovacieho okruhu;48;28,0;4;3478;3407
+29.09.2026;40;L07;A;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;36;26,0;4;3687;3639
+29.09.2026;40;L07;B;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;23;26,0;4;3863;3809
+29.09.2026;40;L07;C;480;Bez prestoja;;0;26,0;4;3829;3744
+29.09.2026;40;L09;A;480;Bez prestoja;;0;22,0;4;4520;4484
+29.09.2026;40;L09;B;480;Bez prestoja;;0;22,0;4;4898;4804
+29.09.2026;40;L09;C;480;Bez prestoja;;0;22,0;4;4526;4450
+30.09.2026;40;L03;A;480;Plánovaná údržba;Preventívna údržba podľa plánu;49;24,0;4;3962;3918
+30.09.2026;40;L03;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;39;24,0;4;4090;4017
+30.09.2026;40;L03;C;480;Porucha temperovacieho zariadenia;Prehriatie temperovacieho okruhu;30;24,0;4;4019;3948
+30.09.2026;40;L05;A;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;45;28,0;4;3228;3177
+30.09.2026;40;L05;B;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;25;28,0;4;3538;3486
+30.09.2026;40;L05;C;480;Bez prestoja;;0;28,0;4;3764;3678
+30.09.2026;40;L07;A;480;Bez prestoja;;0;26,0;4;4061;4039
+30.09.2026;40;L07;B;480;Plánovaná údržba;Preventívna údržba podľa plánu;69;26,0;4;3531;3492
+30.09.2026;40;L07;C;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;23;26,0;4;3827;3807
+30.09.2026;40;L09;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;55;22,0;4;4204;4152
+30.09.2026;40;L09;B;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;47;22,0;4;4363;4339
+30.09.2026;40;L09;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;105;22,0;4;3811;3771
+01.10.2026;40;L03;A;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;36;24,0;4;3983;3910
+01.10.2026;40;L03;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;10;24,0;4;4312;4263
+01.10.2026;40;L03;C;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;94;24,0;4;3495;3430
+01.10.2026;40;L05;A;480;Plánovaná údržba;Preventívna údržba podľa plánu;31;28,0;4;3446;3399
+01.10.2026;40;L05;B;480;Bez prestoja;;0;28,0;4;3846;3764
+01.10.2026;40;L05;C;480;Bez prestoja;;0;28,0;4;3879;3819
+01.10.2026;40;L07;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;44;26,0;4;3635;3589
+01.10.2026;40;L07;B;480;Bez prestoja;;0;26,0;4;4024;3950
+01.10.2026;40;L07;C;480;Bez prestoja;;0;26,0;4;3975;3934
+01.10.2026;40;L09;A;480;Bez prestoja;;0;22,0;4;4644;4595
+01.10.2026;40;L09;B;480;Čakanie na kvalitu;Čakanie na uvoľnenie prvého kusu;23;22,0;4;4546;4462
+01.10.2026;40;L09;C;480;Bez prestoja;;0;22,0;4;4878;4762
+02.10.2026;40;L03;A;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;25;24,0;4;4315;4261
+02.10.2026;40;L03;B;480;Bez prestoja;;0;24,0;4;4374;4298
+02.10.2026;40;L03;C;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;24;24,0;4;4211;4132
+02.10.2026;40;L05;A;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;41;28,0;4;3533;3470
+02.10.2026;40;L05;B;480;Bez prestoja;;0;28,0;4;3650;3597
+02.10.2026;40;L05;C;480;Porucha robota;Robot odoberania stratil pozíciu;12;28,0;4;3730;3704
+02.10.2026;40;L07;A;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;55;26,0;4;3693;3612
+02.10.2026;40;L07;B;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;65;26,0;4;3474;3441
+02.10.2026;40;L07;C;480;Rozbeh po výmene;Nastavovanie parametrov po výmene;31;26,0;4;3816;3730
+02.10.2026;40;L09;A;480;Bez prestoja;;0;22,0;4;4719;4668
+02.10.2026;40;L09;B;480;Výmena formy;Plánovaná výmena formy podľa výrobného plánu;41;22,0;4;4414;4356
+02.10.2026;40;L09;C;480;Chýbajúci materiál;Granulát nebol pripravený pri lise;12;22,0;4;4438;4395

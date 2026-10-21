@@ -1,0 +1,181 @@
+﻿Týždeň;Lis;Forma;Zmena;Produkt;Materiál;Dodávateľ granulátu;Vyrobené ks;Zmetky ks;Hlavná príčina zmetkov;Teplota formy °C;Čas cyklu s;Počet operátorov
+KW27;L03;F-10;A;CC-80;PP-TD20;Polymera GmbH;11420;25;Netesnosť pri skúške;78,5;24,4;2
+KW27;L03;F-10;B;CC-80;PP-TD20;Polymera GmbH;10096;18;Netesnosť pri skúške;78,0;30,4;1
+KW27;L03;F-10;C;CC-80;PP-TD20;Polymera GmbH;9734;22;Otrepy;90,9;29,9;1
+KW27;L05;F-14;A;OC-110;PA66-GF30;Polymera GmbH;9443;17;Studený spoj;87,9;25,0;1
+KW27;L05;F-14;B;OC-110;PA66-GF30;Polymera GmbH;11355;34;Nedostrek;83,2;30,6;1
+KW27;L05;F-14;C;OC-110;PA66-GF30;Polymera GmbH;11600;23;Deformácia;82,5;30,8;2
+KW27;L07;F-18;A;AB-32;PA66-GF30;Granoplast a.s.;10989;37;Pripálenie;82,4;29,0;2
+KW27;L07;F-18;B;AB-32;PA66-GF30;Granoplast a.s.;11713;29;Studený spoj;89,4;26,6;2
+KW27;L07;F-18;C;AB-32;PA66-GF30;Granoplast a.s.;10406;94;Studený spoj;83,5;31,0;2
+KW27;L09;F-22;A;TC-250;POM;Eurocompound S.p.A.;9332;19;Deformácia;97,2;30,8;1
+KW27;L09;F-22;B;TC-250;POM;Eurocompound S.p.A.;11516;22;Netesnosť pri skúške;89,4;29,2;1
+KW27;L09;F-22;C;TC-250;POM;Eurocompound S.p.A.;10620;34;Otrepy;94,4;30,7;2
+KW27;L11;F-26;A;BV-15;PA66-GF30;Granoplast a.s.;10575;26;Deformácia;80,9;28,9;1
+KW27;L11;F-26;B;BV-15;PA66-GF30;Granoplast a.s.;10251;30;Pripálenie;78,0;26,7;2
+KW27;L11;F-26;C;BV-15;PA66-GF30;Granoplast a.s.;10918;34;Netesnosť pri skúške;84,9;26,7;2
+KW28;L03;F-10;A;CC-80;PP-TD20;Polymera GmbH;10737;21;Netesnosť pri skúške;89,0;28,0;2
+KW28;L03;F-10;B;CC-80;PP-TD20;Polymera GmbH;10123;21;Nedostrek;89,2;24,2;1
+KW28;L03;F-10;C;CC-80;PP-TD20;Polymera GmbH;10505;23;Nedostrek;79,0;25,2;1
+KW28;L05;F-14;A;OC-110;PA66-GF30;Polymera GmbH;9859;28;Studený spoj;91,2;30,8;1
+KW28;L05;F-14;B;OC-110;PA66-GF30;Polymera GmbH;11633;37;Netesnosť pri skúške;87,9;27,0;2
+KW28;L05;F-14;C;OC-110;PA66-GF30;Polymera GmbH;9875;26;Netesnosť pri skúške;80,2;24,7;1
+KW28;L07;F-18;A;AB-32;PA66-GF30;Granoplast a.s.;9978;29;Pripálenie;85,6;28,6;1
+KW28;L07;F-18;B;AB-32;PA66-GF30;Granoplast a.s.;10172;27;Studený spoj;89,8;25,1;1
+KW28;L07;F-18;C;AB-32;PA66-GF30;Granoplast a.s.;9215;71;Netesnosť pri skúške;86,4;25,4;1
+KW28;L09;F-22;A;TC-250;POM;Eurocompound S.p.A.;10047;20;Deformácia;97,8;27,3;1
+KW28;L09;F-22;B;TC-250;POM;Eurocompound S.p.A.;10463;30;Netesnosť pri skúške;92,9;28,6;1
+KW28;L09;F-22;C;TC-250;POM;Eurocompound S.p.A.;11428;27;Deformácia;96,9;26,6;1
+KW28;L11;F-26;A;BV-15;PA66-GF30;Granoplast a.s.;9382;20;Netesnosť pri skúške;81,7;29,9;2
+KW28;L11;F-26;B;BV-15;PA66-GF30;Granoplast a.s.;9452;19;Pripálenie;87,3;24,6;1
+KW28;L11;F-26;C;BV-15;PA66-GF30;Granoplast a.s.;11417;27;Studený spoj;81,2;24,4;1
+KW29;L03;F-10;A;CC-80;PP-TD20;Polymera GmbH;11340;27;Studený spoj;87,6;30,6;2
+KW29;L03;F-10;B;CC-80;PP-TD20;Polymera GmbH;10165;25;Nedostrek;83,5;30,0;1
+KW29;L03;F-10;C;CC-80;PP-TD20;Polymera GmbH;11256;29;Studený spoj;89,2;28,7;2
+KW29;L05;F-14;A;OC-110;PA66-GF30;Polymera GmbH;9803;19;Netesnosť pri skúške;80,4;30,9;1
+KW29;L05;F-14;B;OC-110;PA66-GF30;Polymera GmbH;9989;20;Netesnosť pri skúške;79,1;28,8;1
+KW29;L05;F-14;C;OC-110;PA66-GF30;Polymera GmbH;11769;24;Studený spoj;81,6;30,4;1
+KW29;L07;F-18;A;AB-32;PA66-GF30;Granoplast a.s.;9556;26;Deformácia;90,0;27,6;1
+KW29;L07;F-18;B;AB-32;PA66-GF30;Granoplast a.s.;11752;37;Nedostrek;83,8;25,0;2
+KW29;L07;F-18;C;AB-32;PA66-GF30;Granoplast a.s.;11586;111;Studený spoj;88,9;29,5;2
+KW29;L09;F-22;A;TC-250;POM;Eurocompound S.p.A.;10608;32;Deformácia;91,8;27,4;2
+KW29;L09;F-22;B;TC-250;POM;Eurocompound S.p.A.;11137;21;Deformácia;92,0;28,3;2
+KW29;L09;F-22;C;TC-250;POM;Eurocompound S.p.A.;10845;20;Deformácia;94,9;24,3;1
+KW29;L11;F-26;A;BV-15;PA66-GF30;Granoplast a.s.;10300;31;Nedostrek;82,7;29,6;1
+KW29;L11;F-26;B;BV-15;PA66-GF30;Granoplast a.s.;10348;31;Pripálenie;87,6;30,8;1
+KW29;L11;F-26;C;BV-15;PA66-GF30;Granoplast a.s.;9750;22;Pripálenie;84,2;29,8;1
+KW30;L03;F-10;A;CC-80;PP-TD20;Polymera GmbH;10907;29;Nedostrek;80,6;25,5;1
+KW30;L03;F-10;B;CC-80;PP-TD20;Polymera GmbH;11184;32;Deformácia;89,5;27,6;1
+KW30;L03;F-10;C;CC-80;PP-TD20;Polymera GmbH;9468;21;Studený spoj;83,6;29,5;2
+KW30;L05;F-14;A;OC-110;PA66-GF30;Polymera GmbH;11529;21;Otrepy;90,3;25,4;1
+KW30;L05;F-14;B;OC-110;PA66-GF30;Polymera GmbH;10221;19;Nedostrek;90,9;28,9;1
+KW30;L05;F-14;C;OC-110;PA66-GF30;Polymera GmbH;10708;32;Studený spoj;83,6;30,5;2
+KW30;L07;F-18;A;AB-32;PA66-GF30;Granoplast a.s.;9325;26;Netesnosť pri skúške;80,5;30,1;2
+KW30;L07;F-18;B;AB-32;PA66-GF30;Granoplast a.s.;11458;27;Deformácia;88,5;28,8;1
+KW30;L07;F-18;C;AB-32;PA66-GF30;Granoplast a.s.;9312;68;Netesnosť pri skúške;91,5;30,0;2
+KW30;L09;F-22;A;TC-250;POM;Eurocompound S.p.A.;10122;28;Deformácia;94,5;27,6;2
+KW30;L09;F-22;B;TC-250;POM;Eurocompound S.p.A.;9236;23;Otrepy;94,5;28,2;1
+KW30;L09;F-22;C;TC-250;POM;Eurocompound S.p.A.;10116;22;Deformácia;95,1;29,0;1
+KW30;L11;F-26;A;BV-15;PA66-GF30;Granoplast a.s.;10935;33;Deformácia;84,4;25,5;1
+KW30;L11;F-26;B;BV-15;PA66-GF30;Granoplast a.s.;11332;33;Netesnosť pri skúške;86,2;24,1;2
+KW30;L11;F-26;C;BV-15;PA66-GF30;Granoplast a.s.;10732;28;Studený spoj;86,5;26,1;1
+KW31;L03;F-10;A;CC-80;PP-TD20;Polymera GmbH;11173;21;Deformácia;87,0;30,0;1
+KW31;L03;F-10;B;CC-80;PP-TD20;Polymera GmbH;10423;22;Studený spoj;88,7;30,3;2
+KW31;L03;F-10;C;CC-80;PP-TD20;Polymera GmbH;10855;30;Pripálenie;80,0;24,2;1
+KW31;L05;F-14;A;OC-110;PA66-GF30;Polymera GmbH;10410;23;Netesnosť pri skúške;83,7;29,2;2
+KW31;L05;F-14;B;OC-110;PA66-GF30;Polymera GmbH;11543;34;Deformácia;88,2;25,6;2
+KW31;L05;F-14;C;OC-110;PA66-GF30;Polymera GmbH;11148;34;Pripálenie;83,0;26,1;1
+KW31;L07;F-18;A;AB-32;PA66-GF30;Granoplast a.s.;11486;27;Otrepy;88,4;29,1;2
+KW31;L07;F-18;B;AB-32;PA66-GF30;Granoplast a.s.;9949;33;Pripálenie;79,3;26,5;2
+KW31;L07;F-18;C;AB-32;PA66-GF30;Granoplast a.s.;10457;99;Netesnosť pri skúške;86,2;27,2;1
+KW31;L09;F-22;A;TC-250;POM;Eurocompound S.p.A.;11127;21;Pripálenie;93,8;30,6;1
+KW31;L09;F-22;B;TC-250;POM;Eurocompound S.p.A.;11134;34;Studený spoj;89,2;28,8;2
+KW31;L09;F-22;C;TC-250;POM;Eurocompound S.p.A.;10422;25;Otrepy;89,4;25,4;1
+KW31;L11;F-26;A;BV-15;PA66-GF30;Granoplast a.s.;11532;35;Netesnosť pri skúške;80,0;30,0;1
+KW31;L11;F-26;B;BV-15;PA66-GF30;Granoplast a.s.;9531;24;Pripálenie;91,8;26,2;1
+KW31;L11;F-26;C;BV-15;PA66-GF30;Granoplast a.s.;9219;22;Otrepy;88,7;25,2;1
+KW32;L03;F-10;A;CC-80;PP-TD20;Polymera GmbH;11205;32;Nedostrek;79,8;27,0;1
+KW32;L03;F-10;B;CC-80;PP-TD20;Polymera GmbH;10852;26;Netesnosť pri skúške;83,4;24,3;1
+KW32;L03;F-10;C;CC-80;PP-TD20;Polymera GmbH;10728;34;Deformácia;88,6;27,7;1
+KW32;L05;F-14;A;OC-110;PA66-GF30;Polymera GmbH;9216;25;Otrepy;81,2;30,1;1
+KW32;L05;F-14;B;OC-110;PA66-GF30;Polymera GmbH;9728;19;Studený spoj;86,2;25,2;1
+KW32;L05;F-14;C;OC-110;PA66-GF30;Polymera GmbH;10421;33;Netesnosť pri skúške;88,2;28,2;1
+KW32;L07;F-18;A;AB-32;PA66-GF30;Granoplast a.s.;10976;37;Deformácia;91,9;27,4;1
+KW32;L07;F-18;B;AB-32;PA66-GF30;Granoplast a.s.;9875;33;Netesnosť pri skúške;78,3;25,6;1
+KW32;L07;F-18;C;AB-32;PA66-GF30;Granoplast a.s.;10065;86;Netesnosť pri skúške;83,1;28,6;1
+KW32;L09;F-22;A;TC-250;POM;Eurocompound S.p.A.;10736;32;Deformácia;95,7;28,4;2
+KW32;L09;F-22;B;TC-250;POM;Eurocompound S.p.A.;9396;26;Pripálenie;96,4;24,3;1
+KW32;L09;F-22;C;TC-250;POM;Eurocompound S.p.A.;10907;26;Nedostrek;93,5;27,3;1
+KW32;L11;F-26;A;BV-15;PA66-GF30;Granoplast a.s.;10041;28;Pripálenie;78,1;26,9;1
+KW32;L11;F-26;B;BV-15;PA66-GF30;Granoplast a.s.;11331;25;Studený spoj;87,8;26,9;1
+KW32;L11;F-26;C;BV-15;PA66-GF30;Granoplast a.s.;11295;32;Nedostrek;82,0;29,5;1
+KW33;L03;F-10;A;CC-80;PP-TD20;Polymera GmbH;10013;27;Deformácia;89,6;30,8;1
+KW33;L03;F-10;B;CC-80;PP-TD20;Polymera GmbH;10878;24;Nedostrek;85,7;30,4;2
+KW33;L03;F-10;C;CC-80;PP-TD20;Polymera GmbH;11168;25;Nedostrek;78,2;24,6;1
+KW33;L05;F-14;A;OC-110;PA66-GF30;Polymera GmbH;11551;32;Otrepy;91,3;29,5;1
+KW33;L05;F-14;B;OC-110;PA66-GF30;Polymera GmbH;9614;29;Pripálenie;81,2;30,9;1
+KW33;L05;F-14;C;OC-110;PA66-GF30;Polymera GmbH;10281;25;Nedostrek;89,4;30,1;1
+KW33;L07;F-18;A;AB-32;PA66-GF30;Granoplast a.s.;10675;27;Pripálenie;79,6;30,0;1
+KW33;L07;F-18;B;AB-32;PA66-GF30;Granoplast a.s.;9239;28;Otrepy;82,6;30,3;2
+KW33;L07;F-18;C;AB-32;PA66-GF30;Granoplast a.s.;10298;73;Otrepy;79,6;26,8;1
+KW33;L09;F-22;A;TC-250;POM;Eurocompound S.p.A.;10313;31;Pripálenie;96,5;29,6;2
+KW33;L09;F-22;B;TC-250;POM;Eurocompound S.p.A.;9883;19;Pripálenie;95,3;30,9;1
+KW33;L09;F-22;C;TC-250;POM;Eurocompound S.p.A.;9624;23;Studený spoj;92,8;28,0;1
+KW33;L11;F-26;A;BV-15;PA66-GF30;Granoplast a.s.;9942;26;Deformácia;86,6;30,0;2
+KW33;L11;F-26;B;BV-15;PA66-GF30;Granoplast a.s.;9735;24;Netesnosť pri skúške;79,6;26,9;1
+KW33;L11;F-26;C;BV-15;PA66-GF30;Granoplast a.s.;9459;20;Deformácia;78,2;30,1;2
+KW34;L03;F-10;A;CC-80;PP-TD20;Polymera GmbH;11561;33;Otrepy;91,7;28,7;1
+KW34;L03;F-10;B;CC-80;PP-TD20;Polymera GmbH;11326;29;Pripálenie;86,7;27,0;2
+KW34;L03;F-10;C;CC-80;PP-TD20;Polymera GmbH;10218;25;Pripálenie;87,5;26,7;2
+KW34;L05;F-14;A;OC-110;PA66-GF30;Polymera GmbH;11710;22;Pripálenie;91,1;27,5;1
+KW34;L05;F-14;B;OC-110;PA66-GF30;Polymera GmbH;11230;34;Nedostrek;88,5;26,2;1
+KW34;L05;F-14;C;OC-110;PA66-GF30;Polymera GmbH;10339;19;Otrepy;85,7;26,7;1
+KW34;L07;F-18;A;AB-32;PA66-GF30;Granoplast a.s.;9522;30;Netesnosť pri skúške;79,2;27,5;1
+KW34;L07;F-18;B;AB-32;PA66-GF30;Granoplast a.s.;9686;30;Nedostrek;79,4;26,9;2
+KW34;L07;F-18;C;AB-32;PA66-GF30;Granoplast a.s.;11449;81;Netesnosť pri skúške;86,7;26,1;2
+KW34;L09;F-22;A;TC-250;POM;Eurocompound S.p.A.;11503;24;Pripálenie;92,6;26,4;1
+KW34;L09;F-22;B;TC-250;POM;Eurocompound S.p.A.;10113;30;Deformácia;93,6;28,3;1
+KW34;L09;F-22;C;TC-250;POM;Eurocompound S.p.A.;10688;30;Nedostrek;89,0;28,6;1
+KW34;L11;F-26;A;BV-15;PA66-GF30;Granoplast a.s.;10598;24;Pripálenie;91,5;26,0;2
+KW34;L11;F-26;B;BV-15;PA66-GF30;Granoplast a.s.;10731;30;Nedostrek;90,6;27,4;2
+KW34;L11;F-26;C;BV-15;PA66-GF30;Granoplast a.s.;10876;21;Studený spoj;80,7;24,8;1
+KW35;L03;F-10;A;CC-80;PP-TD20;Polymera GmbH;10083;25;Otrepy;88,0;24,8;1
+KW35;L03;F-10;B;CC-80;PP-TD20;Polymera GmbH;9390;29;Pripálenie;86,2;29,4;1
+KW35;L03;F-10;C;CC-80;PP-TD20;Polymera GmbH;11073;30;Studený spoj;79,9;27,5;2
+KW35;L05;F-14;A;OC-110;PA66-GF30;Polymera GmbH;9398;24;Netesnosť pri skúške;89,7;27,4;2
+KW35;L05;F-14;B;OC-110;PA66-GF30;Polymera GmbH;9925;27;Otrepy;88,2;24,9;1
+KW35;L05;F-14;C;OC-110;PA66-GF30;Polymera GmbH;11659;31;Deformácia;85,1;26,7;2
+KW35;L07;F-18;A;AB-32;PA66-GF30;Granoplast a.s.;10216;34;Deformácia;84,3;24,9;1
+KW35;L07;F-18;B;AB-32;PA66-GF30;Granoplast a.s.;11667;36;Deformácia;89,8;27,8;1
+KW35;L07;F-18;C;AB-32;PA66-GF30;Granoplast a.s.;11467;85;Netesnosť pri skúške;82,1;26,4;2
+KW35;L09;F-22;A;TC-250;POM;Eurocompound S.p.A.;9743;31;Pripálenie;97,8;25,2;2
+KW35;L09;F-22;B;TC-250;POM;Eurocompound S.p.A.;10520;29;Deformácia;93,6;28,1;2
+KW35;L09;F-22;C;TC-250;POM;Eurocompound S.p.A.;10909;30;Studený spoj;90,9;29,9;1
+KW35;L11;F-26;A;BV-15;PA66-GF30;Granoplast a.s.;11341;22;Netesnosť pri skúške;80,0;28,7;1
+KW35;L11;F-26;B;BV-15;PA66-GF30;Granoplast a.s.;10293;29;Otrepy;91,8;28,8;1
+KW35;L11;F-26;C;BV-15;PA66-GF30;Granoplast a.s.;9454;26;Deformácia;80,9;27,8;1
+KW36;L03;F-10;A;CC-80;PP-TD20;Polymera GmbH;11053;21;Pripálenie;88,4;30,1;2
+KW36;L03;F-10;B;CC-80;PP-TD20;Polymera GmbH;11498;27;Studený spoj;89,0;29,6;1
+KW36;L03;F-10;C;CC-80;PP-TD20;Polymera GmbH;9392;29;Netesnosť pri skúške;83,8;29,5;2
+KW36;L05;F-14;A;OC-110;PA66-GF30;Polymera GmbH;10480;33;Nedostrek;78,2;25,8;2
+KW36;L05;F-14;B;OC-110;PA66-GF30;Polymera GmbH;11014;33;Pripálenie;87,9;28,5;2
+KW36;L05;F-14;C;OC-110;PA66-GF30;Polymera GmbH;11438;32;Otrepy;88,9;30,8;1
+KW36;L07;F-18;A;AB-32;PA66-GF30;Granoplast a.s.;11038;33;Otrepy;91,5;29,1;1
+KW36;L07;F-18;B;AB-32;PA66-GF30;Granoplast a.s.;10745;27;Deformácia;79,8;28,1;1
+KW36;L07;F-18;C;AB-32;PA66-GF30;Granoplast a.s.;9223;82;Netesnosť pri skúške;80,2;26,3;1
+KW36;L09;F-22;A;TC-250;POM;Eurocompound S.p.A.;11761;31;Pripálenie;91,0;29,5;2
+KW36;L09;F-22;B;TC-250;POM;Eurocompound S.p.A.;10666;20;Pripálenie;91,2;25,5;1
+KW36;L09;F-22;C;TC-250;POM;Eurocompound S.p.A.;11332;21;Studený spoj;89,6;27,8;1
+KW36;L11;F-26;A;BV-15;PA66-GF30;Granoplast a.s.;9576;22;Otrepy;87,3;26,3;1
+KW36;L11;F-26;B;BV-15;PA66-GF30;Granoplast a.s.;10094;32;Studený spoj;85,4;31,0;2
+KW36;L11;F-26;C;BV-15;PA66-GF30;Granoplast a.s.;9236;18;Deformácia;84,2;30,3;2
+KW37;L03;F-10;A;CC-80;PP-TD20;Polymera GmbH;11744;25;Nedostrek;87,6;26,2;1
+KW37;L03;F-10;B;CC-80;PP-TD20;Polymera GmbH;10780;23;Pripálenie;82,0;30,4;1
+KW37;L03;F-10;C;CC-80;PP-TD20;Polymera GmbH;11306;33;Netesnosť pri skúške;84,8;26,1;2
+KW37;L05;F-14;A;OC-110;PA66-GF30;Polymera GmbH;9988;22;Nedostrek;91,3;25,2;2
+KW37;L05;F-14;B;OC-110;PA66-GF30;Polymera GmbH;11384;21;Nedostrek;81,0;28,4;1
+KW37;L05;F-14;C;OC-110;PA66-GF30;Polymera GmbH;10937;32;Otrepy;85,5;28,9;2
+KW37;L07;F-18;A;AB-32;PA66-GF30;Granoplast a.s.;10982;37;Pripálenie;87,6;24,2;2
+KW37;L07;F-18;B;AB-32;PA66-GF30;Granoplast a.s.;10558;24;Otrepy;89,1;27,9;2
+KW37;L07;F-18;C;AB-32;PA66-GF30;Granoplast a.s.;10132;81;Netesnosť pri skúške;83,7;26,2;1
+KW37;L09;F-22;A;TC-250;POM;Eurocompound S.p.A.;9684;25;Pripálenie;95,2;24,4;2
+KW37;L09;F-22;B;TC-250;POM;Eurocompound S.p.A.;11598;22;Nedostrek;91,6;27,5;1
+KW37;L09;F-22;C;TC-250;POM;Eurocompound S.p.A.;10434;28;Deformácia;95,7;27,1;1
+KW37;L11;F-26;A;BV-15;PA66-GF30;Granoplast a.s.;9326;23;Studený spoj;81,1;29,2;2
+KW37;L11;F-26;B;BV-15;PA66-GF30;Granoplast a.s.;10408;33;Otrepy;82,2;30,2;2
+KW37;L11;F-26;C;BV-15;PA66-GF30;Granoplast a.s.;10728;34;Nedostrek;85,7;27,9;1
+KW38;L03;F-10;A;CC-80;PP-TD20;Polymera GmbH;9371;17;Studený spoj;83,5;27,8;1
+KW38;L03;F-10;B;CC-80;PP-TD20;Polymera GmbH;10448;22;Pripálenie;90,6;26,4;1
+KW38;L03;F-10;C;CC-80;PP-TD20;Polymera GmbH;11299;23;Otrepy;81,1;29,8;1
+KW38;L05;F-14;A;OC-110;PA66-GF30;Polymera GmbH;9669;20;Studený spoj;89,9;30,0;2
+KW38;L05;F-14;B;OC-110;PA66-GF30;Polymera GmbH;11089;30;Nedostrek;82,1;24,5;1
+KW38;L05;F-14;C;OC-110;PA66-GF30;Polymera GmbH;10008;28;Netesnosť pri skúške;91,3;26,5;2
+KW38;L07;F-18;A;AB-32;PA66-GF30;Granoplast a.s.;10160;30;Otrepy;82,4;27,2;2
+KW38;L07;F-18;B;AB-32;PA66-GF30;Granoplast a.s.;10452;25;Studený spoj;83,1;26,2;1
+KW38;L07;F-18;C;AB-32;PA66-GF30;Granoplast a.s.;9890;75;Netesnosť pri skúške;88,4;27,1;1
+KW38;L09;F-22;A;TC-250;POM;Eurocompound S.p.A.;9750;27;Deformácia;96,8;27,2;1
+KW38;L09;F-22;B;TC-250;POM;Eurocompound S.p.A.;10451;26;Nedostrek;89,8;28,2;1
+KW38;L09;F-22;C;TC-250;POM;Eurocompound S.p.A.;9773;30;Otrepy;90,6;30,2;1
+KW38;L11;F-26;A;BV-15;PA66-GF30;Granoplast a.s.;9508;29;Studený spoj;86,8;29,7;2
+KW38;L11;F-26;B;BV-15;PA66-GF30;Granoplast a.s.;10859;31;Otrepy;90,7;27,9;2
+KW38;L11;F-26;C;BV-15;PA66-GF30;Granoplast a.s.;11410;28;Otrepy;83,1;25,6;2

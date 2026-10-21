@@ -1,0 +1,249 @@
+﻿ID reklamácie;Dátum prijatia;Týždeň;Zákazník;Krajina;Produkt;Názov produktu;Číslo dielu;Lis;Forma;Zmena;Dodávateľ granulátu;Šarža granulátu;Typ chyby;Počet chybných ks;Spôsob zistenia;8D požadované;Stav;Dátum uzavretia;Dni riešenia;Náklady EUR;Zodpovedný
+RK-2026-001;05.01.2026;2;Norvik Trucks AG;DE;BV-15;Odvetrávací ventil batérie;4450-015;L05;F-14;C;Granoplast a.s.;GP-26022;Chýbajúci O-krúžok;12;Vstupná kontrola zákazníka;Nie;Uzavretá;08.02.2026;34;412,65;P. Valach
+RK-2026-002;05.01.2026;2;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L11;F-26;A;Eurocompound S.p.A.;EC-26021;Deformácia;24;Reklamácia z poľa;Áno;Uzavretá;04.02.2026;30;1151,09;P. Valach
+RK-2026-003;06.01.2026;2;Agrodyn S.A.;FR;CC-80;Chladiaci uzáver;4430-080;L06;F-16;A;Eurocompound S.p.A.;EC-26022;Netesnosť;13;Vstupná kontrola zákazníka;Áno;Uzavretá;16.02.2026;41;957,87;P. Valach
+RK-2026-004;06.01.2026;2;Velor Vans s.r.o.;CZ;BV-15;Odvetrávací ventil batérie;4450-015;L05;F-14;B;Polymera GmbH;PM-26024;Otrepy;6;Montážna linka zákazníka;Áno;Uzavretá;03.02.2026;28;1362,28;K. Šimková
+RK-2026-005;07.01.2026;2;Agrodyn S.A.;FR;OC-110;Olejový uzáver;4420-110;L13;F-30;A;Polymera GmbH;PM-26023;Otrepy;39;Montážna linka zákazníka;Áno;Uzavretá;18.01.2026;11;1372,98;K. Šimková
+RK-2026-006;09.01.2026;2;Baustahl Maschinen GmbH;DE;CC-80;Chladiaci uzáver;4430-080;L12;F-28;C;Polymera GmbH;PM-26023;Netesnosť;90;Montážna linka zákazníka;Áno;Uzavretá;17.02.2026;39;2225,02;M. Hrnčiar
+RK-2026-007;09.01.2026;2;Velor Vans s.r.o.;CZ;BV-15;Odvetrávací ventil batérie;4450-015;L13;F-30;A;Granoplast a.s.;GP-26022;Prasklina;24;Vstupná kontrola zákazníka;Áno;Uzavretá;05.02.2026;27;1541,08;K. Šimková
+RK-2026-008;10.01.2026;2;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L09;F-22;B;Polymera GmbH;PM-26021;Chýbajúci O-krúžok;10;Vstupná kontrola zákazníka;Áno;Uzavretá;17.02.2026;38;1742,89;P. Valach
+RK-2026-009;11.01.2026;2;Baustahl Maschinen GmbH;DE;TC-250;Palivový uzáver;4410-250;L14;F-32;B;Granoplast a.s.;GP-26022;Nesprávna farba;40;Vstupná kontrola zákazníka;Áno;Uzavretá;10.02.2026;30;1011,48;J. Babiak
+RK-2026-010;12.01.2026;3;Velor Vans s.r.o.;CZ;OC-110;Olejový uzáver;4420-110;L02;F-08;A;Granoplast a.s.;GP-26034;Netesnosť;10;Vstupná kontrola zákazníka;Áno;Uzavretá;02.02.2026;21;1431,94;K. Šimková
+RK-2026-011;13.01.2026;3;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L03;F-10;C;Granoplast a.s.;GP-26034;Prasklina;35;Vstupná kontrola zákazníka;Áno;Uzavretá;18.02.2026;36;1317,33;J. Babiak
+RK-2026-012;15.01.2026;3;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L14;F-32;B;Eurocompound S.p.A.;EC-26032;Nedostrek;19;Montážna linka zákazníka;Nie;Uzavretá;23.02.2026;39;348,44;L. Ondrušová
+RK-2026-013;15.01.2026;3;Baustahl Maschinen GmbH;DE;BV-15;Odvetrávací ventil batérie;4450-015;L13;F-30;A;Eurocompound S.p.A.;EC-26031;Otrepy;9;Reklamácia z poľa;Áno;Uzavretá;24.01.2026;9;1767,19;L. Ondrušová
+RK-2026-014;15.01.2026;3;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L01;F-06;C;Granoplast a.s.;GP-26034;Nedostrek;8;Vstupná kontrola zákazníka;Áno;Uzavretá;07.02.2026;23;1188,76;M. Hrnčiar
+RK-2026-015;18.01.2026;3;Baustahl Maschinen GmbH;DE;CC-80;Chladiaci uzáver;4430-080;L10;F-24;A;Eurocompound S.p.A.;EC-26034;Nedostrek;15;Reklamácia z poľa;Áno;Uzavretá;15.02.2026;28;1238,79;L. Ondrušová
+RK-2026-016;20.01.2026;4;Baustahl Maschinen GmbH;DE;AB-32;AdBlue uzáver;4440-032;L01;F-06;C;Granoplast a.s.;GP-26041;Prasklina;24;Vstupná kontrola zákazníka;Áno;Uzavretá;18.02.2026;29;1064,08;P. Valach
+RK-2026-017;25.01.2026;4;Velor Vans s.r.o.;CZ;OC-110;Olejový uzáver;4420-110;L13;F-30;A;Polymera GmbH;PM-26044;Chýbajúci O-krúžok;10;Vstupná kontrola zákazníka;Nie;Uzavretá;02.03.2026;36;249,64;J. Babiak
+RK-2026-018;25.01.2026;4;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L05;F-14;C;Granoplast a.s.;GP-26042;Prasklina;40;Vstupná kontrola zákazníka;Áno;Uzavretá;05.02.2026;11;993,36;L. Ondrušová
+RK-2026-019;26.01.2026;5;Agrodyn S.A.;FR;CC-80;Chladiaci uzáver;4430-080;L08;F-20;C;Eurocompound S.p.A.;EC-26051;Deformácia;39;Montážna linka zákazníka;Áno;Uzavretá;08.02.2026;13;1400,98;M. Hrnčiar
+RK-2026-020;27.01.2026;5;Alpenmobil GmbH;AT;BV-15;Odvetrávací ventil batérie;4450-015;L13;F-30;C;Eurocompound S.p.A.;EC-26054;Netesnosť;35;Vstupná kontrola zákazníka;Áno;Uzavretá;13.03.2026;45;989,27;L. Ondrušová
+RK-2026-021;30.01.2026;5;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L11;F-26;B;Polymera GmbH;PM-26053;Chýbajúci O-krúžok;35;Vstupná kontrola zákazníka;Áno;Uzavretá;09.03.2026;38;1954,46;J. Babiak
+RK-2026-022;01.02.2026;5;Baustahl Maschinen GmbH;DE;CC-80;Chladiaci uzáver;4430-080;L03;F-10;A;Polymera GmbH;PM-26051;Nesprávna farba;1;Montážna linka zákazníka;Áno;Uzavretá;15.03.2026;42;1310,97;L. Ondrušová
+RK-2026-023;02.02.2026;6;Alpenmobil GmbH;AT;OC-110;Olejový uzáver;4420-110;L05;F-14;A;Granoplast a.s.;GP-26061;Deformácia;24;Vstupná kontrola zákazníka;Nie;Uzavretá;14.03.2026;40;621,84;J. Babiak
+RK-2026-024;04.02.2026;6;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L10;F-24;C;Eurocompound S.p.A.;EC-26061;Nedostrek;31;Vstupná kontrola zákazníka;Áno;Uzavretá;06.03.2026;30;1354,83;P. Valach
+RK-2026-025;05.02.2026;6;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L13;F-30;C;Granoplast a.s.;GP-26063;Netesnosť;105;Vstupná kontrola zákazníka;Áno;Uzavretá;26.02.2026;21;3187,85;K. Šimková
+RK-2026-026;06.02.2026;6;Agrodyn S.A.;FR;BV-15;Odvetrávací ventil batérie;4450-015;L08;F-20;C;Granoplast a.s.;GP-26064;Prasklina;3;Vstupná kontrola zákazníka;Nie;Uzavretá;25.03.2026;47;237,45;J. Babiak
+RK-2026-027;09.02.2026;7;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L11;F-26;B;Polymera GmbH;PM-26074;Netesnosť;85;Vstupná kontrola zákazníka;Áno;Uzavretá;23.02.2026;14;2299,01;M. Hrnčiar
+RK-2026-028;09.02.2026;7;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L03;F-10;A;Eurocompound S.p.A.;EC-26074;Otrepy;19;Vstupná kontrola zákazníka;Áno;Uzavretá;17.02.2026;8;1014,07;L. Ondrušová
+RK-2026-029;10.02.2026;7;Agrodyn S.A.;FR;BV-15;Odvetrávací ventil batérie;4450-015;L01;F-06;C;Polymera GmbH;PM-26071;Poškodený závit;31;Vstupná kontrola zákazníka;Áno;Uzavretá;29.03.2026;47;1191,48;P. Valach
+RK-2026-030;12.02.2026;7;Velor Vans s.r.o.;CZ;BV-15;Odvetrávací ventil batérie;4450-015;L13;F-30;A;Granoplast a.s.;GP-26074;Netesnosť;39;Vstupná kontrola zákazníka;Áno;Uzavretá;13.03.2026;29;1472,57;J. Babiak
+RK-2026-031;12.02.2026;7;Baustahl Maschinen GmbH;DE;AB-32;AdBlue uzáver;4440-032;L03;F-10;C;Polymera GmbH;PM-26073;Deformácia;22;Audit zákazníka;Nie;Uzavretá;21.03.2026;37;510,49;M. Hrnčiar
+RK-2026-032;13.02.2026;7;Alpenmobil GmbH;AT;BV-15;Odvetrávací ventil batérie;4450-015;L14;F-32;B;Granoplast a.s.;GP-26071;Otrepy;28;Vstupná kontrola zákazníka;Nie;Uzavretá;02.03.2026;17;558,01;P. Valach
+RK-2026-033;15.02.2026;7;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L03;F-10;A;Polymera GmbH;PM-26074;Prasklina;19;Vstupná kontrola zákazníka;Nie;Uzavretá;20.03.2026;33;345,38;M. Hrnčiar
+RK-2026-034;20.02.2026;8;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L10;F-24;C;Eurocompound S.p.A.;EC-26081;Chýbajúci O-krúžok;23;Montážna linka zákazníka;Nie;Uzavretá;15.03.2026;23;604,41;M. Hrnčiar
+RK-2026-035;21.02.2026;8;Alpenmobil GmbH;AT;OC-110;Olejový uzáver;4420-110;L05;F-14;B;Polymera GmbH;PM-26084;Chýbajúci O-krúžok;26;Vstupná kontrola zákazníka;Nie;Uzavretá;09.03.2026;16;626,03;M. Hrnčiar
+RK-2026-036;22.02.2026;8;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L06;F-16;B;Granoplast a.s.;GP-26081;Nesprávna farba;9;Vstupná kontrola zákazníka;Nie;Uzavretá;23.03.2026;29;362,76;L. Ondrušová
+RK-2026-037;25.02.2026;9;Alpenmobil GmbH;AT;BV-15;Odvetrávací ventil batérie;4450-015;L02;F-08;B;Polymera GmbH;PM-26092;Netesnosť;24;Montážna linka zákazníka;Áno;Uzavretá;26.03.2026;29;1776,69;L. Ondrušová
+RK-2026-038;25.02.2026;9;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L14;F-32;A;Polymera GmbH;PM-26092;Nedostrek;24;Vstupná kontrola zákazníka;Nie;Uzavretá;20.03.2026;23;357,7;J. Babiak
+RK-2026-039;25.02.2026;9;Agrodyn S.A.;FR;TC-250;Palivový uzáver;4410-250;L08;F-20;A;Polymera GmbH;PM-26094;Nedostrek;34;Vstupná kontrola zákazníka;Áno;Uzavretá;07.04.2026;41;1820,5;K. Šimková
+RK-2026-040;02.03.2026;10;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L11;F-26;A;Polymera GmbH;PM-26101;Chýbajúci O-krúžok;40;Vstupná kontrola zákazníka;Áno;Uzavretá;08.04.2026;37;967,69;J. Babiak
+RK-2026-041;04.03.2026;10;Agrodyn S.A.;FR;BV-15;Odvetrávací ventil batérie;4450-015;L14;F-32;C;Eurocompound S.p.A.;EC-26103;Poškodený závit;12;Reklamácia z poľa;Áno;Uzavretá;07.04.2026;34;1779,34;P. Valach
+RK-2026-042;05.03.2026;10;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L05;F-14;A;Polymera GmbH;PM-26102;Netesnosť;95;Vstupná kontrola zákazníka;Áno;Uzavretá;14.04.2026;40;1963,53;K. Šimková
+RK-2026-043;05.03.2026;10;Baustahl Maschinen GmbH;DE;OC-110;Olejový uzáver;4420-110;L02;F-08;B;Polymera GmbH;PM-26104;Deformácia;24;Montážna linka zákazníka;Áno;Uzavretá;23.03.2026;18;1118,23;M. Hrnčiar
+RK-2026-044;06.03.2026;10;Alpenmobil GmbH;AT;BV-15;Odvetrávací ventil batérie;4450-015;L09;F-22;A;Granoplast a.s.;GP-26101;Otrepy;24;Montážna linka zákazníka;Nie;Uzavretá;10.04.2026;35;622,59;M. Hrnčiar
+RK-2026-045;08.03.2026;10;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L14;F-32;C;Granoplast a.s.;GP-26101;Chýbajúci O-krúžok;20;Vstupná kontrola zákazníka;Nie;Uzavretá;13.04.2026;36;518,21;K. Šimková
+RK-2026-046;08.03.2026;10;Baustahl Maschinen GmbH;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26102;Prasklina;21;Montážna linka zákazníka;Nie;Uzavretá;12.04.2026;35;487,02;K. Šimková
+RK-2026-047;09.03.2026;11;Velor Vans s.r.o.;CZ;BV-15;Odvetrávací ventil batérie;4450-015;L13;F-30;B;Eurocompound S.p.A.;EC-26113;Netesnosť;60;Montážna linka zákazníka;Áno;Uzavretá;18.03.2026;9;2265,64;K. Šimková
+RK-2026-048;10.03.2026;11;Velor Vans s.r.o.;CZ;BV-15;Odvetrávací ventil batérie;4450-015;L05;F-14;B;Polymera GmbH;PM-26113;Otrepy;11;Vstupná kontrola zákazníka;Nie;Uzavretá;30.03.2026;20;386,07;M. Hrnčiar
+RK-2026-049;10.03.2026;11;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L11;F-26;C;Granoplast a.s.;GP-26111;Nedostrek;17;Vstupná kontrola zákazníka;Nie;Uzavretá;02.04.2026;23;284,26;L. Ondrušová
+RK-2026-050;14.03.2026;11;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L05;F-14;C;Eurocompound S.p.A.;EC-26113;Netesnosť;87;Vstupná kontrola zákazníka;Áno;Uzavretá;26.04.2026;43;2245,49;L. Ondrušová
+RK-2026-051;16.03.2026;12;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L13;F-30;A;Granoplast a.s.;GP-26123;Deformácia;3;Reklamácia z poľa;Áno;Uzavretá;23.03.2026;7;1752,99;K. Šimková
+RK-2026-052;21.03.2026;12;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L08;F-20;B;Polymera GmbH;PM-26123;Netesnosť;103;Montážna linka zákazníka;Áno;Uzavretá;05.05.2026;45;2829,67;P. Valach
+RK-2026-053;23.03.2026;13;Norvik Trucks AG;DE;BV-15;Odvetrávací ventil batérie;4450-015;L08;F-20;B;Polymera GmbH;PM-26131;Poškodený závit;31;Vstupná kontrola zákazníka;Áno;Uzavretá;23.04.2026;31;808,33;K. Šimková
+RK-2026-054;23.03.2026;13;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L01;F-06;C;Granoplast a.s.;GP-26133;Prasklina;29;Vstupná kontrola zákazníka;Nie;Uzavretá;11.04.2026;19;459,42;P. Valach
+RK-2026-055;25.03.2026;13;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L05;F-14;C;Granoplast a.s.;GP-26132;Netesnosť;56;Vstupná kontrola zákazníka;Áno;Uzavretá;23.04.2026;29;1338,18;J. Babiak
+RK-2026-056;25.03.2026;13;Agrodyn S.A.;FR;CC-80;Chladiaci uzáver;4430-080;L02;F-08;B;Granoplast a.s.;GP-26134;Chýbajúci O-krúžok;8;Vstupná kontrola zákazníka;Áno;Uzavretá;09.04.2026;15;817,39;L. Ondrušová
+RK-2026-057;27.03.2026;13;Alpenmobil GmbH;AT;OC-110;Olejový uzáver;4420-110;L12;F-28;C;Granoplast a.s.;GP-26132;Nedostrek;27;Vstupná kontrola zákazníka;Áno;Uzavretá;22.04.2026;26;1952,44;K. Šimková
+RK-2026-058;29.03.2026;13;Alpenmobil GmbH;AT;CC-80;Chladiaci uzáver;4430-080;L05;F-14;C;Polymera GmbH;PM-26131;Otrepy;32;Audit zákazníka;Áno;Uzavretá;03.05.2026;35;1258,29;M. Hrnčiar
+RK-2026-059;01.04.2026;14;Norvik Trucks AG;DE;BV-15;Odvetrávací ventil batérie;4450-015;L11;F-26;B;Polymera GmbH;PM-26143;Prasklina;26;Montážna linka zákazníka;Áno;Uzavretá;20.04.2026;19;804,16;J. Babiak
+RK-2026-060;04.04.2026;14;Agrodyn S.A.;FR;CC-80;Chladiaci uzáver;4430-080;L08;F-20;A;Eurocompound S.p.A.;EC-26141;Nesprávna farba;39;Reklamácia z poľa;Áno;Uzavretá;21.05.2026;47;1420,59;M. Hrnčiar
+RK-2026-061;07.04.2026;15;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L03;F-10;C;Polymera GmbH;PM-26154;Otrepy;28;Vstupná kontrola zákazníka;Nie;Uzavretá;06.05.2026;29;646,89;M. Hrnčiar
+RK-2026-062;13.04.2026;16;Agrodyn S.A.;FR;OC-110;Olejový uzáver;4420-110;L06;F-16;A;Polymera GmbH;PM-26164;Nedostrek;37;Montážna linka zákazníka;Áno;Uzavretá;12.05.2026;29;1009,4;L. Ondrušová
+RK-2026-063;14.04.2026;16;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L12;F-28;A;Eurocompound S.p.A.;EC-26161;Prasklina;18;Reklamácia z poľa;Áno;Uzavretá;29.05.2026;45;799,43;J. Babiak
+RK-2026-064;15.04.2026;16;Alpenmobil GmbH;AT;CC-80;Chladiaci uzáver;4430-080;L06;F-16;C;Granoplast a.s.;GP-26162;Netesnosť;52;Montážna linka zákazníka;Áno;Uzavretá;12.05.2026;27;1693,5;K. Šimková
+RK-2026-065;16.04.2026;16;Alpenmobil GmbH;AT;OC-110;Olejový uzáver;4420-110;L07;F-18;B;Polymera GmbH;PM-26163;Poškodený závit;39;Montážna linka zákazníka;Áno;Uzavretá;24.05.2026;38;729,78;J. Babiak
+RK-2026-066;19.04.2026;16;Alpenmobil GmbH;AT;CC-80;Chladiaci uzáver;4430-080;L12;F-28;C;Granoplast a.s.;GP-26163;Netesnosť;71;Montážna linka zákazníka;Áno;Uzavretá;02.06.2026;44;1973,03;K. Šimková
+RK-2026-067;21.04.2026;17;Baustahl Maschinen GmbH;DE;OC-110;Olejový uzáver;4420-110;L10;F-24;B;Polymera GmbH;PM-26174;Otrepy;26;Audit zákazníka;Nie;Uzavretá;16.05.2026;25;581,22;L. Ondrušová
+RK-2026-068;25.04.2026;17;Alpenmobil GmbH;AT;OC-110;Olejový uzáver;4420-110;L07;F-18;B;Granoplast a.s.;GP-26174;Nedostrek;20;Montážna linka zákazníka;Áno;Uzavretá;24.05.2026;29;730,53;L. Ondrušová
+RK-2026-069;26.04.2026;17;Velor Vans s.r.o.;CZ;CC-80;Chladiaci uzáver;4430-080;L08;F-20;A;Granoplast a.s.;GP-26172;Nesprávna farba;20;Montážna linka zákazníka;Nie;Uzavretá;11.06.2026;46;326,59;M. Hrnčiar
+RK-2026-070;27.04.2026;18;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L07;F-18;B;Eurocompound S.p.A.;EC-26184;Nesprávna farba;38;Montážna linka zákazníka;Áno;Uzavretá;05.06.2026;39;1882,34;K. Šimková
+RK-2026-071;28.04.2026;18;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L11;F-26;C;Polymera GmbH;PM-26184;Nedostrek;16;Vstupná kontrola zákazníka;Nie;Uzavretá;11.05.2026;13;316,3;K. Šimková
+RK-2026-072;30.04.2026;18;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L14;F-32;C;Polymera GmbH;PM-26181;Poškodený závit;27;Montážna linka zákazníka;Nie;Uzavretá;07.06.2026;38;748,32;K. Šimková
+RK-2026-073;01.05.2026;18;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L04;F-12;B;Granoplast a.s.;GP-26184;Netesnosť;71;Vstupná kontrola zákazníka;Áno;Uzavretá;27.05.2026;26;2577,82;P. Valach
+RK-2026-074;03.05.2026;18;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L07;F-18;A;Eurocompound S.p.A.;EC-26183;Deformácia;12;Montážna linka zákazníka;Nie;Uzavretá;30.05.2026;27;375,15;L. Ondrušová
+RK-2026-075;05.05.2026;19;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L11;F-26;A;Granoplast a.s.;GP-26193;Prasklina;31;Vstupná kontrola zákazníka;Áno;Uzavretá;26.05.2026;21;1139,19;P. Valach
+RK-2026-076;05.05.2026;19;Norvik Trucks AG;DE;BV-15;Odvetrávací ventil batérie;4450-015;L05;F-14;A;Granoplast a.s.;GP-26193;Prasklina;14;Montážna linka zákazníka;Nie;Uzavretá;31.05.2026;26;371,03;P. Valach
+RK-2026-077;07.05.2026;19;Agrodyn S.A.;FR;BV-15;Odvetrávací ventil batérie;4450-015;L03;F-10;A;Granoplast a.s.;GP-26193;Deformácia;8;Montážna linka zákazníka;Nie;Uzavretá;06.06.2026;30;288,01;K. Šimková
+RK-2026-078;07.05.2026;19;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L12;F-28;C;Polymera GmbH;PM-26193;Deformácia;19;Vstupná kontrola zákazníka;Nie;Uzavretá;18.05.2026;11;389,45;J. Babiak
+RK-2026-079;08.05.2026;19;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L12;F-28;B;Granoplast a.s.;GP-26192;Otrepy;14;Vstupná kontrola zákazníka;Nie;Uzavretá;31.05.2026;23;482,01;M. Hrnčiar
+RK-2026-080;09.05.2026;19;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L07;F-18;B;Eurocompound S.p.A.;EC-26192;Poškodený závit;40;Montážna linka zákazníka;Áno;Uzavretá;30.05.2026;21;1790,83;K. Šimková
+RK-2026-081;10.05.2026;19;Baustahl Maschinen GmbH;DE;TC-250;Palivový uzáver;4410-250;L08;F-20;B;Eurocompound S.p.A.;EC-26191;Deformácia;4;Vstupná kontrola zákazníka;Nie;Uzavretá;15.06.2026;36;243,09;L. Ondrušová
+RK-2026-082;10.05.2026;19;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L14;F-32;A;Polymera GmbH;PM-26193;Otrepy;11;Vstupná kontrola zákazníka;Nie;Uzavretá;15.06.2026;36;390,77;P. Valach
+RK-2026-083;11.05.2026;20;Velor Vans s.r.o.;CZ;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26201;Netesnosť;41;Montážna linka zákazníka;Áno;Uzavretá;22.05.2026;11;1365,01;K. Šimková
+RK-2026-084;11.05.2026;20;Alpenmobil GmbH;AT;BV-15;Odvetrávací ventil batérie;4450-015;L11;F-26;A;Granoplast a.s.;GP-26204;Netesnosť;58;Reklamácia z poľa;Áno;Uzavretá;28.05.2026;17;1580,69;J. Babiak
+RK-2026-085;12.05.2026;20;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L07;F-18;A;Granoplast a.s.;GP-26201;Netesnosť;28;Reklamácia z poľa;Áno;Uzavretá;05.06.2026;24;885,04;P. Valach
+RK-2026-086;12.05.2026;20;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L05;F-14;B;Polymera GmbH;PM-26202;Netesnosť;41;Montážna linka zákazníka;Áno;Uzavretá;28.06.2026;47;1699,45;L. Ondrušová
+RK-2026-087;13.05.2026;20;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L01;F-06;B;Polymera GmbH;PM-26203;Netesnosť;64;Vstupná kontrola zákazníka;Áno;Uzavretá;26.05.2026;13;2247,81;K. Šimková
+RK-2026-088;13.05.2026;20;Agrodyn S.A.;FR;OC-110;Olejový uzáver;4420-110;L11;F-26;C;Eurocompound S.p.A.;EC-26204;Prasklina;1;Montážna linka zákazníka;Nie;Uzavretá;24.06.2026;42;98,33;J. Babiak
+RK-2026-089;16.05.2026;20;Norvik Trucks AG;DE;BV-15;Odvetrávací ventil batérie;4450-015;L13;F-30;C;Granoplast a.s.;GP-26202;Otrepy;33;Vstupná kontrola zákazníka;Áno;Uzavretá;16.06.2026;31;1161,28;J. Babiak
+RK-2026-090;16.05.2026;20;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L04;F-12;A;Polymera GmbH;PM-26203;Nesprávna farba;21;Reklamácia z poľa;Áno;Uzavretá;22.05.2026;6;913,48;P. Valach
+RK-2026-091;17.05.2026;20;Alpenmobil GmbH;AT;CC-80;Chladiaci uzáver;4430-080;L07;F-18;A;Granoplast a.s.;GP-26202;Netesnosť;43;Montážna linka zákazníka;Áno;Uzavretá;28.06.2026;42;1673,92;M. Hrnčiar
+RK-2026-092;19.05.2026;21;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;A;Granoplast a.s.;GP-26213;Netesnosť;90;Vstupná kontrola zákazníka;Áno;Uzavretá;13.06.2026;25;2325,98;M. Hrnčiar
+RK-2026-093;19.05.2026;21;Baustahl Maschinen GmbH;DE;TC-250;Palivový uzáver;4410-250;L07;F-18;C;Granoplast a.s.;GP-26212;Netesnosť;86;Reklamácia z poľa;Áno;Uzavretá;12.06.2026;24;1816,19;J. Babiak
+RK-2026-094;19.05.2026;21;Baustahl Maschinen GmbH;DE;CC-80;Chladiaci uzáver;4430-080;L10;F-24;A;Granoplast a.s.;GP-26214;Otrepy;10;Montážna linka zákazníka;Nie;Uzavretá;17.06.2026;29;299,4;L. Ondrušová
+RK-2026-095;22.05.2026;21;Agrodyn S.A.;FR;TC-250;Palivový uzáver;4410-250;L07;F-18;C;Granoplast a.s.;GP-26211;Netesnosť;107;Montážna linka zákazníka;Áno;Uzavretá;10.06.2026;19;3343,26;L. Ondrušová
+RK-2026-096;24.05.2026;21;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L09;F-22;C;Eurocompound S.p.A.;EC-26212;Prasklina;29;Montážna linka zákazníka;Nie;Uzavretá;03.06.2026;10;670,37;L. Ondrušová
+RK-2026-097;25.05.2026;22;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L07;F-18;C;Granoplast a.s.;GP-26222;Netesnosť;73;Vstupná kontrola zákazníka;Áno;Uzavretá;20.06.2026;26;2430,67;L. Ondrušová
+RK-2026-098;27.05.2026;22;Velor Vans s.r.o.;CZ;CC-80;Chladiaci uzáver;4430-080;L02;F-08;B;Eurocompound S.p.A.;EC-26222;Netesnosť;67;Vstupná kontrola zákazníka;Áno;Uzavretá;04.07.2026;38;1374,47;L. Ondrušová
+RK-2026-099;27.05.2026;22;Baustahl Maschinen GmbH;DE;BV-15;Odvetrávací ventil batérie;4450-015;L10;F-24;C;Polymera GmbH;PM-26221;Chýbajúci O-krúžok;27;Montážna linka zákazníka;Áno;Uzavretá;07.07.2026;41;1915,67;J. Babiak
+RK-2026-100;29.05.2026;22;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L12;F-28;B;Granoplast a.s.;GP-26223;Otrepy;17;Reklamácia z poľa;Áno;Uzavretá;17.06.2026;19;648,74;M. Hrnčiar
+RK-2026-101;30.05.2026;22;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L07;F-18;A;Granoplast a.s.;GP-26223;Netesnosť;74;Audit zákazníka;Áno;Uzavretá;09.06.2026;10;2622,77;J. Babiak
+RK-2026-102;30.05.2026;22;Alpenmobil GmbH;AT;BV-15;Odvetrávací ventil batérie;4450-015;L11;F-26;C;Eurocompound S.p.A.;EC-26224;Nedostrek;12;Montážna linka zákazníka;Nie;Uzavretá;16.07.2026;47;376,99;J. Babiak
+RK-2026-103;31.05.2026;22;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L07;F-18;C;Granoplast a.s.;GP-26222;Netesnosť;116;Reklamácia z poľa;Áno;Uzavretá;30.06.2026;30;2934,57;P. Valach
+RK-2026-104;31.05.2026;22;Alpenmobil GmbH;AT;CC-80;Chladiaci uzáver;4430-080;L13;F-30;A;Polymera GmbH;PM-26222;Chýbajúci O-krúžok;8;Vstupná kontrola zákazníka;Nie;Uzavretá;01.07.2026;31;319,85;M. Hrnčiar
+RK-2026-105;01.06.2026;23;Alpenmobil GmbH;AT;CC-80;Chladiaci uzáver;4430-080;L08;F-20;C;Polymera GmbH;PM-26232;Deformácia;2;Audit zákazníka;Nie;Uzavretá;11.07.2026;40;148,68;K. Šimková
+RK-2026-106;01.06.2026;23;Baustahl Maschinen GmbH;DE;BV-15;Odvetrávací ventil batérie;4450-015;L11;F-26;A;Granoplast a.s.;GP-26231;Deformácia;30;Vstupná kontrola zákazníka;Nie;Uzavretá;19.06.2026;18;827,85;M. Hrnčiar
+RK-2026-107;01.06.2026;23;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L08;F-20;C;Eurocompound S.p.A.;EC-26231;Chýbajúci O-krúžok;27;Montážna linka zákazníka;Áno;Uzavretá;22.06.2026;21;766,68;J. Babiak
+RK-2026-108;01.06.2026;23;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L04;F-12;C;Eurocompound S.p.A.;EC-26234;Otrepy;39;Montážna linka zákazníka;Áno;Uzavretá;10.06.2026;9;841,44;K. Šimková
+RK-2026-109;01.06.2026;23;Alpenmobil GmbH;AT;BV-15;Odvetrávací ventil batérie;4450-015;L10;F-24;C;Granoplast a.s.;GP-26232;Nedostrek;35;Vstupná kontrola zákazníka;Áno;Uzavretá;10.06.2026;9;2168,99;L. Ondrušová
+RK-2026-110;03.06.2026;23;Agrodyn S.A.;FR;TC-250;Palivový uzáver;4410-250;L07;F-18;A;Granoplast a.s.;GP-26232;Netesnosť;45;Montážna linka zákazníka;Áno;Uzavretá;29.06.2026;26;2157,98;J. Babiak
+RK-2026-111;05.06.2026;23;Alpenmobil GmbH;AT;CC-80;Chladiaci uzáver;4430-080;L07;F-18;C;Granoplast a.s.;GP-26232;Netesnosť;43;Vstupná kontrola zákazníka;Áno;Uzavretá;16.07.2026;41;2536,79;J. Babiak
+RK-2026-112;05.06.2026;23;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26233;Netesnosť;76;Montážna linka zákazníka;Áno;Uzavretá;03.07.2026;28;2921,3;J. Babiak
+RK-2026-113;05.06.2026;23;Alpenmobil GmbH;AT;OC-110;Olejový uzáver;4420-110;L06;F-16;A;Eurocompound S.p.A.;EC-26232;Otrepy;27;Vstupná kontrola zákazníka;Nie;Uzavretá;22.06.2026;17;647,24;P. Valach
+RK-2026-114;07.06.2026;23;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26234;Netesnosť;114;Montážna linka zákazníka;Áno;Uzavretá;12.07.2026;35;3525,23;L. Ondrušová
+RK-2026-115;07.06.2026;23;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L09;F-22;A;Granoplast a.s.;GP-26231;Netesnosť;72;Vstupná kontrola zákazníka;Áno;Uzavretá;28.06.2026;21;1682,07;J. Babiak
+RK-2026-116;08.06.2026;24;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;A;Granoplast a.s.;GP-26243;Netesnosť;113;Vstupná kontrola zákazníka;Áno;Uzavretá;18.07.2026;40;2667,14;J. Babiak
+RK-2026-117;08.06.2026;24;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L14;F-32;C;Eurocompound S.p.A.;EC-26242;Otrepy;39;Montážna linka zákazníka;Áno;Uzavretá;18.06.2026;10;1888,94;J. Babiak
+RK-2026-118;08.06.2026;24;Baustahl Maschinen GmbH;DE;TC-250;Palivový uzáver;4410-250;L04;F-12;A;Granoplast a.s.;GP-26242;Deformácia;14;Reklamácia z poľa;Áno;Uzavretá;05.07.2026;27;1844,67;K. Šimková
+RK-2026-119;09.06.2026;24;Agrodyn S.A.;FR;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26242;Netesnosť;99;Vstupná kontrola zákazníka;Áno;Uzavretá;15.07.2026;36;3411,33;J. Babiak
+RK-2026-120;09.06.2026;24;Alpenmobil GmbH;AT;CC-80;Chladiaci uzáver;4430-080;L13;F-30;C;Granoplast a.s.;GP-26243;Prasklina;16;Montážna linka zákazníka;Nie;Uzavretá;09.07.2026;30;417,21;P. Valach
+RK-2026-121;12.06.2026;24;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L06;F-16;C;Granoplast a.s.;GP-26244;Chýbajúci O-krúžok;24;Montážna linka zákazníka;Nie;Uzavretá;17.07.2026;35;492,84;P. Valach
+RK-2026-122;14.06.2026;24;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L04;F-12;C;Eurocompound S.p.A.;EC-26242;Netesnosť;31;Vstupná kontrola zákazníka;Áno;Uzavretá;16.07.2026;32;1893,55;M. Hrnčiar
+RK-2026-123;15.06.2026;25;Agrodyn S.A.;FR;TC-250;Palivový uzáver;4410-250;L07;F-18;C;Granoplast a.s.;GP-26252;Netesnosť;38;Montážna linka zákazníka;Áno;Uzavretá;28.07.2026;43;1554,46;K. Šimková
+RK-2026-124;15.06.2026;25;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L07;F-18;B;Granoplast a.s.;GP-26253;Netesnosť;47;Vstupná kontrola zákazníka;Áno;Uzavretá;27.07.2026;42;1981,14;P. Valach
+RK-2026-125;15.06.2026;25;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L05;F-14;C;Granoplast a.s.;GP-26253;Poškodený závit;32;Audit zákazníka;Áno;Uzavretá;01.08.2026;47;1586,91;K. Šimková
+RK-2026-126;18.06.2026;25;Baustahl Maschinen GmbH;DE;CC-80;Chladiaci uzáver;4430-080;L11;F-26;B;Polymera GmbH;PM-26251;Otrepy;9;Montážna linka zákazníka;Nie;Uzavretá;05.07.2026;17;342,13;L. Ondrušová
+RK-2026-127;19.06.2026;25;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L14;F-32;A;Eurocompound S.p.A.;EC-26251;Deformácia;3;Reklamácia z poľa;Áno;Uzavretá;29.06.2026;10;1366,19;J. Babiak
+RK-2026-128;20.06.2026;25;Agrodyn S.A.;FR;AB-32;AdBlue uzáver;4440-032;L07;F-18;B;Granoplast a.s.;GP-26252;Netesnosť;22;Reklamácia z poľa;Áno;Uzavretá;10.07.2026;20;743,98;L. Ondrušová
+RK-2026-129;20.06.2026;25;Agrodyn S.A.;FR;CC-80;Chladiaci uzáver;4430-080;L07;F-18;C;Granoplast a.s.;GP-26254;Netesnosť;63;Vstupná kontrola zákazníka;Áno;Uzavretá;04.08.2026;45;2790,16;J. Babiak
+RK-2026-130;20.06.2026;25;Norvik Trucks AG;DE;BV-15;Odvetrávací ventil batérie;4450-015;L07;F-18;C;Eurocompound S.p.A.;EC-26253;Deformácia;2;Vstupná kontrola zákazníka;Nie;Uzavretá;22.07.2026;32;169,49;L. Ondrušová
+RK-2026-131;20.06.2026;25;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L13;F-30;A;Eurocompound S.p.A.;EC-26251;Nedostrek;19;Vstupná kontrola zákazníka;Nie;Uzavretá;23.07.2026;33;601,18;M. Hrnčiar
+RK-2026-132;21.06.2026;25;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L07;F-18;C;Granoplast a.s.;GP-26253;Netesnosť;72;Vstupná kontrola zákazníka;Áno;Uzavretá;09.07.2026;18;1906,74;P. Valach
+RK-2026-133;23.06.2026;26;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L07;F-18;A;Granoplast a.s.;GP-26262;Netesnosť;106;Vstupná kontrola zákazníka;Áno;Uzavretá;22.07.2026;29;3264,41;K. Šimková
+RK-2026-134;23.06.2026;26;Alpenmobil GmbH;AT;OC-110;Olejový uzáver;4420-110;L09;F-22;B;Granoplast a.s.;GP-26261;Deformácia;20;Montážna linka zákazníka;Áno;Uzavretá;09.08.2026;47;1712,68;M. Hrnčiar
+RK-2026-135;25.06.2026;26;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L07;F-18;C;Granoplast a.s.;GP-26262;Netesnosť;56;Vstupná kontrola zákazníka;Áno;Uzavretá;05.08.2026;41;2105,65;M. Hrnčiar
+RK-2026-136;26.06.2026;26;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L13;F-30;B;Granoplast a.s.;GP-26261;Poškodený závit;32;Reklamácia z poľa;Áno;Uzavretá;12.08.2026;47;1763,09;L. Ondrušová
+RK-2026-137;27.06.2026;26;Agrodyn S.A.;FR;TC-250;Palivový uzáver;4410-250;L04;F-12;C;Granoplast a.s.;GP-26261;Chýbajúci O-krúžok;3;Vstupná kontrola zákazníka;Nie;Uzavretá;08.08.2026;42;95,32;P. Valach
+RK-2026-138;28.06.2026;26;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L07;F-18;B;Granoplast a.s.;GP-26263;Netesnosť;120;Montážna linka zákazníka;Áno;Uzavretá;15.08.2026;48;2824,48;M. Hrnčiar
+RK-2026-139;30.06.2026;27;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L10;F-24;C;Granoplast a.s.;GP-26272;Nedostrek;14;Montážna linka zákazníka;Nie;Uzavretá;31.07.2026;31;397,9;L. Ondrušová
+RK-2026-140;01.07.2026;27;Agrodyn S.A.;FR;TC-250;Palivový uzáver;4410-250;L09;F-22;C;Granoplast a.s.;GP-26271;Chýbajúci O-krúžok;25;Montážna linka zákazníka;Nie;Uzavretá;28.07.2026;27;545,1;L. Ondrušová
+RK-2026-141;02.07.2026;27;Baustahl Maschinen GmbH;DE;CC-80;Chladiaci uzáver;4430-080;L02;F-08;B;Polymera GmbH;PM-26271;Netesnosť;100;Audit zákazníka;Áno;Uzavretá;11.07.2026;9;1675,21;P. Valach
+RK-2026-142;04.07.2026;27;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L12;F-28;A;Granoplast a.s.;GP-26271;Prasklina;39;Montážna linka zákazníka;Áno;Uzavretá;17.08.2026;44;2012,46;P. Valach
+RK-2026-143;05.07.2026;27;Velor Vans s.r.o.;CZ;AB-32;AdBlue uzáver;4440-032;L07;F-18;A;Granoplast a.s.;GP-26274;Netesnosť;105;Audit zákazníka;Áno;Uzavretá;11.08.2026;37;2385,97;J. Babiak
+RK-2026-144;05.07.2026;27;Norvik Trucks AG;DE;BV-15;Odvetrávací ventil batérie;4450-015;L13;F-30;C;Granoplast a.s.;GP-26272;Poškodený závit;12;Montážna linka zákazníka;Nie;Uzavretá;04.08.2026;30;291,28;M. Hrnčiar
+RK-2026-145;05.07.2026;27;Baustahl Maschinen GmbH;DE;TC-250;Palivový uzáver;4410-250;L02;F-08;B;Granoplast a.s.;GP-26273;Prasklina;6;Vstupná kontrola zákazníka;Nie;Uzavretá;20.08.2026;46;187,85;M. Hrnčiar
+RK-2026-146;07.07.2026;28;Agrodyn S.A.;FR;TC-250;Palivový uzáver;4410-250;L04;F-12;B;Eurocompound S.p.A.;EC-26281;Netesnosť;16;Vstupná kontrola zákazníka;Áno;Uzavretá;01.08.2026;25;1678,52;K. Šimková
+RK-2026-147;07.07.2026;28;Velor Vans s.r.o.;CZ;CC-80;Chladiaci uzáver;4430-080;L10;F-24;A;Granoplast a.s.;GP-26281;Nesprávna farba;6;Vstupná kontrola zákazníka;Nie;Uzavretá;17.08.2026;41;222,96;M. Hrnčiar
+RK-2026-148;08.07.2026;28;Agrodyn S.A.;FR;TC-250;Palivový uzáver;4410-250;L07;F-18;C;Granoplast a.s.;GP-26284;Netesnosť;50;Montážna linka zákazníka;Áno;Uzavretá;21.08.2026;44;1625,37;M. Hrnčiar
+RK-2026-149;11.07.2026;28;Velor Vans s.r.o.;CZ;OC-110;Olejový uzáver;4420-110;L09;F-22;B;Eurocompound S.p.A.;EC-26282;Poškodený závit;19;Vstupná kontrola zákazníka;Áno;Uzavretá;21.08.2026;41;2161,85;J. Babiak
+RK-2026-150;12.07.2026;28;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L08;F-20;C;Eurocompound S.p.A.;EC-26284;Chýbajúci O-krúžok;11;Vstupná kontrola zákazníka;Nie;Uzavretá;04.08.2026;23;222,8;P. Valach
+RK-2026-151;12.07.2026;28;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L09;F-22;B;Eurocompound S.p.A.;EC-26284;Nedostrek;27;Vstupná kontrola zákazníka;Áno;Uzavretá;10.08.2026;29;1001,23;L. Ondrušová
+RK-2026-152;14.07.2026;29;Alpenmobil GmbH;AT;BV-15;Odvetrávací ventil batérie;4450-015;L13;F-30;C;Polymera GmbH;PM-26294;Chýbajúci O-krúžok;40;Vstupná kontrola zákazníka;Áno;Uzavretá;26.07.2026;12;740,61;P. Valach
+RK-2026-153;16.07.2026;29;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L07;F-18;A;Polymera GmbH;PM-26292;Otrepy;40;Vstupná kontrola zákazníka;Áno;Uzavretá;12.08.2026;27;1534,84;P. Valach
+RK-2026-154;17.07.2026;29;Baustahl Maschinen GmbH;DE;OC-110;Olejový uzáver;4420-110;L08;F-20;C;Granoplast a.s.;GP-26294;Deformácia;21;Montážna linka zákazníka;Nie;Uzavretá;04.08.2026;18;397,07;P. Valach
+RK-2026-155;18.07.2026;29;Agrodyn S.A.;FR;TC-250;Palivový uzáver;4410-250;L07;F-18;C;Granoplast a.s.;GP-26292;Netesnosť;42;Montážna linka zákazníka;Áno;Uzavretá;02.09.2026;46;1809,91;P. Valach
+RK-2026-156;18.07.2026;29;Velor Vans s.r.o.;CZ;CC-80;Chladiaci uzáver;4430-080;L01;F-06;B;Granoplast a.s.;GP-26292;Netesnosť;53;Vstupná kontrola zákazníka;Áno;Uzavretá;18.08.2026;31;2426,6;L. Ondrušová
+RK-2026-157;18.07.2026;29;Velor Vans s.r.o.;CZ;BV-15;Odvetrávací ventil batérie;4450-015;L11;F-26;C;Eurocompound S.p.A.;EC-26292;Nedostrek;35;Vstupná kontrola zákazníka;Áno;Uzavretá;28.08.2026;41;1718,07;J. Babiak
+RK-2026-158;18.07.2026;29;Alpenmobil GmbH;AT;CC-80;Chladiaci uzáver;4430-080;L06;F-16;A;Polymera GmbH;PM-26294;Deformácia;19;Reklamácia z poľa;Áno;Uzavretá;28.07.2026;10;1866,77;J. Babiak
+RK-2026-159;18.07.2026;29;Norvik Trucks AG;DE;BV-15;Odvetrávací ventil batérie;4450-015;L08;F-20;B;Granoplast a.s.;GP-26294;Nedostrek;9;Montážna linka zákazníka;Áno;Uzavretá;09.08.2026;22;1530,92;M. Hrnčiar
+RK-2026-160;21.07.2026;30;Baustahl Maschinen GmbH;DE;TC-250;Palivový uzáver;4410-250;L07;F-18;C;Granoplast a.s.;GP-26304;Netesnosť;62;Audit zákazníka;Áno;Uzavretá;26.08.2026;36;2128,84;L. Ondrušová
+RK-2026-161;21.07.2026;30;Agrodyn S.A.;FR;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26301;Netesnosť;9;Montážna linka zákazníka;Áno;Uzavretá;19.08.2026;29;1681,54;M. Hrnčiar
+RK-2026-162;23.07.2026;30;Alpenmobil GmbH;AT;BV-15;Odvetrávací ventil batérie;4450-015;L14;F-32;C;Granoplast a.s.;GP-26304;Poškodený závit;16;Montážna linka zákazníka;Nie;Uzavretá;08.08.2026;16;327,88;P. Valach
+RK-2026-163;25.07.2026;30;Agrodyn S.A.;FR;TC-250;Palivový uzáver;4410-250;L10;F-24;C;Eurocompound S.p.A.;EC-26302;Deformácia;28;Vstupná kontrola zákazníka;Áno;Uzavretá;16.08.2026;22;1753,09;J. Babiak
+RK-2026-164;26.07.2026;30;Baustahl Maschinen GmbH;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;A;Granoplast a.s.;GP-26301;Netesnosť;52;Vstupná kontrola zákazníka;Áno;Uzavretá;07.09.2026;43;1460,85;J. Babiak
+RK-2026-165;26.07.2026;30;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L05;F-14;C;Polymera GmbH;PM-26303;Otrepy;7;Vstupná kontrola zákazníka;Áno;Uzavretá;08.08.2026;13;1533,88;P. Valach
+RK-2026-166;26.07.2026;30;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L01;F-06;B;Granoplast a.s.;GP-26304;Otrepy;22;Montážna linka zákazníka;Áno;Uzavretá;03.09.2026;39;1350,36;J. Babiak
+RK-2026-167;27.07.2026;31;Baustahl Maschinen GmbH;DE;BV-15;Odvetrávací ventil batérie;4450-015;L11;F-26;B;Polymera GmbH;PM-26311;Nesprávna farba;21;Vstupná kontrola zákazníka;Áno;Uzavretá;09.08.2026;13;1009,78;K. Šimková
+RK-2026-168;28.07.2026;31;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26314;Netesnosť;99;Vstupná kontrola zákazníka;Áno;Uzavretá;14.08.2026;17;2397,79;J. Babiak
+RK-2026-169;30.07.2026;31;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L07;F-18;B;Granoplast a.s.;GP-26314;Netesnosť;34;Montážna linka zákazníka;Áno;Uzavretá;14.09.2026;46;1648,25;J. Babiak
+RK-2026-170;31.07.2026;31;Baustahl Maschinen GmbH;DE;OC-110;Olejový uzáver;4420-110;L12;F-28;C;Polymera GmbH;PM-26312;Chýbajúci O-krúžok;2;Montážna linka zákazníka;Áno;Uzavretá;03.09.2026;34;916,65;K. Šimková
+RK-2026-171;01.08.2026;31;Agrodyn S.A.;FR;OC-110;Olejový uzáver;4420-110;L11;F-26;A;Polymera GmbH;PM-26312;Netesnosť;40;Montážna linka zákazníka;Áno;Uzavretá;11.08.2026;10;2159,47;P. Valach
+RK-2026-172;02.08.2026;31;Agrodyn S.A.;FR;BV-15;Odvetrávací ventil batérie;4450-015;L06;F-16;A;Granoplast a.s.;GP-26313;Nedostrek;21;Vstupná kontrola zákazníka;Áno;Uzavretá;24.08.2026;22;1406,33;L. Ondrušová
+RK-2026-173;02.08.2026;31;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L02;F-08;B;Polymera GmbH;PM-26312;Nesprávna farba;25;Montážna linka zákazníka;Nie;Uzavretá;15.08.2026;13;555,63;P. Valach
+RK-2026-174;03.08.2026;32;Agrodyn S.A.;FR;AB-32;AdBlue uzáver;4440-032;L01;F-06;B;Granoplast a.s.;GP-26321;Nesprávna farba;40;Montážna linka zákazníka;Áno;Uzavretá;17.08.2026;14;1180,72;K. Šimková
+RK-2026-175;04.08.2026;32;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L01;F-06;B;Eurocompound S.p.A.;EC-26324;Netesnosť;52;Montážna linka zákazníka;Áno;Uzavretá;11.09.2026;38;1925,24;J. Babiak
+RK-2026-176;05.08.2026;32;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26322;Netesnosť;28;Montážna linka zákazníka;Áno;Uzavretá;14.09.2026;40;1772,3;L. Ondrušová
+RK-2026-177;05.08.2026;32;Agrodyn S.A.;FR;TC-250;Palivový uzáver;4410-250;L05;F-14;B;Polymera GmbH;PM-26321;Deformácia;11;Montážna linka zákazníka;Áno;Uzavretá;22.08.2026;17;1120,49;P. Valach
+RK-2026-178;06.08.2026;32;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L07;F-18;A;Granoplast a.s.;GP-26324;Netesnosť;6;Montážna linka zákazníka;Áno;Uzavretá;24.08.2026;18;1863,33;J. Babiak
+RK-2026-179;06.08.2026;32;Alpenmobil GmbH;AT;CC-80;Chladiaci uzáver;4430-080;L05;F-14;A;Polymera GmbH;PM-26321;Otrepy;32;Vstupná kontrola zákazníka;Áno;Uzavretá;09.09.2026;34;915,3;K. Šimková
+RK-2026-180;07.08.2026;32;Agrodyn S.A.;FR;AB-32;AdBlue uzáver;4440-032;L10;F-24;C;Eurocompound S.p.A.;EC-26324;Prasklina;19;Vstupná kontrola zákazníka;Áno;Uzavretá;16.09.2026;40;1713,41;L. Ondrušová
+RK-2026-181;09.08.2026;32;Velor Vans s.r.o.;CZ;BV-15;Odvetrávací ventil batérie;4450-015;L13;F-30;C;Eurocompound S.p.A.;EC-26323;Netesnosť;70;Vstupná kontrola zákazníka;Áno;Uzavretá;22.08.2026;13;1988,44;L. Ondrušová
+RK-2026-182;11.08.2026;33;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L07;F-18;A;Granoplast a.s.;GP-26331;Netesnosť;110;Montážna linka zákazníka;Áno;Uzavretá;14.09.2026;34;3555,95;K. Šimková
+RK-2026-183;12.08.2026;33;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;A;Granoplast a.s.;GP-26331;Netesnosť;43;Reklamácia z poľa;Áno;Uzavretá;20.08.2026;8;1461,27;J. Babiak
+RK-2026-184;13.08.2026;33;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L08;F-20;B;Polymera GmbH;PM-26333;Deformácia;8;Montážna linka zákazníka;Áno;Uzavretá;01.09.2026;19;1338,2;L. Ondrušová
+RK-2026-185;13.08.2026;33;Alpenmobil GmbH;AT;OC-110;Olejový uzáver;4420-110;L03;F-10;C;Polymera GmbH;PM-26333;Chýbajúci O-krúžok;28;Vstupná kontrola zákazníka;Áno;Uzavretá;01.09.2026;19;2056,29;L. Ondrušová
+RK-2026-186;14.08.2026;33;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L12;F-28;A;Granoplast a.s.;GP-26333;Nedostrek;18;Montážna linka zákazníka;Áno;Uzavretá;09.09.2026;26;1130,04;L. Ondrušová
+RK-2026-187;15.08.2026;33;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26334;Netesnosť;120;Montážna linka zákazníka;Áno;Uzavretá;27.08.2026;12;2716,66;M. Hrnčiar
+RK-2026-188;15.08.2026;33;Agrodyn S.A.;FR;CC-80;Chladiaci uzáver;4430-080;L06;F-16;B;Eurocompound S.p.A.;EC-26332;Netesnosť;40;Reklamácia z poľa;Áno;Uzavretá;29.08.2026;14;1223,78;P. Valach
+RK-2026-189;16.08.2026;33;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26333;Netesnosť;111;Vstupná kontrola zákazníka;Áno;Uzavretá;16.09.2026;31;2871,43;J. Babiak
+RK-2026-190;16.08.2026;33;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26334;Netesnosť;53;Montážna linka zákazníka;Áno;Uzavretá;01.10.2026;46;2477,8;L. Ondrušová
+RK-2026-191;16.08.2026;33;Velor Vans s.r.o.;CZ;AB-32;AdBlue uzáver;4440-032;L11;F-26;B;Granoplast a.s.;GP-26331;Deformácia;18;Montážna linka zákazníka;Nie;Uzavretá;20.09.2026;35;493,09;M. Hrnčiar
+RK-2026-192;17.08.2026;34;Alpenmobil GmbH;AT;CC-80;Chladiaci uzáver;4430-080;L07;F-18;C;Granoplast a.s.;GP-26341;Netesnosť;98;Audit zákazníka;Áno;Uzavretá;02.10.2026;46;2565,45;L. Ondrušová
+RK-2026-193;17.08.2026;34;Agrodyn S.A.;FR;BV-15;Odvetrávací ventil batérie;4450-015;L10;F-24;C;Eurocompound S.p.A.;EC-26343;Netesnosť;55;Vstupná kontrola zákazníka;Áno;Uzavretá;19.09.2026;33;2126,84;P. Valach
+RK-2026-194;18.08.2026;34;Velor Vans s.r.o.;CZ;TC-250;Palivový uzáver;4410-250;L02;F-08;C;Eurocompound S.p.A.;EC-26341;Prasklina;22;Montážna linka zákazníka;Áno;Uzavretá;29.09.2026;42;1924,25;M. Hrnčiar
+RK-2026-195;19.08.2026;34;Agrodyn S.A.;FR;BV-15;Odvetrávací ventil batérie;4450-015;L10;F-24;A;Polymera GmbH;PM-26342;Netesnosť;17;Montážna linka zákazníka;Áno;Uzavretá;23.09.2026;35;1850,75;J. Babiak
+RK-2026-196;19.08.2026;34;Baustahl Maschinen GmbH;DE;AB-32;AdBlue uzáver;4440-032;L10;F-24;C;Eurocompound S.p.A.;EC-26343;Deformácia;30;Vstupná kontrola zákazníka;Nie;Uzavretá;06.09.2026;18;889,3;K. Šimková
+RK-2026-197;20.08.2026;34;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L02;F-08;A;Polymera GmbH;PM-26342;Prasklina;18;Vstupná kontrola zákazníka;Nie;Uzavretá;11.09.2026;22;360,83;M. Hrnčiar
+RK-2026-198;21.08.2026;34;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26341;Netesnosť;55;Montážna linka zákazníka;Áno;Uzavretá;10.09.2026;20;1238,7;M. Hrnčiar
+RK-2026-199;21.08.2026;34;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26344;Netesnosť;32;Montážna linka zákazníka;Áno;Uzavretá;04.09.2026;14;1614,14;M. Hrnčiar
+RK-2026-200;21.08.2026;34;Velor Vans s.r.o.;CZ;AB-32;AdBlue uzáver;4440-032;L07;F-18;B;Granoplast a.s.;GP-26342;Netesnosť;6;Montážna linka zákazníka;Áno;Uzavretá;03.09.2026;13;1064,55;J. Babiak
+RK-2026-201;23.08.2026;34;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L12;F-28;A;Eurocompound S.p.A.;EC-26343;Nedostrek;5;Vstupná kontrola zákazníka;Áno;Uzavretá;04.09.2026;12;903,05;K. Šimková
+RK-2026-202;24.08.2026;35;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L07;F-18;C;Granoplast a.s.;GP-26351;Netesnosť;53;Montážna linka zákazníka;Áno;Uzavretá;07.09.2026;14;2234,75;L. Ondrušová
+RK-2026-203;28.08.2026;35;Alpenmobil GmbH;AT;BV-15;Odvetrávací ventil batérie;4450-015;L12;F-28;C;Polymera GmbH;PM-26352;Nedostrek;37;Vstupná kontrola zákazníka;Áno;Uzavretá;14.10.2026;47;1238,72;K. Šimková
+RK-2026-204;28.08.2026;35;Velor Vans s.r.o.;CZ;TC-250;Palivový uzáver;4410-250;L14;F-32;B;Eurocompound S.p.A.;EC-26351;Poškodený závit;27;Montážna linka zákazníka;Nie;Uzavretá;16.09.2026;19;334,53;L. Ondrušová
+RK-2026-205;29.08.2026;35;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L03;F-10;A;Polymera GmbH;PM-26351;Deformácia;25;Vstupná kontrola zákazníka;Nie;Uzavretá;24.09.2026;26;574,14;K. Šimková
+RK-2026-206;29.08.2026;35;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L08;F-20;A;Polymera GmbH;PM-26351;Chýbajúci O-krúžok;36;Montážna linka zákazníka;Áno;Uzavretá;12.10.2026;44;2169,26;P. Valach
+RK-2026-207;30.08.2026;35;Velor Vans s.r.o.;CZ;BV-15;Odvetrávací ventil batérie;4450-015;L11;F-26;B;Eurocompound S.p.A.;EC-26351;Nesprávna farba;14;Montážna linka zákazníka;Nie;Uzavretá;17.09.2026;18;364,17;K. Šimková
+RK-2026-208;31.08.2026;36;Agrodyn S.A.;FR;BV-15;Odvetrávací ventil batérie;4450-015;L08;F-20;B;Granoplast a.s.;GP-26361;Otrepy;32;Vstupná kontrola zákazníka;Áno;Uzavretá;21.09.2026;21;1686,72;P. Valach
+RK-2026-209;02.09.2026;36;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L04;F-12;B;Granoplast a.s.;GP-26362;Netesnosť;45;Vstupná kontrola zákazníka;Áno;Otvorená;;;1585,62;J. Babiak
+RK-2026-210;02.09.2026;36;Alpenmobil GmbH;AT;CC-80;Chladiaci uzáver;4430-080;L01;F-06;A;Eurocompound S.p.A.;EC-26364;Chýbajúci O-krúžok;5;Vstupná kontrola zákazníka;Áno;Uzavretá;21.09.2026;19;438,29;L. Ondrušová
+RK-2026-211;03.09.2026;36;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L04;F-12;A;Granoplast a.s.;GP-26362;Poškodený závit;19;Montážna linka zákazníka;Nie;Otvorená;;;400,1;P. Valach
+RK-2026-212;03.09.2026;36;Baustahl Maschinen GmbH;DE;BV-15;Odvetrávací ventil batérie;4450-015;L01;F-06;B;Eurocompound S.p.A.;EC-26363;Poškodený závit;6;Vstupná kontrola zákazníka;Nie;Otvorená;;;202,63;J. Babiak
+RK-2026-213;04.09.2026;36;Baustahl Maschinen GmbH;DE;TC-250;Palivový uzáver;4410-250;L02;F-08;B;Polymera GmbH;PM-26364;Prasklina;38;Montážna linka zákazníka;Áno;Otvorená;;;1077,61;K. Šimková
+RK-2026-214;05.09.2026;36;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;A;Granoplast a.s.;GP-26361;Netesnosť;12;Vstupná kontrola zákazníka;Áno;Otvorená;;;1344,54;P. Valach
+RK-2026-215;06.09.2026;36;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L02;F-08;C;Polymera GmbH;PM-26363;Chýbajúci O-krúžok;12;Vstupná kontrola zákazníka;Nie;Uzavretá;12.09.2026;6;373,69;K. Šimková
+RK-2026-216;07.09.2026;37;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L08;F-20;B;Granoplast a.s.;GP-26373;Nesprávna farba;24;Vstupná kontrola zákazníka;Nie;Otvorená;;;481,81;J. Babiak
+RK-2026-217;08.09.2026;37;Agrodyn S.A.;FR;CC-80;Chladiaci uzáver;4430-080;L13;F-30;A;Granoplast a.s.;GP-26374;Deformácia;18;Montážna linka zákazníka;Nie;Otvorená;;;353,12;L. Ondrušová
+RK-2026-218;08.09.2026;37;Alpenmobil GmbH;AT;BV-15;Odvetrávací ventil batérie;4450-015;L04;F-12;B;Polymera GmbH;PM-26371;Prasklina;24;Vstupná kontrola zákazníka;Nie;Uzavretá;24.09.2026;16;357,21;K. Šimková
+RK-2026-219;09.09.2026;37;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L07;F-18;C;Granoplast a.s.;GP-26374;Netesnosť;99;Montážna linka zákazníka;Áno;Uzavretá;15.09.2026;6;2213,38;K. Šimková
+RK-2026-220;09.09.2026;37;Baustahl Maschinen GmbH;DE;BV-15;Odvetrávací ventil batérie;4450-015;L08;F-20;B;Granoplast a.s.;GP-26374;Nedostrek;12;Reklamácia z poľa;Áno;Otvorená;;;1865,17;K. Šimková
+RK-2026-221;09.09.2026;37;Alpenmobil GmbH;AT;BV-15;Odvetrávací ventil batérie;4450-015;L05;F-14;C;Eurocompound S.p.A.;EC-26371;Nedostrek;21;Vstupná kontrola zákazníka;Nie;Otvorená;;;574,52;L. Ondrušová
+RK-2026-222;10.09.2026;37;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L09;F-22;A;Polymera GmbH;PM-26371;Netesnosť;91;Reklamácia z poľa;Áno;Otvorená;;;3711,13;J. Babiak
+RK-2026-223;11.09.2026;37;Norvik Trucks AG;DE;OC-110;Olejový uzáver;4420-110;L03;F-10;A;Eurocompound S.p.A.;EC-26371;Netesnosť;115;Vstupná kontrola zákazníka;Áno;Otvorená;;;2653,95;P. Valach
+RK-2026-224;11.09.2026;37;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L04;F-12;B;Granoplast a.s.;GP-26374;Nedostrek;13;Vstupná kontrola zákazníka;Nie;Otvorená;;;275,33;K. Šimková
+RK-2026-225;11.09.2026;37;Norvik Trucks AG;DE;TC-250;Palivový uzáver;4410-250;L14;F-32;A;Eurocompound S.p.A.;EC-26373;Chýbajúci O-krúžok;35;Montážna linka zákazníka;Áno;Uzavretá;17.09.2026;6;1075,11;M. Hrnčiar
+RK-2026-226;12.09.2026;37;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L14;F-32;B;Polymera GmbH;PM-26372;Nedostrek;22;Vstupná kontrola zákazníka;Nie;Otvorená;;;513,67;L. Ondrušová
+RK-2026-227;12.09.2026;37;Velor Vans s.r.o.;CZ;CC-80;Chladiaci uzáver;4430-080;L10;F-24;A;Granoplast a.s.;GP-26371;Otrepy;16;Vstupná kontrola zákazníka;Áno;Otvorená;;;893,35;K. Šimková
+RK-2026-228;13.09.2026;37;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26371;Netesnosť;119;Reklamácia z poľa;Áno;Otvorená;;;3444,15;L. Ondrušová
+RK-2026-229;14.09.2026;38;Agrodyn S.A.;FR;AB-32;AdBlue uzáver;4440-032;L08;F-20;C;Eurocompound S.p.A.;EC-26384;Poškodený závit;7;Montážna linka zákazníka;Nie;Otvorená;;;229,05;K. Šimková
+RK-2026-230;16.09.2026;38;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L10;F-24;B;Polymera GmbH;PM-26383;Nedostrek;16;Vstupná kontrola zákazníka;Nie;Otvorená;;;440,43;P. Valach
+RK-2026-231;17.09.2026;38;Agrodyn S.A.;FR;OC-110;Olejový uzáver;4420-110;L11;F-26;B;Granoplast a.s.;GP-26381;Chýbajúci O-krúžok;29;Vstupná kontrola zákazníka;Áno;Otvorená;;;1767,53;K. Šimková
+RK-2026-232;17.09.2026;38;Alpenmobil GmbH;AT;CC-80;Chladiaci uzáver;4430-080;L12;F-28;B;Granoplast a.s.;GP-26382;Poškodený závit;7;Vstupná kontrola zákazníka;Nie;Otvorená;;;189,23;J. Babiak
+RK-2026-233;19.09.2026;38;Norvik Trucks AG;DE;BV-15;Odvetrávací ventil batérie;4450-015;L10;F-24;A;Polymera GmbH;PM-26383;Netesnosť;44;Montážna linka zákazníka;Áno;Otvorená;;;1959,12;L. Ondrušová
+RK-2026-234;19.09.2026;38;Norvik Trucks AG;DE;BV-15;Odvetrávací ventil batérie;4450-015;L04;F-12;B;Eurocompound S.p.A.;EC-26381;Deformácia;3;Vstupná kontrola zákazníka;Nie;Uzavretá;10.10.2026;21;187,98;P. Valach
+RK-2026-235;20.09.2026;38;Alpenmobil GmbH;AT;AB-32;AdBlue uzáver;4440-032;L07;F-18;A;Granoplast a.s.;GP-26382;Netesnosť;38;Reklamácia z poľa;Áno;Otvorená;;;1898,1;M. Hrnčiar
+RK-2026-236;21.09.2026;39;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L05;F-14;C;Polymera GmbH;PM-26392;Chýbajúci O-krúžok;30;Vstupná kontrola zákazníka;Áno;Uzavretá;30.09.2026;9;2367,7;K. Šimková
+RK-2026-237;22.09.2026;39;Agrodyn S.A.;FR;BV-15;Odvetrávací ventil batérie;4450-015;L08;F-20;B;Polymera GmbH;PM-26393;Netesnosť;110;Vstupná kontrola zákazníka;Áno;Otvorená;;;2756,79;M. Hrnčiar
+RK-2026-238;22.09.2026;39;Baustahl Maschinen GmbH;DE;CC-80;Chladiaci uzáver;4430-080;L12;F-28;B;Polymera GmbH;PM-26393;Nedostrek;2;Audit zákazníka;Áno;Otvorená;;;522,72;M. Hrnčiar
+RK-2026-239;23.09.2026;39;Alpenmobil GmbH;AT;BV-15;Odvetrávací ventil batérie;4450-015;L02;F-08;A;Granoplast a.s.;GP-26394;Netesnosť;10;Reklamácia z poľa;Áno;Otvorená;;;1532,96;M. Hrnčiar
+RK-2026-240;23.09.2026;39;Alpenmobil GmbH;AT;OC-110;Olejový uzáver;4420-110;L04;F-12;A;Granoplast a.s.;GP-26394;Prasklina;25;Montážna linka zákazníka;Áno;Otvorená;;;1232,67;K. Šimková
+RK-2026-241;24.09.2026;39;Agrodyn S.A.;FR;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26394;Netesnosť;9;Montážna linka zákazníka;Áno;Otvorená;;;1205,07;M. Hrnčiar
+RK-2026-242;25.09.2026;39;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L07;F-18;C;Granoplast a.s.;GP-26392;Netesnosť;16;Vstupná kontrola zákazníka;Áno;Uzavretá;13.10.2026;18;1773,47;L. Ondrušová
+RK-2026-243;26.09.2026;39;Agrodyn S.A.;FR;AB-32;AdBlue uzáver;4440-032;L07;F-18;C;Granoplast a.s.;GP-26394;Netesnosť;106;Vstupná kontrola zákazníka;Áno;Otvorená;;;2956,55;P. Valach
+RK-2026-244;27.09.2026;39;Alpenmobil GmbH;AT;TC-250;Palivový uzáver;4410-250;L08;F-20;B;Polymera GmbH;PM-26392;Prasklina;37;Montážna linka zákazníka;Áno;Otvorená;;;1197,81;M. Hrnčiar
+RK-2026-245;28.09.2026;40;Norvik Trucks AG;DE;CC-80;Chladiaci uzáver;4430-080;L07;F-18;C;Granoplast a.s.;GP-26402;Netesnosť;119;Reklamácia z poľa;Áno;Otvorená;;;3340,3;K. Šimková
+RK-2026-246;28.09.2026;40;Norvik Trucks AG;DE;AB-32;AdBlue uzáver;4440-032;L08;F-20;A;Eurocompound S.p.A.;EC-26404;Otrepy;7;Vstupná kontrola zákazníka;Áno;Uzavretá;07.10.2026;9;1854,23;P. Valach
+RK-2026-247;29.09.2026;40;Baustahl Maschinen GmbH;DE;TC-250;Palivový uzáver;4410-250;L07;F-18;C;Granoplast a.s.;GP-26403;Netesnosť;112;Audit zákazníka;Áno;Otvorená;;;3380,02;L. Ondrušová
+RK-2026-248;29.09.2026;40;Velor Vans s.r.o.;CZ;OC-110;Olejový uzáver;4420-110;L06;F-16;C;Eurocompound S.p.A.;EC-26402;Netesnosť;8;Montážna linka zákazníka;Áno;Otvorená;;;644,19;J. Babiak

@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="sk"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow"><title>Copilot v praxi – cvičenia</title>
+<link rel="icon" href="assets/symbol-balanced.png">
+<style>
+:root{--red:#E60000;--red2:#C80000;--black:#000;--dg:#333333;--g:#54595F;--lg:#F3F3F3;--line:#E2E2E2;--w:#fff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--w);color:var(--dg);font-family:Aptos,"Segoe UI",Arial,sans-serif;font-size:17px;line-height:1.55}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+.top{border-bottom:1px solid var(--line);background:var(--w);position:sticky;top:0;z-index:5}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:12px;padding-bottom:12px;flex-wrap:wrap}
+.top img{height:38px;display:block}
+.top nav{display:flex;gap:6px;flex-wrap:wrap}
+.top nav a{color:var(--dg);text-decoration:none;font-size:15px;padding:6px 12px;border-radius:999px;background:var(--lg)}
+.top nav a:hover{background:var(--red);color:var(--w)}
+.hero{padding:48px 0 28px}
+.hero .bar{width:72px;height:6px;background:var(--red);margin-bottom:18px}
+.hero h1{color:var(--black);font-size:clamp(32px,5vw,48px);line-height:1.1;margin:0 0 10px}
+.hero p{font-size:20px;margin:0;color:var(--g);max-width:820px}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:28px 0 8px}
+.step{background:var(--lg);padding:20px;border-radius:6px}
+.step b{color:var(--red);font-size:28px;display:block;line-height:1}
+.step h3{margin:8px 0 4px;color:var(--black);font-size:19px}
+.step p{margin:0;font-size:16px}
+.zip{display:inline-block;margin-top:22px;background:var(--red);color:var(--w);padding:14px 24px;border-radius:6px;text-decoration:none;font-weight:700;font-size:18px}
+.zip:hover{background:var(--red2)}
+.legend{margin:22px 0 0;font-size:15px;color:var(--g)}
+.blok{padding:36px 0 8px;border-top:1px solid var(--line);margin-top:28px}
+.blok h2{color:var(--black);font-size:30px;margin:0 0 4px}
+.blok .desc{margin:0 0 20px;color:var(--g)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:18px}
+.card{min-width:0;overflow-wrap:break-word;border:1px solid var(--line);border-radius:8px;padding:20px;background:var(--w);display:flex;flex-direction:column}
+.card header{display:flex;gap:14px;align-items:flex-start}
+.num{font-size:30px;font-weight:800;color:var(--red);line-height:1}
+.card h3{margin:0 0 8px;font-size:20px;color:var(--black);line-height:1.25}
+.tags{display:flex;gap:6px;flex-wrap:wrap}
+.tag{font-size:13px;font-weight:700;padding:3px 10px;border-radius:999px;background:var(--lg);color:var(--dg)}
+.tag.chat{background:var(--dg);color:var(--w)} .tag.prem{background:var(--red);color:var(--w)}
+.goal{color:var(--g);font-style:italic;margin:14px 0 4px}
+.card h4{margin:14px 0 4px;color:var(--red);font-size:15px;text-transform:uppercase;letter-spacing:.04em}
+.card p{margin:0}
+.files{margin:0;padding-left:18px;font-size:15px;overflow-wrap:anywhere} .files a{color:var(--dg)} .files a:hover{color:var(--red)}
+.prompt{position:relative;background:var(--lg);border-left:4px solid var(--red);border-radius:4px;padding:40px 14px 14px 16px}
+.prompt pre{margin:0;white-space:pre-wrap;overflow-wrap:anywhere;font-family:inherit;font-size:15px;color:var(--dg)}
+.copy{position:absolute;top:8px;right:8px;border:0;background:var(--w);color:var(--dg);font:inherit;font-size:13px;font-weight:700;padding:4px 10px;border-radius:4px;cursor:pointer}
+.copy:hover{background:var(--red);color:var(--w)}
+
+.variant{margin-top:14px!important;font-size:15px;background:#fff5f5;border-radius:4px;padding:10px 12px}
+footer{margin-top:48px;background:var(--dg);color:var(--w);padding:28px 0}
+footer .wrap{display:flex;align-items:center;gap:14px;flex-wrap:wrap;justify-content:space-between}
+footer p{margin:0;font-size:15px}
+@media (max-width:760px){.steps{grid-template-columns:1fr} .grid{grid-template-columns:1fr} .top nav{display:none}}
+</style></head><body>
+<div class="top"><div class="wrap"><img src="assets/logo-balanced.jpg" alt="BALANCED"><nav><a href="#B1">Základy pre všetkých</a><a href="#KV">Kvalita</a><a href="#NA">Nákup</a><a href="#PR">Procesný manažment</a><a href="#SP">Spoločné výstupy</a></nav></div></div>
+<main class="wrap">
+<section class="hero"><div class="bar"></div><h1>Microsoft Copilot v praxi</h1>
+<p>Cvičenia pre kvalitu, nákup a procesný manažment. Pracujeme na fiktívnej firme TESNEX s.r.o. Všetky údaje sú modelové.</p>
+<div class="steps">
+<div class="step"><b>1</b><h3>Stiahnite súbory</h3><p>Jeden ZIP so všetkými podkladmi. Rozbaľte ho do počítača.</p></div>
+<div class="step"><b>2</b><h3>Premium: nahrajte do OneDrive</h3><p>Cvičenia vo Worde a Exceli potrebujú súbory vo vašom OneDrive.</p></div>
+<div class="step"><b>3</b><h3>Vyberte si cvičenie</h3><p>Podľa útvaru a licencie. Prompt skopírujete jedným klikom.</p></div>
+</div>
+<a class="zip" href="subory/podklady-vsetko.zip" download>Stiahnuť všetky podklady (ZIP)</a>
+<p class="legend"><span class="tag chat">Copilot Chat</span> cvičenie pre všetkých &nbsp; <span class="tag prem">Premium</span> vyžaduje Microsoft 365 Copilot – pri cvičení je uvedený variant pre Copilot Chat</p>
+</section>
+<section class="blok" id="B1"><h2>Blok 1 – Základy pre všetkých</h2><p class="desc">Prvé zadania a bezpečná práca s údajmi</p><div class="grid"><article class="card" id="c01">
+  <header><span class="num">01</span><div><h3>Vysvetlite 8D a PPAP novému kolegovi</h3>
+  <div class="tags"><span class="tag chat">Copilot Chat</span><span class="tag time">10 min</span></div></div></header>
+  <p class="goal">Vyskúšate si, ako rola, publikum a forma menia odpoveď.</p>
+  <h4>Zadanie</h4><p>Do firmy nastúpil nový kolega z logistiky. Pripravte mu krátke vysvetlenie metód 8D a PPAP. Potom ten istý obsah nechajte prepísať pre vedúceho výroby.</p>
+  <h4>Súbory</h4><ul class="files"><li>bez súboru – všetko je v prompte</li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Si skúsený manažér kvality v automotive. Vysvetli novému kolegovi z logistiky, čo je 8D a čo je PPAP. Píš zrozumiteľne, bez odborného žargónu, najviac 150 slov. Pri každej metóde uveď jeden príklad z výroby plastových uzáverov a jednu vetu o tom, prečo sa ho to týka.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Teraz to isté prepíš pre vedúceho výroby: stručne, v 5 odrážkach, so zameraním na to, čo musí výroba dodať.</pre></div></article><article class="card" id="c02">
+  <header><span class="num">02</span><div><h3>Anonymizujte reklamáciu pred vložením do AI</h3>
+  <div class="tags"><span class="tag chat">Copilot Chat</span><span class="tag time">10 min</span></div></div></header>
+  <p class="goal">Naučíte sa rozpoznať údaje, ktoré do AI nástroja nepatria, a bezpečne ich nahradiť.</p>
+  <h4>Zadanie</h4><p>Dostali ste e-mail s reklamáciou od zákazníka. Skôr ako ho použijete v AI nástroji mimo firemného prostredia, pripravte jeho anonymizovanú verziu.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/scenare/Reklamacia_Alpenmobil_text.docx" download>Reklamacia_Alpenmobil_text.docx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>V priloženom e-maile nájdi všetky údaje, ktoré by sa nemali dostať mimo firmu: osobné údaje, kontakty, interné a zákaznícke čísla, ceny a identifikátory vozidiel. Vypíš ich v tabuľke (údaj, typ, prečo je citlivý). Potom vytvor anonymizovanú verziu e-mailu, v ktorej ich nahradíš značkami ako [MENO_1], [ČÍSLO_VÝKRESU]. Technický obsah reklamácie zachovaj.</pre></div></article></div></section><section class="blok" id="KV"><h2>Blok 2 – Kvalita</h2><p class="desc">Reklamácie, 8D, zmetkovitosť, kontrolné plány</p><div class="grid"><article class="card" id="c03">
+  <header><span class="num">03</span><div><h3>8D report z rozpracovaných poznámok</h3>
+  <div class="tags"><span class="tag chat">Copilot Chat</span><span class="tag time">15 min</span></div></div></header>
+  <p class="goal">Z neštruktúrovaných poznámok pripravíte koncept 8D reportu a necháte AI skontrolovať jeho úplnosť.</p>
+  <h4>Zadanie</h4><p>Kolegyňa z kvality si robila poznámky k reklamácii RK-2026-118. Pripravte z nich koncept 8D reportu podľa smernice a nechajte Copilot nájsť slabé miesta.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/scenare/Poznamky_reklamacia_RK-2026-118.docx" download>Poznamky_reklamacia_RK-2026-118.docx</a></li><li><a href="subory/podklady/SM-QM-04_Riadenie_reklamacii.docx" download>SM-QM-04_Riadenie_reklamacii.docx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Si manažér kvality v automotive. Z priložených poznámok priprav koncept 8D reportu v štruktúre D1 až D8 podľa priloženej smernice SM-QM-04. Kde informácia chýba, napíš [CHÝBA] a nevymýšľaj ju. Na konci pridaj zoznam nezrovnalostí v poznámkach a zoznam otázok, ktoré musí tím zodpovedať pred odoslaním zákazníkovi.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Navrhni okamžité opatrenia D3 podľa smernice. Uveď, kto ich má urobiť a do kedy.</pre></div></article><article class="card" id="c04">
+  <header><span class="num">04</span><div><h3>8D report priamo vo Worde</h3>
+  <div class="tags"><span class="tag prem">Copilot vo Worde</span><span class="tag lic">Premium</span><span class="tag time">10 min</span></div></div></header>
+  <p class="goal">Vytvoríte dokument vo Worde s odkazom na existujúce súbory a upravíte ho priamo v dokumente.</p>
+  <h4>Zadanie</h4><p>Otvorte šablónu 8D formulára vo Worde uloženú vo OneDrive. Nechajte Copilot vyplniť jednotlivé časti z poznámok k reklamácii a upravte tón pre zákazníka.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/podklady/8D_formular_TESNEX.docx" download>8D_formular_TESNEX.docx</a></li><li><a href="subory/scenare/Poznamky_reklamacia_RK-2026-118.docx" download>Poznamky_reklamacia_RK-2026-118.docx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Vyplň tento 8D formulár na základe súboru /Poznamky_reklamacia_RK-2026-118. Časti D1, D2 a D4 vyplň z poznámok. D3, D5 až D8 nechaj ako návrh označený [NÁVRH – OVERIŤ]. Píš vecne, v tretej osobe, bez priznania zodpovednosti pred ukončením analýzy.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Označte časť D2 a zadajte: „Prepíš ako tabuľku: čo, kde, kedy, koľko, ako zistené.“ Potom: „Zhrň celý dokument do troch viet pre zákazníka.“</pre></div><p class="variant"><strong>Licencia:</strong> Bez licencie Premium: v Copilot Chat nahrajte oba súbory a použite rovnaký prompt. Výsledok skopírujte do šablóny.</p></article><article class="card" id="c05">
+  <header><span class="num">05</span><div><h3>Pareto reklamácií z CSV</h3>
+  <div class="tags"><span class="tag chat">Copilot Chat</span><span class="tag time">15 min</span></div></div></header>
+  <p class="goal">Bez vzorcov zistíte z tabuľky reklamácií, kde je najväčší problém.</p>
+  <h4>Zadanie</h4><p>Máte export reklamácií za január až september 2026. Zistite, ktoré chyby a ktoré lisy spôsobujú najviac reklamácií a či sa niečo zmenilo v čase.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/data/reklamacie_2026.csv" download>reklamacie_2026.csv</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Si analytik kvality. V priloženom súbore sú reklamácie zákazníkov za rok 2026 (oddeľovač bodkočiarka, desatinná čiarka). 1) Urob Pareto analýzu typov chýb podľa počtu reklamácií. 2) Pre najčastejší typ chyby zisti rozdelenie podľa lisu, zmeny, dodávateľa granulátu a mesiaca. 3) Napíš tri zistenia, ktoré by mal vedieť vedúci kvality, a ku každému uveď presné čísla. Ak niečo nevieš z dát overiť, napíš to.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Over svoje druhé zistenie: koľko reklamácií typu Netesnosť z lisu L07 bolo pred a koľko po 11. 5. 2026?</pre></div></article><article class="card" id="c06">
+  <header><span class="num">06</span><div><h3>Zmetkovitosť v ppm podľa lisu a zmeny</h3>
+  <div class="tags"><span class="tag prem">Copilot v Exceli</span><span class="tag lic">Premium</span><span class="tag time">15 min</span></div></div></header>
+  <p class="goal">Necháte Copilot v Exceli pridať výpočty, kontingenčnú tabuľku a zvýraznenie.</p>
+  <h4>Zadanie</h4><p>Otvorte súbor so zmetkovitosťou piatich lisov za 12 týždňov vo OneDrive. Doplňte ukazovateľ ppm a zistite, kde je zmetkovitosť najvyššia.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/data/zmetkovitost_lisy.xlsx" download>zmetkovitost_lisy.xlsx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Pridaj stĺpec „ppm“, ktorý vypočíta zmetky na milión vyrobených kusov (Zmetky ks / Vyrobené ks * 1 000 000). Potom vytvor kontingenčnú tabuľku s priemerným ppm podľa lisu a zmeny a zvýrazni hodnoty nad 5 000 ppm červenou.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Ktorá kombinácia lisu a zmeny má najvyššie ppm a aká je najčastejšia hlavná príčina zmetkov pri nej? Vytvor graf ppm podľa týždňov pre tento lis, s rozdelením na zmeny.</pre></div><p class="variant"><strong>Licencia:</strong> Bez licencie Premium: nahrajte súbor zmetkovitost_lisy.csv do Copilot Chat a požiadajte o rovnaký výpočet a tabuľku.</p></article><article class="card" id="c07">
+  <header><span class="num">07</span><div><h3>Porovnanie dvoch verzií kontrolného plánu</h3>
+  <div class="tags"><span class="tag chat">Copilot Chat</span><span class="tag time">10 min</span></div></div></header>
+  <p class="goal">Necháte AI nájsť všetky rozdiely medzi verziami dokumentu a posúdiť ich vplyv.</p>
+  <h4>Zadanie</h4><p>Technológia vydala novú verziu kontrolného plánu pre AdBlue uzáver AB-32. Pred schválením skontrolujte, čo sa zmenilo.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/podklady/KP-AB32_Kontrolny_plan_v3.docx" download>KP-AB32_Kontrolny_plan_v3.docx</a></li><li><a href="subory/podklady/KP-AB32_Kontrolny_plan_v4.docx" download>KP-AB32_Kontrolny_plan_v4.docx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Porovnaj priložené verzie 3 a 4 kontrolného plánu KP-AB32. Vypíš všetky rozdiely v tabuľke: znak, verzia 3, verzia 4. Pri každom rozdiele posúď vplyv na riziko pre zákazníka (nízky, stredný, vysoký) a zdôvodni ho jednou vetou. Na záver over, či história zmien vo verzii 4 popisuje všetky zmeny.</pre></div></article><article class="card" id="c08">
+  <header><span class="num">08</span><div><h3>Odpoveď na eskaláciu zákazníka v nemčine</h3>
+  <div class="tags"><span class="tag prem">Copilot v Outlooku</span><span class="tag lic">Premium</span><span class="tag time">15 min</span></div></div></header>
+  <p class="goal">Zhrniete dlhé vlákno, zachytíte zmenu požiadaviek a pripravíte odpoveď v nemčine so správnym tónom.</p>
+  <h4>Zadanie</h4><p>Zákazník Norvik Trucks poslal tretí e-mail k reklamácii a eskaluje. Zhrňte vlákno a pripravte odpoveď v nemčine. Odpoveď má potvrdiť ďalšie kroky a nemá uznať zodpovednosť pred analýzou.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/scenare/Emailove_vlakno_Norvik_Trucks.docx" download>Emailove_vlakno_Norvik_Trucks.docx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Zhrň toto vlákno po slovensky v 5 odrážkach. Uveď, ako sa požiadavky zákazníka zmenili medzi prvým a posledným e-mailom a aké termíny z toho vyplývajú. Potom navrhni odpoveď v nemčine: profesionálny a ústretový tón, potvrď prijatie eskalácie, popíš okamžité opatrenia a termín 3D reportu. Neuznávaj zodpovednosť ani príčinu. Náklady na externé triedenie nepotvrdzuj, uveď, že ich potvrdíme po schválení.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Prelož navrhnutú odpoveď do slovenčiny, aby som skontroloval obsah. Potom ju skráť o tretinu.</pre></div><p class="variant"><strong>Licencia:</strong> Bez licencie Premium: nahrajte súbor s vláknom do Copilot Chat a použite rovnaký prompt. V Outlooku (Premium) si text vlákna pošlite e-mailom sebe a použite „Zhrnúť“ a „Koncept s Copilotom“.</p></article></div></section><section class="blok" id="NA"><h2>Blok 2 – Nákup</h2><p class="desc">Ponuky, dodávatelia, vyjednávanie, zmluvy</p><div class="grid"><article class="card" id="c09">
+  <header><span class="num">09</span><div><h3>Porovnanie troch ponúk granulátu</h3>
+  <div class="tags"><span class="tag chat">Copilot Chat</span><span class="tag time">15 min</span></div></div></header>
+  <p class="goal">Z PDF ponúk v rôznych formátoch pripravíte porovnateľnú tabuľku podľa nákupnej politiky.</p>
+  <h4>Zadanie</h4><p>Máte tri cenové ponuky na granulát PA66 GF30 na rok 2027. Pripravte ich porovnanie pre vedúcu nákupu podľa pravidiel nákupnej politiky NP-01.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/podklady/ponuky/Ponuka_Polymera_GmbH.pdf" download>Ponuka_Polymera_GmbH.pdf</a></li><li><a href="subory/podklady/ponuky/Ponuka_Granoplast.pdf" download>Ponuka_Granoplast.pdf</a></li><li><a href="subory/podklady/ponuky/Ponuka_Eurocompound.pdf" download>Ponuka_Eurocompound.pdf</a></li><li><a href="subory/podklady/NP-01_Nakupna_politika.docx" download>NP-01_Nakupna_politika.docx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Si nákupca výrobného materiálu. Porovnaj priložené tri ponuky na granulát PA66 GF30 podľa priloženej nákupnej politiky NP-01. Vytvor tabuľku: dodávateľ, cena v EUR/kg vrátane dopravy, dodacia podmienka, dodacia lehota, minimálne množstvo, platobná lehota, IATF, IMDS a materiálový list, splnenie NP-01 (áno/nie a prečo). Ceny prepočítaj na rovnakú jednotku a postup výpočtu ukáž. Na záver odporuč poradie dodávateľov.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Ktoré informácie chýbajú na to, aby som mohol rozhodnúť? Napíš krátky e-mail dodávateľovi, ktorý ich má doplniť.</pre></div></article><article class="card" id="c10">
+  <header><span class="num">10</span><div><h3>Hodnotenie dodávateľov</h3>
+  <div class="tags"><span class="tag prem">Copilot v Exceli</span><span class="tag lic">Premium</span><span class="tag time">15 min</span></div></div></header>
+  <p class="goal">Necháte Copilot vypočítať vážené skóre dodávateľov a pripraviť graf.</p>
+  <h4>Zadanie</h4><p>Otvorte tabuľku hodnotenia 15 dodávateľov za štyri štvrťroky vo OneDrive. Vypočítajte skóre podľa váh z nákupnej politiky a nájdite dodávateľov na eskaláciu.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/data/hodnotenie_dodavatelov.xlsx" download>hodnotenie_dodavatelov.xlsx</a></li><li><a href="subory/podklady/NP-01_Nakupna_politika.docx" download>NP-01_Nakupna_politika.docx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Pridaj stĺpec „Skóre“, ktorý vypočíta vážené hodnotenie dodávateľa: OTD % s váhou 40 %, kvalita 35 % (100 bodov pri 0 ppm, 0 bodov pri 1 000 ppm a viac), cena 15 % (100 bodov pri indexe 90, 0 bodov pri indexe 110), komunikácia 10 % (hodnotenie × 20). Potom zvýrazni riadky, kde je OTD pod 85 % alebo reklamované ppm nad 500.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Vytvor graf vývoja OTD po štvrťrokoch pre troch dodávateľov granulátu. Ktorý dodávateľ by mal podľa pravidla v NP-01 dostať eskalačný list?</pre></div><p class="variant"><strong>Licencia:</strong> Bez licencie Premium: nahrajte súbor hodnotenie_dodavatelov.xlsx (alebo .csv) do Copilot Chat s rovnakým zadaním.</p></article><article class="card" id="c11">
+  <header><span class="num">11</span><div><h3>Urgencia oneskorenej dodávky v nemčine</h3>
+  <div class="tags"><span class="tag chat">Copilot Chat</span><span class="tag time">10 min</span></div></div></header>
+  <p class="goal">Pripravíte dva e-maily v nemčine s rôznou úrovňou naliehavosti.</p>
+  <h4>Zadanie</h4><p>Dodávateľ O-krúžkov mešká s dodávkou, ktorá ohrozuje výrobu. Pripravte urgenciu a pre prípad potreby aj eskalačný e-mail jeho vedeniu.</p>
+  <h4>Súbory</h4><ul class="files"><li>bez súboru – všetko je v prompte</li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Napíš e-mail v nemčine dodávateľovi Ringtec Dichtungen GmbH (kontakt Herr Klaus Bauer). Situácia: objednávka 4500-2231 na 120 000 O-krúžkov 32x2,5 FKM s potvrdeným termínom 14. 10. 2026 nedorazila. Zásoba nám vystačí do 23. 10. 2026, potom stojí montáž AdBlue uzáverov pre Norvik Trucks. Požaduj nový záväzný termín do zajtra 12:00 a čiastkovú dodávku 40 000 ks do 21. 10. Tón: vecný a pevný, bez vyhrážok.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Teraz napíš druhý e-mail – eskaláciu na obchodného riaditeľa Ringtec pre prípad, že do zajtra neodpovedia. Uveď, že zvažujeme expresnú prepravu na ich náklady podľa zmluvy a že to zohľadníme v hodnotení dodávateľa. Na záver oba e-maily prelož do slovenčiny na kontrolu.</pre></div></article><article class="card" id="c12">
+  <header><span class="num">12</span><div><h3>Príprava na vyjednávanie o zdražení</h3>
+  <div class="tags"><span class="tag chat">Copilot Chat</span><span class="tag time">15 min</span></div></div></header>
+  <p class="goal">Pripravíte si argumenty na vyjednávanie z dát o vývoji cien.</p>
+  <h4>Zadanie</h4><p>Dodávateľ Polymera žiada od januára zdraženie granulátu o 12 %. Pripravte si podklady na rokovanie.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/scenare/Poziadavka_na_zdrazenie_Polymera.docx" download>Poziadavka_na_zdrazenie_Polymera.docx</a></li><li><a href="subory/data/index_cien_PA66.csv" download>index_cien_PA66.csv</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Si skúsený nákupca v automotive. Dodávateľ žiada zdraženie podľa priloženého e-mailu. V priloženom súbore je vývoj cien PA66 GF30. 1) Over, či vývoj indexu podporuje argumenty dodávateľa, a uveď presné čísla. 2) Vypočítaj ročný dopad zdraženia pri objeme 310 t. 3) Priprav 5 argumentov pre rokovanie, 3 otázky na dodávateľa a náš návrh protiponuky. 4) Napíš, čo urobiť, ak dodávateľ odmietne.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Zahraj rolu Franka Müllera z Polymera GmbH. Odpovedaj na moje argumenty tvrdo, ale realisticky. Ja začínam: „Pán Müller, index PA66 za posledný rok klesol. Prečo by sme mali akceptovať zdraženie?“</pre></div></article><article class="card" id="c13">
+  <header><span class="num">13</span><div><h3>Riziká v dodávateľskej zmluve</h3>
+  <div class="tags"><span class="tag prem">Copilot vo Worde</span><span class="tag lic">Premium</span><span class="tag time">15 min</span></div></div></header>
+  <p class="goal">Necháte Copilot zhrnúť zmluvu, nájsť nevýhodné ustanovenia a pripraviť otázky pre právnika.</p>
+  <h4>Zadanie</h4><p>Pred rokovaním s Polymera GmbH si prejdite platnú rámcovú zmluvu. Otvorte ju vo Worde vo OneDrive a nechajte Copilot nájsť ustanovenia nevýhodné pre TESNEX.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/podklady/Ramcova_kupna_zmluva_Polymera_GmbH.docx" download>Ramcova_kupna_zmluva_Polymera_GmbH.docx</a></li><li><a href="subory/podklady/NP-01_Nakupna_politika.docx" download>NP-01_Nakupna_politika.docx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Zhrň túto zmluvu v 8 odrážkach z pohľadu kupujúceho. Potom vytvor tabuľku ustanovení, ktoré sú pre kupujúceho nevýhodné alebo rizikové: článok, čo hovorí, prečo je to riziko, návrh úpravy. Uveď aj lehoty, ktoré si musíme strážiť.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Je článok 7.4 v rozpore s článkom 7.2? Vysvetli to jednoducho a pripomeň, čo musí posúdiť právnik.</pre></div><p class="variant"><strong>Licencia:</strong> Bez licencie Premium: nahrajte zmluvu do Copilot Chat a použite rovnaký prompt.</p></article></div></section><section class="blok" id="PR"><h2>Blok 2 – Procesný manažment</h2><p class="desc">Inštrukcie, porady, prestoje, smernice</p><div class="grid"><article class="card" id="c14">
+  <header><span class="num">14</span><div><h3>Pracovná inštrukcia z technickej poznámky</h3>
+  <div class="tags"><span class="tag chat">Copilot Chat</span><span class="tag time">10 min</span></div></div></header>
+  <p class="goal">Z poznámok technológa pripravíte zrozumiteľnú inštrukciu a necháte ju porovnať so smernicou.</p>
+  <h4>Zadanie</h4><p>Technológ napísal poznámky k výmene formy F-18 na lise L07. Pripravte z nich pracovnú inštrukciu pre nových nastavovačov a skontrolujte ju voči smernici SM-PR-07.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/podklady/TP-L07_Technicka_poznamka_vymena_formy.docx" download>TP-L07_Technicka_poznamka_vymena_formy.docx</a></li><li><a href="subory/podklady/SM-PR-07_Vymena_formy.docx" download>SM-PR-07_Vymena_formy.docx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Si procesný inžinier. Z priloženej technickej poznámky priprav pracovnú inštrukciu pre nastavovača: očíslované kroky, pri každom kroku čo urobiť, na čo si dať pozor a potrebné náradie. Jednoduchý jazyk, krátke vety. Potom inštrukciu porovnaj so smernicou SM-PR-07 a vypíš, čo v poznámke chýba alebo je v rozpore so smernicou.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Uprav inštrukciu tak, aby obsahovala všetky povinné kroky zo smernice. Bezpečnostné kroky zvýrazni.</pre></div></article><article class="card" id="c15">
+  <header><span class="num">15</span><div><h3>Zápis z porady z prepisu</h3>
+  <div class="tags"><span class="tag chat">Copilot Chat</span><span class="tag time">10 min</span></div></div></header>
+  <p class="goal">Z prepisu porady pripravíte zápis s úlohami, termínmi a zodpovednými.</p>
+  <h4>Zadanie</h4><p>Máte prepis projektovej porady k ventilu BV-15. Pripravte zápis, ktorý pošlete účastníkom.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/scenare/Prepis_porady_projekt_BV-15.docx" download>Prepis_porady_projekt_BV-15.docx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Z priloženého prepisu porady priprav zápis: 1) rozhodnutia, 2) tabuľka úloh (úloha, zodpovedný, termín), 3) riziká projektu. Ak úloha nemá jasného zodpovedného alebo termín, napíš [NEURČENÉ]. Nevymýšľaj mená ani dátumy.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Napíš krátky e-mail účastníkom so zápisom a upozorni na úlohy bez zodpovedného.</pre></div><p class="variant"><strong>Licencia:</strong> V Teams (Premium) funguje zhrnutie priamo po porade, ak bol zapnutý prepis. Rovnaký prompt sa dá použiť v Copilote v Teams pri nahrávke porady.</p></article><article class="card" id="c16">
+  <header><span class="num">16</span><div><h3>Analýza prestojov a OEE z CSV</h3>
+  <div class="tags"><span class="tag chat">Copilot Chat</span><span class="tag time">15 min</span></div></div></header>
+  <p class="goal">Z prevádzkových dát zistíte hlavné príčiny prestojov a nájdete príležitosť na zlepšenie.</p>
+  <h4>Zadanie</h4><p>Máte záznamy o prestojoch štyroch lisov za september a začiatok októbra. Nájdite najväčšie straty a navrhnite, kde začať so zlepšovaním.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/data/prestoje_oee.csv" download>prestoje_oee.csv</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Si procesný inžinier. V priloženom súbore sú záznamy o prestojoch lisov (oddeľovač bodkočiarka, desatinná čiarka). 1) Urob prehľad prestojov podľa kategórie v minútach a v percentách. 2) Pre najväčšiu kategóriu porovnaj lisy a zmeny. 3) Vypočítaj OEE pre každý lis a týždeň (dostupnosť × výkon × kvalita; výkon = vyrobené ks × ideálny cyklus / počet kavít / prevádzkový čas). 4) Napíš tri zistenia s číslami a jedno odporúčanie.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Výmena formy na zmene C trvá dlhšie? Porovnaj priemerný čas výmeny formy podľa zmien a navrhni 3 opatrenia v duchu SMED.</pre></div></article><article class="card" id="c17">
+  <header><span class="num">17</span><div><h3>OEE prehľad v Exceli</h3>
+  <div class="tags"><span class="tag prem">Copilot v Exceli</span><span class="tag lic">Premium</span><span class="tag time">15 min</span></div></div></header>
+  <p class="goal">Necháte Copilot v Exceli pridať výpočtové stĺpce, súhrn a graf.</p>
+  <h4>Zadanie</h4><p>Otvorte súbor prestoje_oee.xlsx vo OneDrive a pripravte týždenný prehľad OEE po lisoch.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/data/prestoje_oee.xlsx" download>prestoje_oee.xlsx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Pridaj stĺpce: Dostupnosť = (Plánovaný čas min − Prestoj min) / Plánovaný čas min; Výkon = Vyrobené ks × Ideálny cyklus s / Počet kavít / ((Plánovaný čas min − Prestoj min) × 60); Kvalita = Dobré ks / Vyrobené ks; OEE = Dostupnosť × Výkon × Kvalita. Formát percentá s jedným desatinným miestom.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Vytvor kontingenčnú tabuľku s priemerným OEE podľa lisu (riadky) a týždňa (stĺpce) a čiarový graf. Ktorý lis a týždeň výrazne vybočuje a prečo – dostupnosť, výkon alebo kvalita?</pre></div><p class="variant"><strong>Licencia:</strong> Bez licencie Premium: nahrajte súbor do Copilot Chat a požiadajte o výpočet a tabuľku OEE.</p></article><article class="card" id="c18">
+  <header><span class="num">18</span><div><h3>Aktualizácia smernice podľa zápisu o zmene</h3>
+  <div class="tags"><span class="tag prem">Copilot vo Worde</span><span class="tag lic">Premium</span><span class="tag time">15 min</span></div></div></header>
+  <p class="goal">Zapracujete schválenú zmenu do smernice a necháte Copilot skontrolovať, či nekoliduje s inými časťami.</p>
+  <h4>Zadanie</h4><p>Bola schválená zmena procesu ZZ-2026-031. Zapracujte ju do smernice SM-PR-07 vo Worde a skontrolujte celý dokument.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/podklady/SM-PR-07_Vymena_formy.docx" download>SM-PR-07_Vymena_formy.docx</a></li><li><a href="subory/scenare/Zapis_o_zmene_procesu_ZZ-2026-031.docx" download>Zapis_o_zmene_procesu_ZZ-2026-031.docx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Na základe súboru /Zapis_o_zmene_procesu_ZZ-2026-031 navrhni úpravu kapitoly 5 tejto smernice. Potom skontroluj celú smernicu a vypíš všetky miesta, ktoré by po zmene boli v rozpore alebo by sa museli upraviť. Pri každom uveď kapitolu a návrh znenia.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Navrhni nové číslo verzie a text do histórie zmien. Napíš tri otázky, ktoré by mala zmenu posúdiť kvalita pred vydaním.</pre></div><p class="variant"><strong>Licencia:</strong> Bez licencie Premium: nahrajte obe súbory do Copilot Chat s rovnakým zadaním.</p></article></div></section><section class="blok" id="SP"><h2>Blok 3 – Spoločné výstupy</h2><p class="desc">Report, agent a vlastná knižnica promptov</p><div class="grid"><article class="card" id="c19">
+  <header><span class="num">19</span><div><h3>Mesačný report z Wordu a Excelu</h3>
+  <div class="tags"><span class="tag prem">Copilot v PowerPointe</span><span class="tag lic">Premium</span><span class="tag time">15 min</span></div></div></header>
+  <p class="goal">Vytvoríte prezentáciu z existujúceho dokumentu a doplníte ju o graf z dát.</p>
+  <h4>Zadanie</h4><p>Pripravte mesačný report pre vedenie závodu za september 2026 z pripraveného podkladu.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/scenare/Podklad_mesacny_report_september.docx" download>Podklad_mesacny_report_september.docx</a></li><li><a href="subory/data/reklamacie_2026.xlsx" download>reklamacie_2026.xlsx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Vytvor prezentáciu zo súboru /Podklad_mesacny_report_september. Maximálne 6 slajdov: titulný, kvalita, procesy, nákup, priority, otázky na rozhodnutie. Jedna hlavná myšlienka na slajd, najviac 4 odrážky.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Pridaj slajd s grafom počtu reklamácií podľa mesiacov z tabuľky reklamacie_2026 (v Exceli si nechajte Copilot pripraviť súhrn a graf skopírujte). Na záver: „Pridaj k slajdom poznámky pre prezentujúceho, 3 vety ku každému.“</pre></div><p class="variant"><strong>Licencia:</strong> Bez licencie Premium: v Copilot Chat nahrajte podklad a požiadajte o osnovu 6 slajdov s textom a poznámkami. Text vložte do firemnej šablóny ručne.</p></article><article class="card" id="c20">
+  <header><span class="num">20</span><div><h3>FAQ agent nad smernicami TESNEX</h3>
+  <div class="tags"><span class="tag prem">Copilot agent</span><span class="tag lic">Premium</span><span class="tag time">20 min</span></div></div></header>
+  <p class="goal">Uvidíte, ako vzniká jednoduchý agent, ktorý odpovedá iba z firemných smerníc.</p>
+  <h4>Zadanie</h4><p>Spoločne vytvoríme agenta, ktorý odpovedá zamestnancom na otázky k reklamáciám, výmene formy a nákupu. Potom ho otestujete otázkami.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/podklady/TESNEX_znalosti_pre_agenta.md" download>TESNEX_znalosti_pre_agenta.md</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Pokyny pre agenta: Si asistent pre zamestnancov TESNEX s.r.o. Odpovedáš iba na základe priložených smerníc. Pri každej odpovedi uveď číslo smernice a kapitolu. Ak odpoveď v smerniciach nie je, povedz: „Toto v smerniciach nie je, obráťte sa na vlastníka smernice.“ Odpovedaj po slovensky, stručne, najviac 5 viet.</pre></div><h4>Pokračovanie</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Testovacie otázky: „Do kedy musíme poslať zákazníkovi 3D report?“ / „Kto uvoľňuje prvý kus po výmene formy?“ / „Môžeme objednať granulát s dodacou lehotou 8 týždňov?“ / „Aká je dovolenka v TESNEX?“</pre></div><p class="variant"><strong>Licencia:</strong> Agentov môžu vytvárať aj používatelia Copilot Chat. Agent nad firemnými dátami sa však pri Copilot Chat môže účtovať podľa spotreby – závisí od nastavenia firmy.</p></article><article class="card" id="c21">
+  <header><span class="num">21</span><div><h3>Vlastná knižnica troch promptov</h3>
+  <div class="tags"><span class="tag chat">Copilot Chat</span><span class="tag time">10 min</span></div></div></header>
+  <p class="goal">Odnesiete si tri zadania, ktoré zajtra použijete v práci.</p>
+  <h4>Zadanie</h4><p>Vyberte si tri opakujúce sa úlohy z vašej práce a pripravte k nim prompt v štruktúre cieľ, kontext, zdroj, očakávaný výstup. Nechajte Copilot prompty vylepšiť.</p>
+  <h4>Súbory</h4><ul class="files"><li><a href="subory/scenare/Moja_kniznica_promptov.docx" download>Moja_kniznica_promptov.docx</a></li></ul>
+  <h4>Prompt</h4><div class="prompt"><button class="copy" type="button">Kopírovať</button><pre>Pracujem v oddelení [kvalita / nákup / procesný manažment] vo výrobnej firme v automotive. Toto je môj prompt: „…“. Vylepši ho podľa štruktúry cieľ, kontext, zdroj, očakávaný výstup. Polož mi najviac 3 otázky, ak ti chýba informácia. Potom napíš finálnu verziu.</pre></div></article></div></section>
+</main>
+<footer><div class="wrap"><img src="assets/symbol-balanced-white.png" alt="" width="34" height="34"><p>BALANCED HR s.r.o. | Workshop Microsoft Copilot v praxi | Ing. Rastislav Kozlík</p></div></footer>
+<script>
+document.querySelectorAll(".copy").forEach(function(b){b.addEventListener("click",function(){
+var t=b.parentElement.querySelector("pre").innerText;
+var done=function(){b.textContent="Skopírované";setTimeout(function(){b.textContent="Kopírovať"},1500)};
+if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(done,function(){fallback(t);done()})}else{fallback(t);done()}
+})});
+function fallback(t){var a=document.createElement("textarea");a.value=t;document.body.appendChild(a);a.select();try{document.execCommand("copy")}catch(e){}document.body.removeChild(a)}
+</script>
+</body></html>
