@@ -1,0 +1,121 @@
+﻿Číslo objednávky;Dátum objednania;Dodávateľ;Krajina;Položka;Kategória;Množstvo;MJ;Cena za MJ EUR;Hodnota EUR;Požadovaný termín;Potvrdený termín;Potvrdenie prijaté;Stav;Objednal
+OV-26-0840;01.09.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;10000;kg;3,85;38500;06.10.2026;06.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0841;01.09.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;5000;kg;3,85;19250;06.10.2026;06.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0842;03.09.2026;KartonPack Verpackungen GmbH;AT;Kartón 400x300x200;obaly;2400;ks;0,86;2064;08.10.2026;08.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0843;05.09.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;50;ks;28,5;1425;10.10.2026;10.10.2026;áno;dodaná;J. Kováčová
+OV-26-0844;05.09.2026;KartonPack Verpackungen GmbH;AT;Kartón 400x300x200;obaly;5000;ks;0,86;4300;19.09.2026;19.09.2026;áno;dodaná;L. Hlavatá
+OV-26-0845;05.09.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;2000;kg;2,71;5420;19.09.2026;19.09.2026;áno;dodaná;J. Kováčová
+OV-26-0846;07.09.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;15000;kg;3,85;57750;05.10.2026;05.10.2026;áno;dodaná;J. Kováčová
+OV-26-0847;08.09.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;10000;kg;2,71;27100;29.09.2026;29.09.2026;áno;dodaná;L. Hlavatá
+OV-26-0848;09.09.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;10000;kg;3,85;38500;14.10.2026;14.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0849;09.09.2026;KartonPack Verpackungen GmbH;AT;Medzivrstva kartónová 1200x800;obaly;2400;ks;0,64;1536;07.10.2026;07.10.2026;áno;dodaná;J. Kováčová
+OV-26-0850;10.09.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D10;náradie;200;ks;46;9200;15.10.2026;15.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0851;11.09.2026;Palety Plus s.r.o.;SK;Paletový nadstavec 1200x800;obaly;1000;ks;9,6;9600;25.09.2026;25.09.2026;áno;dodaná;L. Hlavatá
+OV-26-0852;12.09.2026;Palety Plus s.r.o.;SK;Europaleta EPAL nová;obaly;500;ks;14,9;7450;26.09.2026;26.09.2026;áno;dodaná;L. Hlavatá
+OV-26-0853;12.09.2026;Normteil Hesse GmbH;DE;Pružina ISO 10243 25x12,5x51;normálie;200;ks;6,4;1280;17.10.2026;17.10.2026;áno;dodaná;J. Kováčová
+OV-26-0854;14.09.2026;Granoplast a.s.;CZ;PP-TD20 natur;granulát;10000;kg;1,92;19200;05.10.2026;05.10.2026;áno;dodaná;J. Kováčová
+OV-26-0855;14.09.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;2000;kg;2,71;5420;05.10.2026;05.10.2026;áno;dodaná;J. Kováčová
+OV-26-0856;14.09.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;15000;kg;3,85;57750;19.10.2026;19.10.2026;áno;dodaná;J. Kováčová
+OV-26-0857;14.09.2026;Normteil Hesse GmbH;DE;Pružina ISO 10243 25x12,5x51;normálie;200;ks;6,4;1280;19.10.2026;19.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0858;17.09.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;20;ks;28,5;570;01.10.2026;01.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0859;17.09.2026;Etiketa Plus s.r.o.;SK;Etiketa VDA 4994 210x74;obaly;500;ks;0,04;17,5;15.10.2026;15.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0860;18.09.2026;KartonPack Verpackungen GmbH;AT;Kartón 400x300x200;obaly;5000;ks;0,86;4300;23.10.2026;23.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0861;19.09.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;10000;kg;3,85;38500;17.10.2026;17.10.2026;áno;dodaná;J. Kováčová
+OV-26-0862;20.09.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;200;ks;28,5;5700;18.10.2026;18.10.2026;áno;dodaná;J. Kováčová
+OV-26-0863;21.09.2026;Granoplast a.s.;CZ;PP-TD20 natur;granulát;10000;kg;1,92;19200;26.10.2026;26.10.2026;áno;dodaná;J. Kováčová
+OV-26-0864;23.09.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;2000;kg;3,85;7700;07.10.2026;07.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0865;23.09.2026;Palety Plus s.r.o.;SK;Europaleta EPAL nová;obaly;500;ks;14,9;7450;21.10.2026;21.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0866;23.09.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;20;ks;28,5;570;21.10.2026;21.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0867;23.09.2026;Palety Plus s.r.o.;SK;Paletový nadstavec 1200x800;obaly;1000;ks;9,6;9600;14.10.2026;14.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0868;24.09.2026;Palety Plus s.r.o.;SK;Paletový nadstavec 1200x800;obaly;5000;ks;9,6;48000;22.10.2026;22.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0869;25.09.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;10000;kg;3,85;38500;23.10.2026;23.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0870;25.09.2026;Etiketa Plus s.r.o.;SK;Etiketa VDA 4994 210x74;obaly;500;ks;0,04;17,5;16.10.2026;16.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0871;26.09.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D10;náradie;200;ks;46;9200;24.10.2026;24.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0872;27.09.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;200;ks;28,5;5700;25.10.2026;25.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0873;27.09.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;15000;kg;3,85;57750;01.11.2026;01.11.2026;áno;dodaná;L. Hlavatá
+OV-26-0874;27.09.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;200;ks;28,5;5700;11.10.2026;11.10.2026;áno;dodaná;J. Kováčová
+OV-26-0875;28.09.2026;Etiketa Plus s.r.o.;SK;Etiketa VDA 4994 210x74;obaly;2400;ks;0,04;84;12.10.2026;12.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0876;28.09.2026;Granoplast a.s.;CZ;PP-TD20 natur;granulát;10000;kg;1,92;19200;12.10.2026;12.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0877;28.09.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;2000;kg;3,85;7700;19.10.2026;19.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0878;28.09.2026;Normteil Hesse GmbH;DE;Vyhadzovací kolík DIN 1530 4x160;normálie;100;ks;3,9;390;02.11.2026;02.11.2026;áno;dodaná;L. Hlavatá
+OV-26-0879;28.09.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;10000;kg;3,85;38500;26.10.2026;26.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0880;29.09.2026;Etiketa Plus s.r.o.;SK;Etiketa VDA 4994 210x74;obaly;500;ks;0,04;17,5;27.10.2026;27.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0881;29.09.2026;Palety Plus s.r.o.;SK;Paletový nadstavec 1200x800;obaly;2400;ks;9,6;23040;13.10.2026;13.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0882;29.09.2026;Etiketa Plus s.r.o.;SK;Etiketa VDA 4994 210x74;obaly;200;ks;0,04;7;27.10.2026;27.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0883;29.09.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;15000;kg;2,71;40650;20.10.2026;20.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0884;30.09.2026;KartonPack Verpackungen GmbH;AT;Kartón 400x300x200;obaly;200;ks;0,86;172;21.10.2026;21.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0885;02.10.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;15000;kg;2,71;40650;06.11.2026;06.11.2026;áno;dodaná;J. Kováčová
+OV-26-0886;02.10.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;2000;kg;2,71;5420;06.11.2026;06.11.2026;áno;dodaná;L. Ondrušová
+OV-26-0887;03.10.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;50;ks;28,5;1425;24.10.2026;24.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0888;03.10.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;2000;kg;2,71;5420;07.11.2026;07.11.2026;áno;dodaná;J. Kováčová
+OV-26-0889;03.10.2026;KartonPack Verpackungen GmbH;AT;Kartón 400x300x200;obaly;500;ks;0,86;430;07.11.2026;07.11.2026;áno;dodaná;J. Kováčová
+OV-26-0890;03.10.2026;KartonPack Verpackungen GmbH;AT;Kartón 600x400x300 s potlačou;obaly;2400;ks;1,42;3408;17.10.2026;17.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0891;03.10.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;200;ks;28,5;5700;24.10.2026;24.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0892;04.10.2026;Normteil Hesse GmbH;DE;Vodiaci stĺpik 20x120;normálie;50;ks;38;1900;01.11.2026;01.11.2026;áno;dodaná;L. Ondrušová
+OV-26-0893;05.10.2026;KartonPack Verpackungen GmbH;AT;Kartón 600x400x300 s potlačou;obaly;2400;ks;1,42;3408;19.10.2026;19.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0894;05.10.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;10000;kg;2,71;27100;19.10.2026;19.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0895;05.10.2026;Palety Plus s.r.o.;SK;Paletový nadstavec 1200x800;obaly;500;ks;9,6;4800;02.11.2026;02.11.2026;áno;dodaná;L. Hlavatá
+OV-26-0896;05.10.2026;KartonPack Verpackungen GmbH;AT;Kartón 600x400x300 s potlačou;obaly;2400;ks;1,42;3408;26.10.2026;26.10.2026;áno;dodaná;J. Kováčová
+OV-26-0897;05.10.2026;Granoplast a.s.;CZ;PP-TD20 natur;granulát;15000;kg;1,92;28800;09.11.2026;09.11.2026;áno;dodaná;L. Ondrušová
+OV-26-0898;06.10.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;5000;kg;3,85;19250;10.11.2026;24.11.2026;áno;otvorená;J. Kováčová
+OV-26-0899;06.10.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D10;náradie;20;ks;46;920;10.11.2026;;nie;otvorená;L. Ondrušová
+OV-26-0900;07.10.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;15000;kg;2,71;40650;11.11.2026;18.11.2026;áno;čiastočne dodaná;J. Kováčová
+OV-26-0901;07.10.2026;Granoplast a.s.;CZ;PP-TD20 natur;granulát;5000;kg;1,92;9600;04.11.2026;04.11.2026;áno;dodaná;L. Ondrušová
+OV-26-0902;08.10.2026;Palety Plus s.r.o.;SK;Paletový nadstavec 1200x800;obaly;1000;ks;9,6;9600;22.10.2026;22.10.2026;áno;dodaná;J. Kováčová
+OV-26-0903;08.10.2026;KartonPack Verpackungen GmbH;AT;Kartón 600x400x300 s potlačou;obaly;3000;ks;1,42;4260;09.11.2026;09.11.2026;áno;otvorená;L. Hlavatá
+OV-26-0904;08.10.2026;Etiketa Plus s.r.o.;SK;Etiketa VDA 4994 210x74;obaly;500;ks;0,04;17,5;22.10.2026;22.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0905;09.10.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;50;ks;28,5;1425;30.10.2026;30.10.2026;áno;dodaná;J. Kováčová
+OV-26-0906;10.10.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;10000;kg;2,71;27100;24.10.2026;24.10.2026;áno;dodaná;L. Ondrušová
+OV-26-0907;11.10.2026;Palety Plus s.r.o.;SK;Paletový nadstavec 1200x800;obaly;5000;ks;9,6;48000;01.11.2026;01.11.2026;áno;dodaná;L. Ondrušová
+OV-26-0908;12.10.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;15000;kg;3,85;57750;09.11.2026;09.11.2026;áno;dodaná;L. Ondrušová
+OV-26-0909;12.10.2026;Normteil Hesse GmbH;DE;Vodiaci stĺpik 20x120;normálie;50;ks;38;1900;09.11.2026;09.11.2026;áno;dodaná;L. Ondrušová
+OV-26-0910;12.10.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;5000;kg;3,85;19250;16.11.2026;23.11.2026;áno;otvorená;J. Kováčová
+OV-26-0911;14.10.2026;O-Ring Tech s.r.o.;SK;O-krúžok 28x3 FKM;komponenty;2400;ks;0,21;504;28.10.2026;28.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0912;16.10.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;2000;kg;2,71;5420;13.11.2026;13.11.2026;áno;otvorená;L. Hlavatá
+OV-26-0913;17.10.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;200;ks;28,5;5700;31.10.2026;31.10.2026;áno;dodaná;L. Hlavatá
+OV-26-0914;17.10.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;5000;kg;2,71;13550;31.10.2026;31.10.2026;áno;dodaná;J. Kováčová
+OV-26-0915;18.10.2026;Normteil Hesse GmbH;DE;Vodiaci stĺpik 20x120;normálie;200;ks;38;7600;01.11.2026;01.11.2026;áno;dodaná;L. Ondrušová
+OV-26-0916;18.10.2026;O-Ring Tech s.r.o.;SK;O-krúžok 28x3 FKM;komponenty;5000;ks;0,21;1050;08.11.2026;08.11.2026;áno;dodaná;J. Kováčová
+OV-26-0917;18.10.2026;Granoplast a.s.;CZ;PP-TD20 natur;granulát;2000;kg;1,92;3840;01.11.2026;01.11.2026;áno;dodaná;J. Kováčová
+OV-26-0918;19.10.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;10000;kg;2,71;27100;16.11.2026;16.11.2026;áno;otvorená;J. Kováčová
+OV-26-0919;19.10.2026;Etiketa Plus s.r.o.;SK;Etiketa VDA 4994 210x74;obaly;2400;ks;0,04;84;02.11.2026;02.11.2026;áno;dodaná;J. Kováčová
+OV-26-0920;19.10.2026;O-Ring Tech s.r.o.;SK;O-krúžok 28x3 FKM;komponenty;1000;ks;0,21;210;23.11.2026;23.11.2026;áno;čiastočne dodaná;J. Kováčová
+OV-26-0921;19.10.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;200;ks;28,5;5700;09.11.2026;09.11.2026;áno;dodaná;J. Kováčová
+OV-26-0922;20.10.2026;Granoplast a.s.;CZ;PP-TD20 natur;granulát;15000;kg;1,92;28800;17.11.2026;17.11.2026;áno;otvorená;L. Hlavatá
+OV-26-0923;21.10.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;100;ks;28,5;2850;11.11.2026;;nie;otvorená;J. Kováčová
+OV-26-0924;21.10.2026;Granoplast a.s.;CZ;PP-TD20 natur;granulát;10000;kg;1,92;19200;25.11.2026;25.11.2026;áno;čiastočne dodaná;J. Kováčová
+OV-26-0925;21.10.2026;Polymera GmbH;DE;PA66 GF30 čierny;granulát;2000;kg;3,85;7700;25.11.2026;;nie;otvorená;J. Kováčová
+OV-26-0926;21.10.2026;KartonPack Verpackungen GmbH;AT;Kartón 400x300x200;obaly;1000;ks;0,86;860;25.11.2026;02.12.2026;áno;otvorená;J. Kováčová
+OV-26-0927;21.10.2026;O-Ring Tech s.r.o.;SK;O-krúžok 28x3 FKM;komponenty;200;ks;0,21;42;18.11.2026;18.11.2026;áno;čiastočne dodaná;L. Hlavatá
+OV-26-0928;22.10.2026;Palety Plus s.r.o.;SK;Paletový nadstavec 1200x800;obaly;2400;ks;9,6;23040;12.11.2026;12.11.2026;áno;otvorená;L. Ondrušová
+OV-26-0929;22.10.2026;Palety Plus s.r.o.;SK;Europaleta EPAL nová;obaly;2400;ks;14,9;35760;12.11.2026;12.11.2026;áno;čiastočne dodaná;J. Kováčová
+OV-26-0930;23.10.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D10;náradie;200;ks;46;9200;27.11.2026;27.11.2026;áno;čiastočne dodaná;J. Kováčová
+OV-26-0931;24.10.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;20;ks;28,5;570;14.11.2026;14.11.2026;áno;čiastočne dodaná;L. Hlavatá
+OV-26-0932;24.10.2026;Palety Plus s.r.o.;SK;Europaleta EPAL nová;obaly;200;ks;14,9;2980;07.11.2026;07.11.2026;áno;dodaná;J. Kováčová
+OV-26-0933;24.10.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;2000;kg;2,71;5420;14.11.2026;;nie;otvorená;L. Hlavatá
+OV-26-0934;24.10.2026;Granoplast a.s.;CZ;PP-TD20 natur;granulát;2000;kg;1,92;3840;14.11.2026;;nie;otvorená;L. Hlavatá
+OV-26-0935;25.10.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;10000;kg;2,71;27100;08.11.2026;08.11.2026;áno;dodaná;L. Ondrušová
+OV-26-0936;26.10.2026;KartonPack Verpackungen GmbH;AT;Kartón 400x300x200;obaly;500;ks;0,86;430;09.11.2026;09.11.2026;áno;dodaná;L. Ondrušová
+OV-26-0937;26.10.2026;KartonPack Verpackungen GmbH;AT;Kartón 600x400x300 s potlačou;obaly;200;ks;1,42;284;16.11.2026;16.11.2026;áno;otvorená;L. Hlavatá
+OV-26-0938;26.10.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;200;ks;28,5;5700;09.11.2026;09.11.2026;áno;dodaná;J. Kováčová
+OV-26-0939;29.10.2026;O-Ring Tech s.r.o.;SK;O-krúžok 12x2 EPDM;komponenty;2400;ks;0,08;192;03.12.2026;;nie;otvorená;J. Kováčová
+OV-26-0940;29.10.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;5000;kg;2,71;13550;19.11.2026;19.11.2026;áno;čiastočne dodaná;J. Kováčová
+OV-26-0941;30.10.2026;Etiketa Plus s.r.o.;SK;Etiketa VDA 4994 210x74;obaly;2400;ks;0,04;84;04.12.2026;04.12.2026;áno;otvorená;L. Hlavatá
+OV-26-0942;31.10.2026;Palety Plus s.r.o.;SK;Paletový nadstavec 1200x800;obaly;5000;ks;9,6;48000;21.11.2026;21.11.2026;áno;otvorená;L. Hlavatá
+OV-26-0943;01.11.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D10;náradie;200;ks;46;9200;15.11.2026;15.11.2026;áno;otvorená;J. Kováčová
+OV-26-0944;02.11.2026;Palety Plus s.r.o.;SK;Europaleta EPAL nová;obaly;1000;ks;14,9;14900;30.11.2026;30.11.2026;áno;otvorená;L. Ondrušová
+OV-26-0945;02.11.2026;O-Ring Tech s.r.o.;SK;O-krúžok 12x2 EPDM;komponenty;200;ks;0,08;16;23.11.2026;23.11.2026;áno;otvorená;J. Kováčová
+OV-26-0946;02.11.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;15000;kg;2,71;40650;07.12.2026;07.12.2026;áno;otvorená;L. Hlavatá
+OV-26-0947;02.11.2026;Normteil Hesse GmbH;DE;Vyhadzovací kolík DIN 1530 4x160;normálie;200;ks;3,9;780;30.11.2026;;nie;otvorená;L. Hlavatá
+OV-26-0948;02.11.2026;Etiketa Plus s.r.o.;SK;Etiketa VDA 4994 210x74;obaly;200;ks;0,04;7;23.11.2026;23.11.2026;áno;čiastočne dodaná;J. Kováčová
+OV-26-0949;03.11.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;2000;kg;2,71;5420;01.12.2026;01.12.2026;áno;otvorená;L. Hlavatá
+OV-26-0950;03.11.2026;Palety Plus s.r.o.;SK;Europaleta EPAL nová;obaly;1000;ks;14,9;14900;01.12.2026;01.12.2026;áno;otvorená;J. Kováčová
+OV-26-0951;04.11.2026;KartonPack Verpackungen GmbH;AT;Kartón 600x400x300 s potlačou;obaly;2400;ks;1,42;3408;25.11.2026;25.11.2026;áno;otvorená;J. Kováčová
+OV-26-0952;05.11.2026;KartonPack Verpackungen GmbH;AT;Kartón 600x400x300 s potlačou;obaly;2400;ks;1,42;3408;25.11.2026;;nie;otvorená;L. Hlavatá
+OV-26-0953;07.11.2026;ToolCut s.r.o.;SK;Fréza tvrdokovová D6;náradie;200;ks;28,5;5700;05.12.2026;;nie;otvorená;J. Kováčová
+OV-26-0954;07.11.2026;Normteil Hesse GmbH;DE;Vodiaci stĺpik 20x120;normálie;20;ks;38;760;05.12.2026;05.12.2026;áno;otvorená;L. Hlavatá
+OV-26-0955;08.11.2026;Granoplast a.s.;CZ;PP-TD20 natur;granulát;2000;kg;1,92;3840;29.11.2026;29.11.2026;áno;otvorená;L. Hlavatá
+OV-26-0956;09.11.2026;KartonPack Verpackungen GmbH;AT;Medzivrstva kartónová 1200x800;obaly;2400;ks;0,64;1536;30.11.2026;;nie;otvorená;L. Hlavatá
+OV-26-0957;10.11.2026;Eurocompound S.p.A.;IT;POM kopolymér čierny;granulát;15000;kg;2,71;40650;01.12.2026;;nie;otvorená;J. Kováčová
+OV-26-0958;10.11.2026;Palety Plus s.r.o.;SK;Europaleta EPAL nová;obaly;500;ks;14,9;7450;01.12.2026;01.12.2026;áno;otvorená;L. Hlavatá
+OV-26-0959;10.11.2026;Palety Plus s.r.o.;SK;Paletový nadstavec 1200x800;obaly;5000;ks;9,6;48000;24.11.2026;24.11.2026;áno;otvorená;L. Hlavatá

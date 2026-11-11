@@ -1,0 +1,201 @@
+﻿Číslo opravy;Dátum;Forma;Lis;Typ zásahu;Príčina;Popis;Technik;Čas opravy h;Prestoj lisu h;Náklady na diely EUR;Náklady na prácu EUR;Náklady spolu EUR;Externá oprava
+OP-26-001;06.01.2026;F-108;L05;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;4;5,4;100;180;280;nie
+OP-26-002;07.01.2026;F-068;L14;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;2,7;3,6;107;121,5;228,5;nie
+OP-26-003;08.01.2026;F-101;L03;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;P. Benko;4,5;7,2;108;202,5;310,5;nie
+OP-26-004;10.01.2026;F-026;L03;porucha;posúvač;zadretý posúvač, výmena vodiacej lišty;P. Benko;7,9;12,3;307;355,5;662,5;nie
+OP-26-005;11.01.2026;F-083;L09;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;5,1;8;42;229,5;271,5;nie
+OP-26-006;15.01.2026;F-101;L03;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;2,3;3,1;142;103,5;245,5;nie
+OP-26-007;15.01.2026;F-124;L04;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;T. Rybár;11,4;18,2;521;513;1034;nie
+OP-26-008;16.01.2026;F-022;L07;porucha;vtoková sústava;netesnosť trysky, výmena;P. Benko;6,5;8,8;147;292,5;439,5;nie
+OP-26-009;16.01.2026;F-083;L09;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;3,3;4,6;85;148,5;233,5;nie
+OP-26-010;20.01.2026;F-069;L05;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;3,4;5,1;156;153;309;nie
+OP-26-011;20.01.2026;F-114;L13;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;P. Benko;6,7;8,2;57;301,5;358,5;nie
+OP-26-012;22.01.2026;F-046;L11;porucha;elektro horúci vtok;výmena termočlánku alebo ohrevu;T. Rybár;3,4;3,4;230;153;383;nie
+OP-26-013;22.01.2026;F-041;L13;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;5,6;6,4;59;252;311;nie
+OP-26-014;23.01.2026;F-011;L04;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;T. Rybár;5;7,7;116;225;341;nie
+OP-26-015;23.01.2026;F-127;L06;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;M. Šimko;11,3;11,8;480;508,5;988,5;nie
+OP-26-016;26.01.2026;F-038;L07;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;3,1;5;56;139,5;195,5;nie
+OP-26-017;27.01.2026;F-104;L05;porucha;vtoková sústava;netesnosť trysky, výmena;T. Rybár;4,2;4,6;117;189;306;nie
+OP-26-018;28.01.2026;F-054;L07;porucha;elektro horúci vtok;výmena termočlánku alebo ohrevu;P. Benko;3,2;4,3;209;144;353;nie
+OP-26-019;28.01.2026;F-002;L05;porucha;vtoková sústava;netesnosť trysky, výmena;M. Šimko;6,5;7,9;236;292,5;528,5;nie
+OP-26-020;30.01.2026;F-128;L11;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;4,1;6,1;109;184,5;293,5;nie
+OP-26-021;30.01.2026;F-034;L06;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;P. Benko;9,2;12,4;317;414;731;nie
+OP-26-022;31.01.2026;F-122;L06;úprava;chladenie;znížený prietok, čistenie kanálov;T. Rybár;4,1;5,4;42;184,5;226,5;nie
+OP-26-023;31.01.2026;F-064;L03;porucha;vtoková sústava;netesnosť trysky, výmena;T. Rybár;3,3;4,6;123;148,5;271,5;nie
+OP-26-024;03.02.2026;F-022;L07;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;T. Rybár;7,2;8,2;77;324;401;nie
+OP-26-025;04.02.2026;F-071;L13;porucha;elektro horúci vtok;výmena termočlánku alebo ohrevu;P. Benko;2,4;3,3;166;108;274;nie
+OP-26-026;05.02.2026;F-088;L11;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;4,1;5,6;49;184,5;233,5;nie
+OP-26-027;06.02.2026;F-023;L06;porucha;posúvač;zadretý posúvač, výmena vodiacej lišty;M. Šimko;4,5;5,1;467;202,5;669,5;nie
+OP-26-028;07.02.2026;F-099;L05;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;P. Benko;13,9;20,8;616;625,5;1241,5;nie
+OP-26-029;10.02.2026;F-069;L05;porucha;vtoková sústava;netesnosť trysky, výmena;M. Šimko;3,7;3,8;141;166,5;307,5;nie
+OP-26-030;12.02.2026;F-103;L02;porucha;posúvač;zadretý posúvač, výmena vodiacej lišty;P. Benko;4,4;7;337;198;535;nie
+OP-26-031;13.02.2026;F-098;L10;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;T. Rybár;5,8;8,8;70;261;331;nie
+OP-26-032;14.02.2026;F-047;L07;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;T. Rybár;11,6;16,3;859;522;1381;nie
+OP-26-033;14.02.2026;F-084;L09;úprava;deliaca rovina / otrep;zabrúsenie deliacej roviny;T. Rybár;4,6;6,1;35;207;242;nie
+OP-26-034;17.02.2026;F-018;L07;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;4,3;6,3;73;193,5;266,5;nie
+OP-26-035;18.02.2026;F-087;L09;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;T. Rybár;14;21;680;630;1310;nie
+OP-26-036;23.02.2026;F-046;L11;porucha;elektro horúci vtok;výmena termočlánku alebo ohrevu;T. Rybár;3,6;4,4;68;162;230;nie
+OP-26-037;24.02.2026;F-023;L06;porucha;elektro horúci vtok;výmena termočlánku alebo ohrevu;M. Šimko;3,8;4,6;177;171;348;nie
+OP-26-038;27.02.2026;F-021;L04;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;7,1;7,3;47;319,5;366,5;nie
+OP-26-039;01.03.2026;F-022;L07;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;4,7;4,7;50;211,5;261,5;nie
+OP-26-040;02.03.2026;F-128;L11;úprava;chladenie;znížený prietok, čistenie kanálov;T. Rybár;3,4;5,2;20;153;173;nie
+OP-26-041;03.03.2026;F-023;L06;porucha;vtoková sústava;netesnosť trysky, výmena;M. Šimko;6,6;8,6;147;297;444;nie
+OP-26-042;04.03.2026;F-100;L04;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;5,5;5,7;101;247,5;348,5;nie
+OP-26-043;04.03.2026;F-002;L03;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;T. Rybár;14,2;20,3;429;639;1068;nie
+OP-26-044;04.03.2026;F-044;L02;porucha;elektro horúci vtok;výmena termočlánku alebo ohrevu;M. Šimko;2,7;3,3;151;121,5;272,5;nie
+OP-26-045;06.03.2026;F-068;L14;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;5,6;8,7;28;252;280;nie
+OP-26-046;07.03.2026;F-028;L08;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;T. Rybár;6;7,8;65;270;335;nie
+OP-26-047;07.03.2026;F-064;L03;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;2,2;2,6;104;99;203;nie
+OP-26-048;17.03.2026;F-116;L08;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;4,9;5,9;41;220,5;261,5;nie
+OP-26-049;19.03.2026;F-039;L03;porucha;chladenie;znížený prietok, čistenie kanálov;P. Benko;4;5,6;28;180;208;nie
+OP-26-050;19.03.2026;F-035;L03;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;4,4;5,3;74;198;272;nie
+OP-26-051;21.03.2026;F-097;L05;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;3;4,2;96;135;231;nie
+OP-26-052;22.03.2026;F-122;L06;porucha;vtoková sústava;netesnosť trysky, výmena;P. Benko;5,1;5,5;105;229,5;334,5;nie
+OP-26-053;22.03.2026;F-043;L07;porucha;elektro horúci vtok;výmena termočlánku alebo ohrevu;M. Šimko;2;3;118;90;208;nie
+OP-26-054;25.03.2026;F-086;L01;úprava;vtoková sústava;netesnosť trysky, výmena;P. Benko;3;4;252;135;387;nie
+OP-26-055;26.03.2026;F-124;L04;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;3,9;4;77;175,5;252,5;nie
+OP-26-056;27.03.2026;F-073;L04;úprava;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;3,8;4,9;87;171;258;nie
+OP-26-057;28.03.2026;F-103;L02;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;7,9;10,6;36;355,5;391,5;nie
+OP-26-058;28.03.2026;F-079;L07;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;2,6;3,8;95;117;212;nie
+OP-26-059;03.04.2026;F-068;L14;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;4,2;6,4;69;189;258;nie
+OP-26-060;06.04.2026;F-011;L04;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;3,4;3,5;84;153;237;nie
+OP-26-061;06.04.2026;F-021;L04;úprava;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;4,5;5,9;117;202,5;319,5;nie
+OP-26-062;11.04.2026;F-122;L06;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;3,5;4,3;56;157,5;213,5;nie
+OP-26-063;12.04.2026;F-022;L07;porucha;posúvač;zadretý posúvač, výmena vodiacej lišty;P. Benko;4,7;6,9;318;211,5;529,5;nie
+OP-26-064;13.04.2026;F-054;L06;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;6;7,3;49;270;319;nie
+OP-26-065;17.04.2026;F-050;L04;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;4,7;5,8;129;211,5;340,5;nie
+OP-26-066;18.04.2026;F-052;L13;porucha;elektro horúci vtok;výmena termočlánku alebo ohrevu;P. Benko;2,2;3;185;99;284;nie
+OP-26-067;18.04.2026;F-097;L05;úprava;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;4;5,1;101;180;281;nie
+OP-26-068;19.04.2026;F-043;L07;úprava;elektro horúci vtok;výmena termočlánku alebo ohrevu;T. Rybár;2,5;2,6;108;112,5;220,5;nie
+OP-26-069;20.04.2026;F-073;L04;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;4,9;5,4;103;220,5;323,5;nie
+OP-26-070;20.04.2026;F-018;L07;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;T. Rybár;4,7;5,6;68;211,5;279,5;nie
+OP-26-071;21.04.2026;F-046;L11;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;4,3;4,4;120;193,5;313,5;nie
+OP-26-072;21.04.2026;F-099;L05;porucha;posúvač;zadretý posúvač, výmena vodiacej lišty;P. Benko;5,5;7,6;462;247,5;709,5;nie
+OP-26-073;22.04.2026;F-128;L11;úprava;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;6,9;9,2;90;310,5;400,5;nie
+OP-26-074;22.04.2026;F-087;L09;porucha;opotrebenie dutiny;externé naváranie a leštenie dutiny;P. Benko;6;9;17240;270;17510;áno
+OP-26-075;30.04.2026;F-074;L14;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;4,3;4,9;44;193,5;237,5;nie
+OP-26-076;01.05.2026;F-016;L06;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;3,1;4,8;29;139,5;168,5;nie
+OP-26-077;01.05.2026;F-097;L05;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;4,3;4,8;73;193,5;266,5;nie
+OP-26-078;02.05.2026;F-001;L05;porucha;vtoková sústava;netesnosť trysky, výmena;P. Benko;6,7;8,9;104;301,5;405,5;nie
+OP-26-079;03.05.2026;F-020;L13;úprava;deliaca rovina / otrep;zabrúsenie deliacej roviny;P. Benko;5,3;8,3;93;238,5;331,5;nie
+OP-26-080;06.05.2026;F-039;L03;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;3;3,8;47;135;182;nie
+OP-26-081;07.05.2026;F-129;L12;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;M. Šimko;13;19,1;658;585;1243;nie
+OP-26-082;11.05.2026;F-076;L14;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;4,6;6,2;60;207;267;nie
+OP-26-083;11.05.2026;F-075;L12;porucha;posúvač;zadretý posúvač, výmena vodiacej lišty;M. Šimko;8,7;9,1;162;391,5;553,5;nie
+OP-26-084;12.05.2026;F-086;L01;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;5,7;7,8;47;256,5;303,5;nie
+OP-26-085;15.05.2026;F-129;L12;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;6,7;8,8;75;301,5;376,5;nie
+OP-26-086;18.05.2026;F-111;L14;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;4,5;7,2;72;202,5;274,5;nie
+OP-26-087;19.05.2026;F-114;L13;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;3,2;3,3;150;144;294;nie
+OP-26-088;23.05.2026;F-036;L06;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;6,6;8,3;65;297;362;nie
+OP-26-089;29.05.2026;F-012;L05;porucha;chladenie;znížený prietok, čistenie kanálov;P. Benko;5,5;7,6;44;247,5;291,5;nie
+OP-26-090;29.05.2026;F-035;L07;porucha;vtoková sústava;netesnosť trysky, výmena;T. Rybár;5,7;8,2;356;256,5;612,5;nie
+OP-26-091;30.05.2026;F-083;L09;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;4,4;5,2;63;198;261;nie
+OP-26-092;02.06.2026;F-074;L14;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;3,3;4,8;49;148,5;197,5;nie
+OP-26-093;03.06.2026;F-131;L10;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;4,9;6,7;138;220,5;358,5;nie
+OP-26-094;05.06.2026;F-076;L14;porucha;vtoková sústava;netesnosť trysky, výmena;M. Šimko;6,6;9,2;139;297;436;nie
+OP-26-095;06.06.2026;F-028;L12;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;P. Benko;4,8;7,3;77;216;293;nie
+OP-26-096;08.06.2026;F-052;L04;porucha;vtoková sústava;netesnosť trysky, výmena;P. Benko;4,2;4,9;353;189;542;nie
+OP-26-097;08.06.2026;F-109;L06;porucha;posúvač;zadretý posúvač, výmena vodiacej lišty;T. Rybár;5,7;8;315;256,5;571,5;nie
+OP-26-098;09.06.2026;F-065;L11;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;2,6;3;69;117;186;nie
+OP-26-099;10.06.2026;F-039;L03;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;2,1;2,5;68;94,5;162,5;nie
+OP-26-100;10.06.2026;F-118;L05;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;4,9;6,5;111;220,5;331,5;nie
+OP-26-101;10.06.2026;F-087;L09;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;T. Rybár;15,5;23,25;820;697,5;1517,5;nie
+OP-26-102;12.06.2026;F-104;L05;porucha;vtoková sústava;netesnosť trysky, výmena;M. Šimko;4,3;4,3;365;193,5;558,5;nie
+OP-26-103;12.06.2026;F-106;L08;porucha;posúvač;zadretý posúvač, výmena vodiacej lišty;T. Rybár;4,8;5,6;377;216;593;nie
+OP-26-104;15.06.2026;F-038;L07;úprava;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;2,1;3,2;68;94,5;162,5;nie
+OP-26-105;15.06.2026;F-099;L05;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;P. Benko;11,9;15;364;535,5;899,5;nie
+OP-26-106;19.06.2026;F-111;L14;porucha;vtoková sústava;netesnosť trysky, výmena;T. Rybár;6,4;9,9;393;288;681;nie
+OP-26-107;20.06.2026;F-127;L06;úprava;deliaca rovina / otrep;zabrúsenie deliacej roviny;T. Rybár;6,9;8,8;59;310,5;369,5;nie
+OP-26-108;20.06.2026;F-084;L09;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;T. Rybár;14;22,1;638;630;1268;nie
+OP-26-109;22.06.2026;F-022;L07;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;T. Rybár;8;8,4;92;360;452;nie
+OP-26-110;22.06.2026;F-083;L09;porucha;chladenie;znížený prietok, čistenie kanálov;P. Benko;4;5,7;78;180;258;nie
+OP-26-111;24.06.2026;F-016;L06;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;3,6;4,4;51;162;213;nie
+OP-26-112;27.06.2026;F-111;L14;porucha;posúvač;zadretý posúvač, výmena vodiacej lišty;T. Rybár;5,9;9,3;288;265,5;553,5;nie
+OP-26-113;27.06.2026;F-069;L05;porucha;elektro horúci vtok;výmena termočlánku alebo ohrevu;M. Šimko;2,7;3,3;189;121,5;310,5;nie
+OP-26-114;29.06.2026;F-128;L11;porucha;posúvač;zadretý posúvač, výmena vodiacej lišty;T. Rybár;7,2;9,7;127;324;451;nie
+OP-26-115;29.06.2026;F-099;L05;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;4,4;4,6;28;198;226;nie
+OP-26-116;02.07.2026;F-006;L08;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;2,7;3,9;150;121,5;271,5;nie
+OP-26-117;03.07.2026;F-036;L06;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;T. Rybár;7;8;83;315;398;nie
+OP-26-118;04.07.2026;F-097;L05;úprava;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;5,9;7,7;116;265,5;381,5;nie
+OP-26-119;04.07.2026;F-036;L06;porucha;elektro horúci vtok;výmena termočlánku alebo ohrevu;M. Šimko;2;2;163;90;253;nie
+OP-26-120;05.07.2026;F-068;L14;úprava;chladenie;znížený prietok, čistenie kanálov;T. Rybár;5,6;5,6;90;252;342;nie
+OP-26-121;07.07.2026;F-071;L13;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;4,4;6,2;110;198;308;nie
+OP-26-122;07.07.2026;F-131;L10;úprava;deliaca rovina / otrep;zabrúsenie deliacej roviny;P. Benko;6;7,8;61;270;331;nie
+OP-26-123;08.07.2026;F-111;L14;úprava;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;2,3;3;138;103,5;241,5;nie
+OP-26-124;09.07.2026;F-101;L03;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;4,2;4,7;89;189;278;nie
+OP-26-125;10.07.2026;F-120;L14;úprava;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;3,9;4,4;96;175,5;271,5;nie
+OP-26-126;11.07.2026;F-129;L12;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;2,9;3,3;114;130,5;244,5;nie
+OP-26-127;14.07.2026;F-012;L05;úprava;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;4,9;5,9;88;220,5;308,5;nie
+OP-26-128;18.07.2026;F-091;L03;úprava;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;2,2;3,3;107;99;206;nie
+OP-26-129;28.07.2026;F-118;L05;úprava;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;2,8;4;44;126;170;nie
+OP-26-130;28.07.2026;F-099;L05;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;4;5,4;25;180;205;nie
+OP-26-131;30.07.2026;F-054;L13;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;4,4;6,5;109;198;307;nie
+OP-26-132;31.07.2026;F-101;L03;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;P. Benko;6,5;10;114;292,5;406,5;nie
+OP-26-133;03.08.2026;F-087;L09;porucha;opotrebenie dutiny;externé naváranie a leštenie dutiny;P. Benko;5;7,5;15840;225;16065;áno
+OP-26-134;04.08.2026;F-054;L09;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;4,5;4,5;70;202,5;272,5;nie
+OP-26-135;08.08.2026;F-022;L07;porucha;vtoková sústava;netesnosť trysky, výmena;P. Benko;5,2;7,2;140;234;374;nie
+OP-26-136;09.08.2026;F-001;L05;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;5,9;7,5;28;265,5;293,5;nie
+OP-26-137;11.08.2026;F-128;L11;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;5,5;7,9;34;247,5;281,5;nie
+OP-26-138;12.08.2026;F-016;L06;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;2,7;2,7;62;121,5;183,5;nie
+OP-26-139;14.08.2026;F-038;L07;úprava;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;4,1;5,1;79;184,5;263,5;nie
+OP-26-140;15.08.2026;F-019;L07;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;T. Rybár;4,8;5,3;95;216;311;nie
+OP-26-141;15.08.2026;F-052;L10;úprava;elektro horúci vtok;výmena termočlánku alebo ohrevu;M. Šimko;3,6;4,8;71;162;233;nie
+OP-26-142;15.08.2026;F-097;L05;úprava;chladenie;znížený prietok, čistenie kanálov;P. Benko;4,5;6,9;84;202,5;286,5;nie
+OP-26-143;17.08.2026;F-107;L09;porucha;vtoková sústava;netesnosť trysky, výmena;M. Šimko;5,5;7;268;247,5;515,5;nie
+OP-26-144;19.08.2026;F-064;L03;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;3,9;4,6;21;175,5;196,5;nie
+OP-26-145;20.08.2026;F-123;L02;úprava;opotrebenie dutiny;naváranie a leštenie dutiny;M. Šimko;13,5;15,7;696;607,5;1303,5;nie
+OP-26-146;21.08.2026;F-112;L05;porucha;vyhadzovač;zlomený vyhadzovač v kavite 6, výmena;M. Šimko;3,5;5;62;157,5;219,5;nie
+OP-26-147;22.08.2026;F-087;L09;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;7,4;10,2;61;333;394;nie
+OP-26-148;22.08.2026;F-074;L14;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;5,5;6,2;46;247,5;293,5;nie
+OP-26-149;23.08.2026;F-056;L11;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;7,4;10;114;333;447;nie
+OP-26-150;25.08.2026;F-082;L08;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;2,6;4,1;124;117;241;nie
+OP-26-151;26.08.2026;F-008;L03;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;2,1;2,4;144;94,5;238,5;nie
+OP-26-152;27.08.2026;F-023;L06;úprava;chladenie;znížený prietok, čistenie kanálov;M. Šimko;5,7;7,4;22;256,5;278,5;nie
+OP-26-153;29.08.2026;F-114;L13;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;3,6;4,7;85;162;247;nie
+OP-26-154;30.08.2026;F-102;L06;porucha;elektro horúci vtok;výmena termočlánku alebo ohrevu;P. Benko;3,9;4,1;71;175,5;246,5;nie
+OP-26-155;31.08.2026;F-074;L14;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;7,7;10;46;346,5;392,5;nie
+OP-26-156;01.09.2026;F-112;L05;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;T. Rybár;4,4;4,5;38;198;236;nie
+OP-26-157;03.09.2026;F-019;L07;úprava;vtoková sústava;netesnosť trysky, výmena;T. Rybár;6,3;7,2;224;283,5;507,5;nie
+OP-26-158;06.09.2026;F-006;L08;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;2,8;4,3;120;126;246;nie
+OP-26-159;07.09.2026;F-091;L03;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;5,7;6,1;46;256,5;302,5;nie
+OP-26-160;07.09.2026;F-131;L10;porucha;vtoková sústava;netesnosť trysky, výmena;M. Šimko;5,7;6,9;87;256,5;343,5;nie
+OP-26-161;08.09.2026;F-103;L02;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;2,8;3,1;67;126;193;nie
+OP-26-162;09.09.2026;F-104;L05;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;3,1;4,6;48;139,5;187,5;nie
+OP-26-163;10.09.2026;F-122;L06;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;M. Šimko;9;11;625;405;1030;nie
+OP-26-164;11.09.2026;F-069;L05;porucha;chladenie;znížený prietok, čistenie kanálov;P. Benko;5,8;7,1;63;261;324;nie
+OP-26-165;11.09.2026;F-029;L09;úprava;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;7,6;11,2;90;342;432;nie
+OP-26-166;12.09.2026;F-065;L11;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;5,3;6,3;46;238,5;284,5;nie
+OP-26-167;15.09.2026;F-116;L08;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;4,7;6,2;20;211,5;231,5;nie
+OP-26-168;18.09.2026;F-018;L07;porucha;elektro horúci vtok;výmena termočlánku alebo ohrevu;P. Benko;3,6;5,5;179;162;341;nie
+OP-26-169;18.09.2026;F-112;L05;porucha;vyhadzovač;zlomený vyhadzovač v kavite 6, výmena;T. Rybár;3,5;5;62;157,5;219,5;nie
+OP-26-170;20.09.2026;F-018;L07;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;4,2;4,9;156;189;345;nie
+OP-26-171;21.09.2026;F-087;L09;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;T. Rybár;13;19,5;760;585;1345;nie
+OP-26-172;23.09.2026;F-071;L13;porucha;vtoková sústava;netesnosť trysky, výmena;P. Benko;4,4;6,1;296;198;494;nie
+OP-26-173;24.09.2026;F-084;L09;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;P. Benko;5,1;5,1;76;229,5;305,5;nie
+OP-26-174;27.09.2026;F-035;L07;úprava;elektro horúci vtok;výmena termočlánku alebo ohrevu;P. Benko;2,7;3,7;244;121,5;365,5;nie
+OP-26-175;01.10.2026;F-074;L14;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;M. Šimko;12,8;16;887;576;1463;nie
+OP-26-176;04.10.2026;F-102;L06;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;6,8;7;92;306;398;nie
+OP-26-177;05.10.2026;F-097;L05;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;P. Benko;4,7;7,4;110;211,5;321,5;nie
+OP-26-178;05.10.2026;F-098;L10;porucha;vtoková sústava;netesnosť trysky, výmena;T. Rybár;5,4;6,2;172;243;415;nie
+OP-26-179;10.10.2026;F-012;L05;porucha;vtoková sústava;netesnosť trysky, výmena;T. Rybár;6,7;8,1;135;301,5;436,5;nie
+OP-26-180;11.10.2026;F-016;L06;porucha;posúvač;zadretý posúvač, výmena vodiacej lišty;M. Šimko;4,7;7,2;362;211,5;573,5;nie
+OP-26-181;11.10.2026;F-023;L06;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;5,4;7,6;35;243;278;nie
+OP-26-182;11.10.2026;F-001;L05;úprava;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;7,4;9,1;70;333;403;nie
+OP-26-183;14.10.2026;F-050;L04;porucha;vtoková sústava;netesnosť trysky, výmena;T. Rybár;6,2;7,4;183;279;462;nie
+OP-26-184;14.10.2026;F-016;L06;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;6;6,4;86;270;356;nie
+OP-26-185;16.10.2026;F-026;L03;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;2,6;2,9;103;117;220;nie
+OP-26-186;16.10.2026;F-112;L05;porucha;vyhadzovač;zlomený vyhadzovač v kavite 6, výmena;M. Šimko;3,5;5;62;157,5;219,5;nie
+OP-26-187;17.10.2026;F-020;L13;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;6;7;90;270;360;nie
+OP-26-188;19.10.2026;F-087;L09;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;T. Rybár;16;24;940;720;1660;nie
+OP-26-189;20.10.2026;F-021;L04;úprava;vyhadzovač;zlomený alebo zadretý vyhadzovač;P. Benko;3;4,5;60;135;195;nie
+OP-26-190;20.10.2026;F-099;L05;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;6,2;6,3;49;279;328;nie
+OP-26-191;21.10.2026;F-023;L06;úprava;deliaca rovina / otrep;zabrúsenie deliacej roviny;T. Rybár;5,3;7,3;94;238,5;332,5;nie
+OP-26-192;21.10.2026;F-026;L03;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;T. Rybár;2,9;3,7;131;130,5;261,5;nie
+OP-26-193;23.10.2026;F-120;L14;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;5,1;5,7;88;229,5;317,5;nie
+OP-26-194;24.10.2026;F-088;L09;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;T. Rybár;14,5;18,9;825;652,5;1477,5;nie
+OP-26-195;24.10.2026;F-069;L05;porucha;opotrebenie dutiny;naváranie a leštenie dutiny;M. Šimko;11,9;12;714;535,5;1249,5;nie
+OP-26-196;25.10.2026;F-111;L14;porucha;vyhadzovač;zlomený alebo zadretý vyhadzovač;M. Šimko;4,8;7,5;52;216;268;nie
+OP-26-197;27.10.2026;F-107;L09;porucha;chladenie;znížený prietok, čistenie kanálov;T. Rybár;3,1;4,9;34;139,5;173,5;nie
+OP-26-198;28.10.2026;F-112;L05;porucha;chladenie;znížený prietok strana B, čiastočné prečistenie;T. Rybár;4;6;35;180;215;nie
+OP-26-199;29.10.2026;F-052;L05;porucha;chladenie;znížený prietok, čistenie kanálov;M. Šimko;4,9;6,7;66;220,5;286,5;nie
+OP-26-200;30.10.2026;F-069;L05;porucha;deliaca rovina / otrep;zabrúsenie deliacej roviny;M. Šimko;6,4;8,1;119;288;407;nie

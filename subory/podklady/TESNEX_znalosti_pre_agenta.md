@@ -2,7 +2,7 @@
 
 Interné smernice a pravidlá závodu TESNEX v Senici.
 
-# TESNEX s.r.o. – profil spoločnosti
+# TESNEX s.r.o. - profil spoločnosti
 
 _Fiktívna spoločnosť vytvorená na tréningové účely. Akákoľvek podobnosť so skutočnými firmami je náhodná._
 
@@ -24,7 +24,7 @@ TESNEX s.r.o. vyvíja a vyrába plastové uzávery pre automobilový priemysel. 
 
 - 14 vstrekolisov L01 až L14 (80 až 350 t)
 - 2 montážne linky s automatickou skúškou tesnosti
-- trojzmenná prevádzka: zmena A (6:00–14:00), zmena B (14:00–22:00), zmena C (22:00–6:00)
+- trojzmenná prevádzka: zmena A (6:00-14:00), zmena B (14:00-22:00), zmena C (22:00-6:00)
 - vlastné laboratórium a výroba prototypov
 
 ## Kľúčoví zákazníci
@@ -56,84 +56,6 @@ TESNEX s.r.o. vyvíja a vyrába plastové uzávery pre automobilový priemysel. 
 | HR a ekonomika | Mgr. Eva Kollárová | 15 |
 
 Komunikácia so skupinou prebieha v nemčine a angličtine. Interné dokumenty závodu sú v slovenčine.
-
-
----
-
-# SM-QM-04 Riadenie reklamácií zákazníkov
-
-_Verzia 6 | platná od 1. 3. 2026 | vlastník: vedúca kvality_
-
-## 1 Účel
-
-Smernica určuje postup pri prijatí, riešení a uzavretí reklamácie zákazníka v súlade s IATF 16949 a požiadavkami zákazníkov.
-
-## 2 Rozsah
-
-Platí pre všetky reklamácie zákazníkov na výrobky TESNEX vrátane reklamácií z poľa.
-
-## 3 Lehoty
-
-| Krok | Lehota | Zodpovedný |
-|---|---|---|
-| Potvrdenie prijatia reklamácie | do 24 hodín | zákaznícky technik kvality |
-| Okamžité opatrenia (D3) – zadržanie a triedenie zásob | do 24 hodín | vedúci 8D tímu |
-| Hlásenie 3D zákazníkovi | do 48 hodín, ak zákazník nepožaduje inak | vedúci 8D tímu |
-| Analýza príčiny (D4) | do 10 pracovných dní | 8D tím |
-| Uzavretie 8D (D8) | do 30 dní | vedúca kvality |
-
-## 4 Postup 8D
-
-1. D1 Zostavenie tímu: minimálne kvalita, výroba, technológia.
-1. D2 Popis problému: čo, kde, kedy, koľko, ako zistené.
-1. D3 Okamžité opatrenia: zadržanie podozrivých zásob v sklade TESNEX, v tranzite a u zákazníka, triedenie, označenie vytriedených dodávok.
-1. D4 Analýza koreňovej príčiny: 5x prečo, Ishikawa, overenie príčiny výskytu aj nezachytenia.
-1. D5 Návrh nápravných opatrení.
-1. D6 Zavedenie a overenie účinnosti.
-1. D7 Preventívne opatrenia, aktualizácia FMEA a kontrolného plánu.
-1. D8 Uzavretie a poďakovanie tímu.
-
-## 5 Komunikácia so zákazníkom
-
-- Pred ukončením analýzy (D4) TESNEX neuznáva zodpovednosť ani nepotvrdzuje príčinu.
-- Zákazníkovi sa vždy oznamuje rozsah okamžitých opatrení a termín ďalšej informácie.
-- Náklady na triedenie u zákazníka schvaľuje vedúca kvality pred potvrdením zákazníkovi.
-
-## 6 Záznamy
-
-8D report, záznamy o triedení a komunikácia so zákazníkom sa ukladajú v systéme CAQ pod číslom reklamácie najmenej 15 rokov.
-
-
----
-
-# Kontrolný plán KP-AB32 – AdBlue uzáver AB-32
-
-_Verzia 4 | platná od 1. 10. 2026 | výrobok 4440-032 | lis L07, forma F-18 | fáza: sériová výroba_
-
-## Kontrolované znaky
-
-| Č. | Znak | Požiadavka | Metóda | Frekvencia | Zodpovedný |
-|---|---|---|---|---|---|
-| 1 | Vonkajší vzhľad | bez otrepov a nedostrekov | vizuálne | každý kus | operátor |
-| 2 | Rozmer závitu M32x2 | 6H | kaliber dobrý/zlý | 5 ks / 2 h | operátor |
-| 3 | Tesnosť uzáveru | únik < 0,5 cm³/min pri 0,3 bar | inline tester tesnosti | 1 ks / 50 ks | automat, kontrola QC 1× zmena |
-| 4 | Sila otvorenia | 8–14 Nm | momentový kľúč | 3 ks / zmena | operátor |
-| 5 | Farba | RAL 9005 podľa vzorky | vizuálne pri D65 | 1 ks / zmena | operátor |
-| 5a | Prítomnosť a poloha O-krúžku | O-krúžok osadený v drážke celým obvodom | vizuálne | každý kus | operátor |
-| 6 | Hmotnosť výstreku | 18,4 g ± 0,3 g | váha | 5 ks / 2 h | operátor |
-
-## Reakčný plán
-
-- Pri nezhode zastaviť lis, zadržať výrobu od poslednej vyhovujúcej kontroly a informovať vedúceho zmeny.
-- Zadržané diely označiť červeným štítkom a presunúť do skladu blokovaných dielov.
-
-## História zmien
-
-| Verzia | Dátum | Popis zmeny |
-|---|---|---|
-| v3 | 15. 1. 2026 | aktualizácia hmotnosti výstreku po úprave formy F-18 |
-| v4 | 1. 10. 2026 | doplnená kontrola O-krúžku, aktualizácia zodpovedností |
-
 
 ---
 
@@ -190,37 +112,57 @@ Prvý kus po výmene formy uvoľňuje **kontrolór kvality (QC)** podpisom na ka
 
 Karta výmeny a karta prvého kusu sa ukladajú v systéme MES. Kartu prvého kusu je oprávnený podpísať iba kontrolór kvality.
 
+---
+
+# SM-EX-02 Expedícia a doprava
+
+_Verzia 3 | platná od 1. 4. 2026 | vlastník: vedúca nákupu a logistiky_
+
+## 1 Nakládka
+
+- Na jedno nákladné auto sa nakladá najviac 33 paliet (europaleta 1200x800 mm).
+- Zásielky pre toho istého zákazníka s rovnakým miestom dodania a rovnakým dátumom sa spájajú do jednej nakládky.
+- Každá paleta musí mať etiketu VDA 4994 vytlačenú z MES.
+
+## 2 Doklady
+
+- Ku každej zásielke sa vystavuje dodací list a CMR.
+- Pri zásielkach mimo EÚ (Spojené kráľovstvo, Švajčiarsko) musia byť colné doklady pripravené najneskôr 2 pracovné dni pred expedíciou.
+
+## 3 Zmena termínu
+
+- Ak hrozí oneskorenie dodávky, expedícia informuje zákazníka do 24 hodín od zistenia.
+- Zákazníkovi sa neoznamuje nový termín, kým ho písomne nepotvrdí výroba.
+
+## 4 Poškodená zásielka
+
+- Zjavné poškodenie zapíše príjemca ako výhradu do CMR pri prevzatí.
+- Skryté poškodenie sa oznamuje prepravcovi písomne bez zbytočného odkladu. Lehotu podľa dohovoru CMR overuje expedícia s vedúcou logistiky.
+- Reklamáciu u prepravcu podáva expedícia s číslom CMR, fotodokumentáciou a vyčíslením škody.
 
 ---
 
-# NP-01 Nákupná politika – výrobný materiál
+# SM-NA-03 Údržba foriem
 
-_Verzia 3 | platná od 1. 1. 2026 | vlastník: vedúca nákupu_
+_Verzia 2 | platná od 1. 2. 2026 | vlastník: vedúci nástrojárne_
 
-## 1 Základné pravidlá
+## 1 Preventívna údržba
 
-- Pre každý kritický materiál (granulát, O-krúžky, kovové vložky) máme aspoň dvoch schválených dodávateľov.
-- Dodávateľ výrobného materiálu musí mať certifikát IATF 16949 alebo plán certifikácie schválený kvalitou.
-- Pred prvou dodávkou musí byť v systéme záznam IMDS a materiálový list (datasheet) k ponúkanému typu.
-- Maximálna dodacia lehota pre granulát je 6 týždňov.
-- Preferovaná dodacia podmienka je DAP Senica (Incoterms 2020). Pri EXW sa k cene pripočítava doprava podľa internej tabuľky: granulát 0,08 EUR/kg.
-- Preferovaná platobná lehota je 60 dní, minimálne 45 dní.
+- Preventívna údržba sa robí po dosiahnutí intervalu zdvihov uvedeného v evidencii foriem.
+- Prekročenie intervalu je dovolené najviac o 5 % a len so súhlasom vedúceho nástrojárne zapísaným v evidencii.
+- Plán preventívnej údržby na nasledujúci mesiac zostavuje vedúci nástrojárne do 25. dňa mesiaca.
 
-## 2 Porovnanie ponúk
+## 2 Opravy
 
-Ponuky sa porovnávajú v jednotnej mene a jednotke (EUR/kg) vrátane dopravy. Pri rozdiele do 3 % rozhoduje hodnotenie dodávateľa (OTD, ppm, komunikácia).
+- Každý zásah na forme sa zapisuje do evidencie opráv: príčina, čas, prestoj lisu, použité diely.
+- Po oprave alebo údržbe uvoľňuje formu do výroby kontrolór kvality (QC) na základe kontroly prvých kusov.
 
-## 3 Hodnotenie dodávateľov
+## 3 Náhradné diely a normálie
 
-| Kritérium | Váha | Cieľ |
-|---|---|---|
-| OTD (dodané včas) | 40 % | ≥ 95 % |
-| Kvalita (reklamované ppm) | 35 % | ≤ 200 ppm |
-| Cena (cenový index) | 15 % | ≤ 100 |
-| Komunikácia | 10 % | ≥ 4 |
+- Správa náradia sleduje minimálne zásoby. Pri poklese pod minimum objedná položku do 3 pracovných dní.
+- Objednávky nad 5 000 EUR schvaľuje vedúci útvaru.
 
-Dodávateľ s OTD pod 85 % alebo s ppm nad 500 v dvoch po sebe idúcich štvrťrokoch dostáva eskalačný list a plán zlepšenia.
+## 4 Investície do foriem
 
-## 4 Zmeny cien
-
-Žiadosť dodávateľa o zmenu ceny posudzuje nákup do 10 pracovných dní. Zmena sa akceptuje iba s doložením vývoja nákladov. Podpis zmeny ceny nad 5 % schvaľuje konateľ.
+- Novú formu nad 30 000 EUR schvaľuje porada vedenia na základe porovnania aspoň troch ponúk.
+- Ponuky sa porovnávajú vrátane dopravy, vzorkovania a garantovanej životnosti.

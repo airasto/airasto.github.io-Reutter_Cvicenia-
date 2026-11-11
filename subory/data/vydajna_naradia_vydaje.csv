@@ -1,0 +1,181 @@
+﻿Dátum;Číslo výdajky;Stredisko;Názov strediska;Prevzal;Kód položky;Položka;Kategória;Množstvo;MJ;Cena za MJ EUR;Hodnota EUR
+01.09.2026;VY-0001;UD;Údržba strojov;J. Mikuš;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;30;ks;0,08;2,4
+01.09.2026;VY-0002;NA;Nástrojáreň;T. Rybár;RUK-TEP;Rukavice tepelne odolné;OOPP;4;pár;12,9;51,6
+01.09.2026;VY-0003;NA;Nástrojáreň;T. Rybár;BP-400;Brúsny papier P400;brúsenie;8;ks;0,45;3,6
+01.09.2026;VY-0004;NA;Nástrojáreň;P. Benko;BP-800;Brúsny papier P800;brúsenie;13;ks;0,52;6,76
+01.09.2026;VY-0005;NA;Nástrojáreň;M. Šimko;ZT-M6;Závitník M6;vŕtanie;2;ks;11,5;23
+02.09.2026;VY-0006;MO;Montáž;K. Bartoš;RUK-TEP;Rukavice tepelne odolné;OOPP;3;pár;12,9;38,7
+02.09.2026;VY-0007;UD;Údržba strojov;J. Mikuš;TP-TEF;Tesniaca páska teflónová;tesnenia;6;ks;0,9;5,4
+03.09.2026;VY-0008;VY;Výroba - nastavovači;S. Hudec;SEP-SIL;Separátor silikónový 400 ml;chémia;2;ks;6,9;13,8
+03.09.2026;VY-0009;NA;Nástrojáreň;M. Šimko;OK-16-2;O-krúžok chladenia 16x2 EPDM;tesnenia;31;ks;0,1;3,1
+03.09.2026;VY-0010;NA;Nástrojáreň;M. Šimko;OK-16-2;O-krúžok chladenia 16x2 EPDM;tesnenia;6;ks;0,1;0,6
+03.09.2026;VY-0011;VY;Výroba - nastavovači;D. Lukáč;SEP-SIL;Separátor silikónový 400 ml;chémia;1;ks;6,9;6,9
+03.09.2026;VY-0012;NA;Nástrojáreň;P. Benko;TP-TEF;Tesniaca páska teflónová;tesnenia;22;ks;0,9;19,8
+04.09.2026;VY-0013;NA;Nástrojáreň;T. Rybár;SEP-SIL;Separátor silikónový 400 ml;chémia;1;ks;6,9;6,9
+07.09.2026;VY-0014;VY;Výroba - nastavovači;D. Lukáč;SEP-SIL;Separátor silikónový 400 ml;chémia;1;ks;6,9;6,9
+07.09.2026;VY-0015;VY;Výroba - nastavovači;S. Hudec;SEP-SIL;Separátor silikónový 400 ml;chémia;3;ks;6,9;20,7
+07.09.2026;VY-0016;MO;Montáž;A. Vaňová;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;27;ks;0,08;2,16
+07.09.2026;VY-0017;NA;Nástrojáreň;M. Šimko;VR-HSS-05;Vrták HSS 5 mm;vŕtanie;3;ks;3,2;9,6
+07.09.2026;VY-0018;VY;Výroba - nastavovači;D. Lukáč;SEP-SIL;Separátor silikónový 400 ml;chémia;1;ks;6,9;6,9
+07.09.2026;VY-0019;MO;Montáž;K. Bartoš;RUK-TEP;Rukavice tepelne odolné;OOPP;3;pár;12,9;38,7
+07.09.2026;VY-0020;UD;Údržba strojov;R. Krajčí;FR-TK-10;Fréza tvrdokovová D10;frézy;2;ks;46;92
+07.09.2026;VY-0021;NA;Nástrojáreň;T. Rybár;OK-16-2;O-krúžok chladenia 16x2 EPDM;tesnenia;13;ks;0,1;1,3
+07.09.2026;VY-0022;UD;Údržba strojov;J. Mikuš;FR-TK-06;Fréza tvrdokovová D6;frézy;4;ks;28,5;114
+07.09.2026;VY-0023;VY;Výroba - nastavovači;F. Čech;CS-FORM;Čistič foriem sprej 400 ml;chémia;2;ks;7,8;15,6
+07.09.2026;VY-0024;VY;Výroba - nastavovači;S. Hudec;SEP-SIL;Separátor silikónový 400 ml;chémia;1;ks;6,9;6,9
+07.09.2026;VY-0025;NA;Nástrojáreň;T. Rybár;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;1;pár;1,9;1,9
+07.09.2026;VY-0026;NA;Nástrojáreň;T. Rybár;VK-04-160;Vyhadzovací kolík DIN 1530 4x160;normálie;10;ks;3,9;39
+07.09.2026;VY-0027;NA;Nástrojáreň;M. Šimko;ZT-M6;Závitník M6;vŕtanie;3;ks;11,5;34,5
+08.09.2026;VY-0028;UD;Údržba strojov;J. Mikuš;VR-HSS-05;Vrták HSS 5 mm;vŕtanie;1;ks;3,2;3,2
+08.09.2026;VY-0029;NA;Nástrojáreň;T. Rybár;FR-TK-08;Fréza tvrdokovová D8;frézy;1;ks;34;34
+09.09.2026;VY-0030;MO;Montáž;A. Vaňová;RUK-TEP;Rukavice tepelne odolné;OOPP;2;pár;12,9;25,8
+09.09.2026;VY-0031;UD;Údržba strojov;R. Krajčí;ZT-M6;Závitník M6;vŕtanie;2;ks;11,5;23
+10.09.2026;VY-0032;VY;Výroba - nastavovači;S. Hudec;RUK-TEP;Rukavice tepelne odolné;OOPP;5;pár;12,9;64,5
+10.09.2026;VY-0033;NA;Nástrojáreň;M. Šimko;BP-800;Brúsny papier P800;brúsenie;3;ks;0,52;1,56
+10.09.2026;VY-0034;UD;Údržba strojov;R. Krajčí;RUK-TEP;Rukavice tepelne odolné;OOPP;1;pár;12,9;12,9
+10.09.2026;VY-0035;MO;Montáž;A. Vaňová;RUK-TEP;Rukavice tepelne odolné;OOPP;1;pár;12,9;12,9
+11.09.2026;VY-0036;VY;Výroba - nastavovači;F. Čech;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;2;pár;1,9;3,8
+14.09.2026;VY-0037;NA;Nástrojáreň;M. Šimko;RUK-TEP;Rukavice tepelne odolné;OOPP;5;pár;12,9;64,5
+14.09.2026;VY-0038;VY;Výroba - nastavovači;F. Čech;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;1;pár;1,9;1,9
+14.09.2026;VY-0039;NA;Nástrojáreň;M. Šimko;VK-06-200;Vyhadzovací kolík DIN 1530 6x200;normálie;3;ks;4,6;13,8
+14.09.2026;VY-0040;NA;Nástrojáreň;T. Rybár;FR-TK-10;Fréza tvrdokovová D10;frézy;2;ks;46;92
+14.09.2026;VY-0041;UD;Údržba strojov;J. Mikuš;TP-TEF;Tesniaca páska teflónová;tesnenia;31;ks;0,9;27,9
+14.09.2026;VY-0042;UD;Údržba strojov;J. Mikuš;TP-TEF;Tesniaca páska teflónová;tesnenia;10;ks;0,9;9
+14.09.2026;VY-0043;MO;Montáž;A. Vaňová;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;20;ks;0,08;1,6
+14.09.2026;VY-0044;NA;Nástrojáreň;M. Šimko;TP-TEF;Tesniaca páska teflónová;tesnenia;15;ks;0,9;13,5
+14.09.2026;VY-0045;NA;Nástrojáreň;T. Rybár;VK-04-160;Vyhadzovací kolík DIN 1530 4x160;normálie;10;ks;3,9;39
+14.09.2026;VY-0046;NA;Nástrojáreň;P. Benko;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;26;ks;0,08;2,08
+14.09.2026;VY-0047;UD;Údržba strojov;J. Mikuš;FR-TK-08;Fréza tvrdokovová D8;frézy;3;ks;34;102
+15.09.2026;VY-0048;VY;Výroba - nastavovači;F. Čech;CS-FORM;Čistič foriem sprej 400 ml;chémia;1;ks;7,8;7,8
+15.09.2026;VY-0049;NA;Nástrojáreň;M. Šimko;BP-400;Brúsny papier P400;brúsenie;16;ks;0,45;7,2
+16.09.2026;VY-0050;NA;Nástrojáreň;P. Benko;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;2;pár;1,9;3,8
+17.09.2026;VY-0051;UD;Údržba strojov;J. Mikuš;FR-TK-06;Fréza tvrdokovová D6;frézy;1;ks;28,5;28,5
+17.09.2026;VY-0052;UD;Údržba strojov;R. Krajčí;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;1;pár;1,9;1,9
+17.09.2026;VY-0053;NA;Nástrojáreň;T. Rybár;SEP-SIL;Separátor silikónový 400 ml;chémia;1;ks;6,9;6,9
+17.09.2026;VY-0054;VY;Výroba - nastavovači;D. Lukáč;CS-FORM;Čistič foriem sprej 400 ml;chémia;2;ks;7,8;15,6
+17.09.2026;VY-0055;NA;Nástrojáreň;P. Benko;FR-TK-08;Fréza tvrdokovová D8;frézy;1;ks;34;34
+17.09.2026;VY-0056;VY;Výroba - nastavovači;F. Čech;CS-FORM;Čistič foriem sprej 400 ml;chémia;3;ks;7,8;23,4
+17.09.2026;VY-0057;NA;Nástrojáreň;M. Šimko;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;15;ks;0,08;1,2
+18.09.2026;VY-0058;NA;Nástrojáreň;M. Šimko;BP-800;Brúsny papier P800;brúsenie;7;ks;0,52;3,64
+18.09.2026;VY-0059;NA;Nástrojáreň;M. Šimko;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;4;pár;1,9;7,6
+18.09.2026;VY-0060;MO;Montáž;K. Bartoš;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;5;pár;1,9;9,5
+18.09.2026;VY-0061;NA;Nástrojáreň;M. Šimko;VK-04-160;Vyhadzovací kolík DIN 1530 4x160;normálie;8;ks;3,9;31,2
+18.09.2026;VY-0062;VY;Výroba - nastavovači;F. Čech;CS-FORM;Čistič foriem sprej 400 ml;chémia;2;ks;7,8;15,6
+21.09.2026;VY-0063;NA;Nástrojáreň;T. Rybár;TP-TEF;Tesniaca páska teflónová;tesnenia;32;ks;0,9;28,8
+21.09.2026;VY-0064;NA;Nástrojáreň;P. Benko;NH-10243-25051;Tlačná pružina 25 x 12,5 x 51 (modrá);normálie;6;ks;6,4;38,4
+21.09.2026;VY-0065;UD;Údržba strojov;J. Mikuš;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;35;ks;0,08;2,8
+21.09.2026;VY-0066;NA;Nástrojáreň;P. Benko;BP-400;Brúsny papier P400;brúsenie;16;ks;0,45;7,2
+21.09.2026;VY-0067;VY;Výroba - nastavovači;S. Hudec;RUK-TEP;Rukavice tepelne odolné;OOPP;4;pár;12,9;51,6
+21.09.2026;VY-0068;NA;Nástrojáreň;P. Benko;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;22;ks;0,08;1,76
+21.09.2026;VY-0069;NA;Nástrojáreň;P. Benko;SEP-SIL;Separátor silikónový 400 ml;chémia;3;ks;6,9;20,7
+21.09.2026;VY-0070;UD;Údržba strojov;R. Krajčí;FR-TK-10;Fréza tvrdokovová D10;frézy;1;ks;46;46
+21.09.2026;VY-0071;NA;Nástrojáreň;T. Rybár;CS-FORM;Čistič foriem sprej 400 ml;chémia;2;ks;7,8;15,6
+21.09.2026;VY-0072;NA;Nástrojáreň;M. Šimko;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;37;ks;0,08;2,96
+21.09.2026;VY-0073;UD;Údržba strojov;J. Mikuš;RUK-TEP;Rukavice tepelne odolné;OOPP;3;pár;12,9;38,7
+21.09.2026;VY-0074;VY;Výroba - nastavovači;F. Čech;TP-TEF;Tesniaca páska teflónová;tesnenia;6;ks;0,9;5,4
+21.09.2026;VY-0075;MO;Montáž;A. Vaňová;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;1;pár;1,9;1,9
+21.09.2026;VY-0076;NA;Nástrojáreň;P. Benko;PAS-LES;Leštiaca pasta diamantová 3 µm;brúsenie;3;ks;24;72
+22.09.2026;VY-0077;UD;Údržba strojov;J. Mikuš;SEP-SIL;Separátor silikónový 400 ml;chémia;2;ks;6,9;13,8
+22.09.2026;VY-0078;MO;Montáž;A. Vaňová;RUK-TEP;Rukavice tepelne odolné;OOPP;3;pár;12,9;38,7
+22.09.2026;VY-0079;VY;Výroba - nastavovači;F. Čech;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;1;pár;1,9;1,9
+23.09.2026;VY-0080;NA;Nástrojáreň;T. Rybár;PR-25-051;Pružina ISO 10243 25x12,5x51 modrá;normálie;4;ks;6,4;25,6
+23.09.2026;VY-0081;UD;Údržba strojov;J. Mikuš;CS-FORM;Čistič foriem sprej 400 ml;chémia;1;ks;7,8;7,8
+23.09.2026;VY-0082;NA;Nástrojáreň;M. Šimko;PAS-LES;Leštiaca pasta diamantová 3 µm;brúsenie;8;ks;24;192
+24.09.2026;VY-0083;NA;Nástrojáreň;T. Rybár;BP-800;Brúsny papier P800;brúsenie;19;ks;0,52;9,88
+24.09.2026;VY-0084;UD;Údržba strojov;R. Krajčí;ZT-M6;Závitník M6;vŕtanie;1;ks;11,5;11,5
+24.09.2026;VY-0085;MO;Montáž;A. Vaňová;RUK-TEP;Rukavice tepelne odolné;OOPP;1;pár;12,9;12,9
+25.09.2026;VY-0086;NA;Nástrojáreň;P. Benko;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;7;ks;0,08;0,56
+25.09.2026;VY-0087;VY;Výroba - nastavovači;F. Čech;OK-16-2;O-krúžok chladenia 16x2 EPDM;tesnenia;38;ks;0,1;3,8
+25.09.2026;VY-0088;NA;Nástrojáreň;M. Šimko;SEP-SIL;Separátor silikónový 400 ml;chémia;2;ks;6,9;13,8
+25.09.2026;VY-0089;VY;Výroba - nastavovači;D. Lukáč;SEP-SIL;Separátor silikónový 400 ml;chémia;3;ks;6,9;20,7
+28.09.2026;VY-0090;UD;Údržba strojov;J. Mikuš;FR-TK-10;Fréza tvrdokovová D10;frézy;3;ks;46;138
+28.09.2026;VY-0091;NA;Nástrojáreň;T. Rybár;VS-20-120;Vodiaci stĺpik 20x120;normálie;6;ks;38;228
+28.09.2026;VY-0092;VY;Výroba - nastavovači;F. Čech;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;5;pár;1,9;9,5
+28.09.2026;VY-0093;NA;Nástrojáreň;M. Šimko;PAS-LES;Leštiaca pasta diamantová 3 µm;brúsenie;19;ks;24;456
+28.09.2026;VY-0094;MO;Montáž;K. Bartoš;RUK-TEP;Rukavice tepelne odolné;OOPP;1;pár;12,9;12,9
+29.09.2026;VY-0095;UD;Údržba strojov;J. Mikuš;OK-16-2;O-krúžok chladenia 16x2 EPDM;tesnenia;23;ks;0,1;2,3
+29.09.2026;VY-0096;UD;Údržba strojov;J. Mikuš;TP-TEF;Tesniaca páska teflónová;tesnenia;31;ks;0,9;27,9
+29.09.2026;VY-0097;NA;Nástrojáreň;T. Rybár;VK-06-200;Vyhadzovací kolík DIN 1530 6x200;normálie;8;ks;4,6;36,8
+30.09.2026;VY-0098;VY;Výroba - nastavovači;D. Lukáč;CS-FORM;Čistič foriem sprej 400 ml;chémia;1;ks;7,8;7,8
+30.09.2026;VY-0099;UD;Údržba strojov;J. Mikuš;OK-16-2;O-krúžok chladenia 16x2 EPDM;tesnenia;5;ks;0,1;0,5
+30.09.2026;VY-0100;NA;Nástrojáreň;P. Benko;BP-800;Brúsny papier P800;brúsenie;20;ks;0,52;10,4
+30.09.2026;VY-0101;NA;Nástrojáreň;T. Rybár;FR-TK-10;Fréza tvrdokovová D10;frézy;1;ks;46;46
+01.10.2026;VY-0102;MO;Montáž;K. Bartoš;RUK-TEP;Rukavice tepelne odolné;OOPP;4;pár;12,9;51,6
+02.10.2026;VY-0103;VY;Výroba - nastavovači;D. Lukáč;CS-FORM;Čistič foriem sprej 400 ml;chémia;1;ks;7,8;7,8
+02.10.2026;VY-0104;UD;Údržba strojov;R. Krajčí;FR-TK-10;Fréza tvrdokovová D10;frézy;3;ks;46;138
+02.10.2026;VY-0105;VY;Výroba - nastavovači;S. Hudec;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;3;pár;1,9;5,7
+05.10.2026;VY-0106;NA;Nástrojáreň;M. Šimko;FR-TK-10;Fréza tvrdokovová D10;frézy;1;ks;46;46
+05.10.2026;VY-0107;UD;Údržba strojov;R. Krajčí;SEP-SIL;Separátor silikónový 400 ml;chémia;1;ks;6,9;6,9
+05.10.2026;VY-0108;NA;Nástrojáreň;P. Benko;VK-06-200;Vyhadzovací kolík DIN 1530 6x200;normálie;2;ks;4,6;9,2
+05.10.2026;VY-0109;VY;Výroba - nastavovači;D. Lukáč;CS-FORM;Čistič foriem sprej 400 ml;chémia;1;ks;7,8;7,8
+05.10.2026;VY-0110;UD;Údržba strojov;R. Krajčí;TP-TEF;Tesniaca páska teflónová;tesnenia;28;ks;0,9;25,2
+05.10.2026;VY-0111;NA;Nástrojáreň;M. Šimko;BP-400;Brúsny papier P400;brúsenie;4;ks;0,45;1,8
+05.10.2026;VY-0112;VY;Výroba - nastavovači;F. Čech;SEP-SIL;Separátor silikónový 400 ml;chémia;3;ks;6,9;20,7
+05.10.2026;VY-0113;NA;Nástrojáreň;T. Rybár;NH-10243-25051;Tlačná pružina 25 x 12,5 x 51 (modrá);normálie;5;ks;6,4;32
+06.10.2026;VY-0114;UD;Údržba strojov;R. Krajčí;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;15;ks;0,08;1,2
+06.10.2026;VY-0115;VY;Výroba - nastavovači;D. Lukáč;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;3;pár;1,9;5,7
+06.10.2026;VY-0116;UD;Údržba strojov;R. Krajčí;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;5;pár;1,9;9,5
+06.10.2026;VY-0117;VY;Výroba - nastavovači;S. Hudec;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;3;pár;1,9;5,7
+06.10.2026;VY-0118;NA;Nástrojáreň;P. Benko;PAS-LES;Leštiaca pasta diamantová 3 µm;brúsenie;9;ks;24;216
+06.10.2026;VY-0119;VY;Výroba - nastavovači;S. Hudec;CS-FORM;Čistič foriem sprej 400 ml;chémia;2;ks;7,8;15,6
+06.10.2026;VY-0120;VY;Výroba - nastavovači;S. Hudec;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;3;pár;1,9;5,7
+07.10.2026;VY-0121;VY;Výroba - nastavovači;D. Lukáč;CS-FORM;Čistič foriem sprej 400 ml;chémia;1;ks;7,8;7,8
+08.10.2026;VY-0122;VY;Výroba - nastavovači;S. Hudec;SEP-SIL;Separátor silikónový 400 ml;chémia;3;ks;6,9;20,7
+09.10.2026;VY-0123;NA;Nástrojáreň;P. Benko;RUK-TEP;Rukavice tepelne odolné;OOPP;5;pár;12,9;64,5
+09.10.2026;VY-0124;UD;Údržba strojov;J. Mikuš;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;4;pár;1,9;7,6
+12.10.2026;VY-0125;UD;Údržba strojov;J. Mikuš;FR-TK-06;Fréza tvrdokovová D6;frézy;2;ks;28,5;57
+12.10.2026;VY-0126;NA;Nástrojáreň;P. Benko;OK-16-2;O-krúžok chladenia 16x2 EPDM;tesnenia;23;ks;0,1;2,3
+12.10.2026;VY-0127;VY;Výroba - nastavovači;F. Čech;SEP-SIL;Separátor silikónový 400 ml;chémia;3;ks;6,9;20,7
+12.10.2026;VY-0128;MO;Montáž;A. Vaňová;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;5;pár;1,9;9,5
+12.10.2026;VY-0129;UD;Údržba strojov;R. Krajčí;FR-TK-06;Fréza tvrdokovová D6;frézy;2;ks;28,5;57
+12.10.2026;VY-0130;VY;Výroba - nastavovači;S. Hudec;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;35;ks;0,08;2,8
+12.10.2026;VY-0131;VY;Výroba - nastavovači;S. Hudec;RUK-TEP;Rukavice tepelne odolné;OOPP;3;pár;12,9;38,7
+13.10.2026;VY-0132;UD;Údržba strojov;R. Krajčí;ZT-M6;Závitník M6;vŕtanie;2;ks;11,5;23
+14.10.2026;VY-0133;VY;Výroba - nastavovači;F. Čech;RUK-TEP;Rukavice tepelne odolné;OOPP;5;pár;12,9;64,5
+14.10.2026;VY-0134;VY;Výroba - nastavovači;D. Lukáč;RUK-TEP;Rukavice tepelne odolné;OOPP;5;pár;12,9;64,5
+15.10.2026;VY-0135;VY;Výroba - nastavovači;F. Čech;SEP-SIL;Separátor silikónový 400 ml;chémia;2;ks;6,9;13,8
+15.10.2026;VY-0136;MO;Montáž;A. Vaňová;OK-16-2;O-krúžok chladenia 16x2 EPDM;tesnenia;30;ks;0,1;3
+16.10.2026;VY-0137;VY;Výroba - nastavovači;D. Lukáč;RUK-TEP;Rukavice tepelne odolné;OOPP;3;pár;12,9;38,7
+16.10.2026;VY-0138;NA;Nástrojáreň;T. Rybár;VK-06-200;Vyhadzovací kolík DIN 1530 6x200;normálie;3;ks;4,6;13,8
+16.10.2026;VY-0139;UD;Údržba strojov;J. Mikuš;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;1;pár;1,9;1,9
+16.10.2026;VY-0140;UD;Údržba strojov;R. Krajčí;SEP-SIL;Separátor silikónový 400 ml;chémia;1;ks;6,9;6,9
+19.10.2026;VY-0141;VY;Výroba - nastavovači;D. Lukáč;RUK-TEP;Rukavice tepelne odolné;OOPP;2;pár;12,9;25,8
+19.10.2026;VY-0142;UD;Údržba strojov;J. Mikuš;RUK-TEP;Rukavice tepelne odolné;OOPP;1;pár;12,9;12,9
+19.10.2026;VY-0143;MO;Montáž;A. Vaňová;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;4;pár;1,9;7,6
+19.10.2026;VY-0144;NA;Nástrojáreň;P. Benko;SEP-SIL;Separátor silikónový 400 ml;chémia;3;ks;6,9;20,7
+19.10.2026;VY-0145;NA;Nástrojáreň;T. Rybár;VS-20-120;Vodiaci stĺpik 20x120;normálie;7;ks;38;266
+20.10.2026;VY-0146;VY;Výroba - nastavovači;S. Hudec;CS-FORM;Čistič foriem sprej 400 ml;chémia;1;ks;7,8;7,8
+20.10.2026;VY-0147;UD;Údržba strojov;J. Mikuš;ZT-M6;Závitník M6;vŕtanie;2;ks;11,5;23
+21.10.2026;VY-0148;MO;Montáž;A. Vaňová;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;4;pár;1,9;7,6
+21.10.2026;VY-0149;MO;Montáž;K. Bartoš;RUK-TEP;Rukavice tepelne odolné;OOPP;3;pár;12,9;38,7
+22.10.2026;VY-0150;VY;Výroba - nastavovači;D. Lukáč;SEP-SIL;Separátor silikónový 400 ml;chémia;3;ks;6,9;20,7
+22.10.2026;VY-0151;NA;Nástrojáreň;T. Rybár;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;27;ks;0,08;2,16
+22.10.2026;VY-0152;VY;Výroba - nastavovači;D. Lukáč;CS-FORM;Čistič foriem sprej 400 ml;chémia;1;ks;7,8;7,8
+22.10.2026;VY-0153;NA;Nástrojáreň;M. Šimko;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;20;ks;0,08;1,6
+23.10.2026;VY-0154;NA;Nástrojáreň;M. Šimko;VK-04-160;Vyhadzovací kolík DIN 1530 4x160;normálie;2;ks;3,9;7,8
+23.10.2026;VY-0155;UD;Údržba strojov;R. Krajčí;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;1;pár;1,9;1,9
+26.10.2026;VY-0156;MO;Montáž;A. Vaňová;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;4;pár;1,9;7,6
+26.10.2026;VY-0157;VY;Výroba - nastavovači;F. Čech;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;3;pár;1,9;5,7
+26.10.2026;VY-0158;UD;Údržba strojov;R. Krajčí;CS-FORM;Čistič foriem sprej 400 ml;chémia;3;ks;7,8;23,4
+26.10.2026;VY-0159;NA;Nástrojáreň;P. Benko;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;18;ks;0,08;1,44
+26.10.2026;VY-0160;NA;Nástrojáreň;T. Rybár;NH-10243-25051;Tlačná pružina 25 x 12,5 x 51 (modrá);normálie;7;ks;6,4;44,8
+26.10.2026;VY-0161;UD;Údržba strojov;R. Krajčí;TP-TEF;Tesniaca páska teflónová;tesnenia;21;ks;0,9;18,9
+26.10.2026;VY-0162;UD;Údržba strojov;J. Mikuš;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;1;pár;1,9;1,9
+26.10.2026;VY-0163;UD;Údržba strojov;J. Mikuš;ZT-M6;Závitník M6;vŕtanie;1;ks;11,5;11,5
+28.10.2026;VY-0164;VY;Výroba - nastavovači;S. Hudec;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;2;pár;1,9;3,8
+28.10.2026;VY-0165;NA;Nástrojáreň;P. Benko;NH-10243-25051;Tlačná pružina 25 x 12,5 x 51 (modrá);normálie;8;ks;6,4;51,2
+28.10.2026;VY-0166;VY;Výroba - nastavovači;D. Lukáč;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;3;pár;1,9;5,7
+29.10.2026;VY-0167;VY;Výroba - nastavovači;S. Hudec;RUK-TEP;Rukavice tepelne odolné;OOPP;2;pár;12,9;25,8
+29.10.2026;VY-0168;NA;Nástrojáreň;T. Rybár;OK-12-2;O-krúžok chladenia 12x2 EPDM;tesnenia;40;ks;0,08;3,2
+29.10.2026;VY-0169;UD;Údržba strojov;R. Krajčí;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;2;pár;1,9;3,8
+30.10.2026;VY-0170;NA;Nástrojáreň;M. Šimko;OK-16-2;O-krúžok chladenia 16x2 EPDM;tesnenia;21;ks;0,1;2,1
+30.10.2026;VY-0171;VY;Výroba - nastavovači;D. Lukáč;TP-TEF;Tesniaca páska teflónová;tesnenia;12;ks;0,9;10,8
+30.10.2026;VY-0172;UD;Údržba strojov;J. Mikuš;VR-HSS-05;Vrták HSS 5 mm;vŕtanie;1;ks;3,2;3,2
+30.10.2026;VY-0173;NA;Nástrojáreň;T. Rybár;RUK-TEP;Rukavice tepelne odolné;OOPP;1;pár;12,9;12,9
+30.10.2026;VY-0174;VY;Výroba - nastavovači;F. Čech;RUK-TEP;Rukavice tepelne odolné;OOPP;4;pár;12,9;51,6
+02.11.2026;VY-0175;VY;Výroba - nastavovači;D. Lukáč;RUK-PRAC;Rukavice pracovné nitrilové;OOPP;1;pár;1,9;1,9
+02.11.2026;VY-0176;NA;Nástrojáreň;P. Benko;FR-TK-08;Fréza tvrdokovová D8;frézy;1;ks;34;34
+02.11.2026;VY-0177;UD;Údržba strojov;J. Mikuš;RUK-TEP;Rukavice tepelne odolné;OOPP;1;pár;12,9;12,9
+02.11.2026;VY-0178;NA;Nástrojáreň;T. Rybár;OK-16-2;O-krúžok chladenia 16x2 EPDM;tesnenia;30;ks;0,1;3
+02.11.2026;VY-0179;NA;Nástrojáreň;T. Rybár;VS-20-120;Vodiaci stĺpik 20x120;normálie;9;ks;38;342
+02.11.2026;VY-0180;NA;Nástrojáreň;P. Benko;NH-10243-25051;Tlačná pružina 25 x 12,5 x 51 (modrá);normálie;3;ks;6,4;19,2
